@@ -1,5 +1,5 @@
-baseurl = "https://androidnews.gitlab.io"
-title = "Android News Update"
+baseurl = "https://androidsmart.github.io"
+title = "Android Smart"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
@@ -36,7 +36,7 @@ buildFuture = true
   author = ""
   favicon = ""
   site_logo = ""
-  description = "Read the latest news about Android | Custom Rom | Kernel | Tutorial | Magisk Module | kernelsu"
+  description = "Android Smart news about Android | Custom Rom | Kernel | Tutorial | Magisk Module | kernelsu"
   recent_posts_number = 3
 
 colorScheme = "auto"
