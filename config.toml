@@ -1,0 +1,56 @@
+baseurl = "https://androidnews.gitlab.io"
+title = "Android News Update"
+contentdir    = "content"
+layoutdir     = "layouts"
+publishdir    = "public"
+languageCode = "en"
+resourceDir = "../resources"
+DefaultContentLanguage = "en"
+Paginate     = 1
+theme = "bootstrap-5.3"
+
+PygmentsCodeFences = true
+PygmentsStyle      = "monokai"
+
+
+keywords = [
+    "Android", "Custom Rom", "Magisk",
+    "magisk module", "ksu", "kernelsu", "kernel", "android experience", 
+    "Tutorial Android", "android news", "best magisk module"
+  ]
+
+buildFuture = true
+
+[author]
+     name = "wahyu6070"
+     
+[sitemap]
+  changefreq = "always"
+  priority = 0.8
+  filename = "sitemap.xml"
+[permalinks]
+  news     = ":section/:year/:month/:day/:slug"
+  download     = "/d/:year:month:day/:slug"
+[params]
+  text_color = ""
+  author = ""
+  favicon = ""
+  site_logo = ""
+  description = "Read the latest news about Android | Custom Rom | Kernel | Tutorial | Magisk Module | kernelsu"
+  recent_posts_number = 3
+
+colorScheme = "auto"
+# Hide the toggle button, along with the associated vertical divider
+hideColorSchemeToggle = false
+# Series see also post count
+maxSeeAlsoItems = 5
+# Custom CSS
+customCSS = []
+# Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
+customSCSS = []
+
+# Custom JS
+customJS = []
+
+# Custom remote JS files
+customRemoteJS = []
