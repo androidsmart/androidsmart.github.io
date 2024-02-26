@@ -7,9 +7,6 @@ categories: [rom]
 tags      : [magisk, custom]
 keywords  : [magisk module, mi 13t, module gaming, Kernelsu]
 author : wahyu6070
-opengraph:
-toc    :
-excerpt:
 ---
 
 
