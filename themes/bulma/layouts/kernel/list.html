@@ -1,9 +1,0 @@
-{{ define "kernel" }}
-{{ $paginator := .Paginate (where .Pages "Type" "posts") }}
-{{ template "_internal/pagination.html" . }}
-{{ range $paginator.Pages }}
-  {{ .Title }}
-{{ end }}
-
-{{ partial "list.html" . }}
-{{ end }}
