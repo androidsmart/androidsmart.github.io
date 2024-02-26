@@ -28,7 +28,7 @@ author : MrTopiA
 • Comes on Positron Kernel ( KSU Support by default )
 
 ## Source Changelog
-te :- 23/02/2024
+
 • Initial Release Build (Hellix-v2.0) based on Feb patch A14 QPR1 (tag: r26)
 
 • FireDroid currently fully based on AOSP
