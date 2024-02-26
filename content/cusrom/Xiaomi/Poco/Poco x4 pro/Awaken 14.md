@@ -5,7 +5,7 @@ date   : 2024-02-26T09:17:35+07:00
 categories: [rom]
 tags      : [pocox4pro]
 keywords  : [poco x4 pro]
-author : @isaiahscape
+author : isaiahscape
 ---
 
 awakenOS Ursa Minor 4.3 for Poco X4 Pro / Redmi Note 11 Pro 5G (veux)
