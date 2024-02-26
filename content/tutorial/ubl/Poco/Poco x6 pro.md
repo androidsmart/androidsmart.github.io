@@ -90,8 +90,9 @@ fastboot flash boot_b twrp.img
 
 [Adb Fastboot](https://sourceforge.net/projects/wahyu6070-project-android/files/Tools/surya/adb-setup-1.4.3.zip/download)
 
-[magisk v26.4](https://github.com/topjohnwu/Magisk/releases)
+[magisk v26.4](https://github.com/topjohnwu/Magisk/releases/tag/v26.4)
 
 [MI unlock Tool](https://en.miui.com/unlock/download_en.html)
 
-[TWRP](https://thecubexguide.com/litespeed-web-server-vs-nginx/)
+twrp is coming soon
+
