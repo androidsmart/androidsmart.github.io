@@ -1,5 +1,5 @@
 ---
-type   : rom
+type   : cusrom
 title  : Download FireDroid Hellix Android 14 Official Poco X4 Pro | Redmi note 11 pro plus
 date   : 2024-02-26T09:17:35+07:00
 categories: [rom]
