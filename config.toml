@@ -29,7 +29,7 @@ buildFuture = true
   filename = "sitemap.xml"
 [permalinks]
   news     = ":section/:year/:month/:day/:slug"
-  download     = "/d/:year:month:day/:slug"
+  download     = "/d/:year:month/:slug"
 [params]
   text_color = ""
   author = ""

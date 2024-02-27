@@ -1,12 +1,43 @@
 {{ partial "meta/main.html" . }}
 <head>
 {{ partial "head.html" . }}
-<script type='text/javascript' src='//payoffyes.com/00/a6/35/00a635700798eb4b4658815076d3fb4a.js'></script>
+
+<!-- popunder adstera -->
+<script type='text/javascript' src='//payoffyes.com/7e/66/25/7e6625ec785b151c8182a3b7335a439e.js'></script>
+<script type='text/javascript' src='//payoffyes.com/7e/66/25/7e6625ec785b151c8182a3b7335a439e.js'></script>
+
 </head>
 <body>
-{{ partial "navbar.html" . }}
-{{ partial "single.html" . }}
-{{ partial "footer.html" }}
-{{ partial "js.html" . }} 
+{{ partial "navbar.html"  . }}
+<main class="container">
+<article>
+    
+<!-- social bar adstera -->
+<!-- <script type='text/javascript' src='//pl22042766.toprevenuegate.com/c7/ce/ff/c7ceffb6b5aa7eda59605399ccd7a420.js'></script> -->
+
+
+<p class="service-text textku">Name : {{ .Title }}</p>
+<p class="service-text textku">Type : {{ .Params.Catagories }}</p>
+
+<h2 style="padding-top: 0px;">Download Link</h2>
+<p style="text-align: center;">Click and Back 8x, then close browser and reopen the download link
+</p>
+
+<a href="{{ .Params.link }}">
+<img style="text-align: center; width: 150px; height: auto;" src="/img/download.png" alt="download">
+</a>
+
+<h2> Decription</h2>
+<p>
+{{- if .Description -}}
+	{{ .Description }}
+{{- else -}}
+	{{ .Summary }}
+{{ end }}
+</p>
+
+
+{{ partial "footer.html" . }}
+</main>
 </body>
 </html>
