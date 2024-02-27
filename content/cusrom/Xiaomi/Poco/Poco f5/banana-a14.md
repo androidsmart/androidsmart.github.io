@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Download Custom Rom BananaDroid Android 14 Poco F5 Official
+title  : Download Rom BananaDroid Android 14 Poco F5 Official
 date   : 2024-02-27T09:17:35+07:00
 slug   : bananadroid-a14-marble
 categories: [rom]
