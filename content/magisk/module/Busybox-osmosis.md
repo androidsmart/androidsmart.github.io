@@ -7,9 +7,6 @@ categories: [magisk module]
 tags      : [magisk, module]
 keywords  : [magisk module, busybox android, osm0sis, Kernelsu]
 author : wahyu6070
-opengraph:
-toc    :
-excerpt:
 ---
 
 

@@ -28,7 +28,7 @@ buildFuture = true
   priority = 0.8
   filename = "sitemap.xml"
 [permalinks]
-  news     = ":section/:year/:month/:day/:slug"
+  news     = ":section/:year/:month/:slug"
   download     = "/d/:year:month/:slug"
 [params]
   text_color = ""
