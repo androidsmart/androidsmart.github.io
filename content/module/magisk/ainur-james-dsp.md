@@ -1,8 +1,7 @@
 ---
-type   : magisk
-title  : Viper4Android FX Magisk Module For Audio Equalizer Android
-date   : 2023-12-24T09:17:35+07:00
-slug   : viper4androidfx
+type   : module
+title  : Ainur James Dsp
+date   : 2024-02-24T09:17:35+07:00
 ads    : true
 categories: [magisk module]
 tags      : [magisk, module, viper4androidfx]

@@ -1,5 +1,5 @@
 ---
-type   : magisk
+type   : module
 title  : Magneter module optimizer performance android
 date   : 2023-12-29T09:17:35+07:00
 slug   : magneter

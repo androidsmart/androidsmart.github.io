@@ -1,5 +1,5 @@
 ---
-type   : magisk
+type   : module
 title  : Advanced Charging Controller (ACC) is a Magisk module
 date   : 2023-12-01T09:17:35+07:00
 slug   : acc

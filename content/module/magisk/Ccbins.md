@@ -1,5 +1,5 @@
 ---
-type   : magisk
+type   : module
 title  : Cross Compiled Binaries (ccbins) Magisk Module
 date   : 2023-12-01T09:17:35+07:00
 slug   : ccbins

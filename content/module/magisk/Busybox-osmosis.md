@@ -1,5 +1,5 @@
 ---
-type   : magisk
+type   : module
 title  : Busybox Android By osm0sis Magisk Modules
 date   : 2023-12-01T09:17:35+07:00
 slug   : busybox-osm0sis

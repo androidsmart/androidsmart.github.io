@@ -1,5 +1,5 @@
 ---
-type   : magisk
+type   : module
 title  : God Speed Mode Magisk Module For Tweaks Android
 date   : 2023-12-24T09:17:35+07:00
 slug   : god-speed-mode
