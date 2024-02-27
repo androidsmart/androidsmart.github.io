@@ -27,3 +27,23 @@ This is a reformed audio effect digital signal processing engine for Android. Th
 --> Samples per channels should less than 1000000* for stereo
 --> Samples per channels should less than 400000* for full stereo
 --> Impulse response file support: V4A IRS, FLAC, WAV
+
+## Install
+Install via Magisk Manager, Flashfire, or recovery (Magisk or System install will detect automatically)
+
+## Uninstall
+- Delete module in Magisk Manager
+- OR Flash module in recovery
+
+## Notes
+Convolver have been tested working even in stereo impulse response with 16121304 samples per channels on Snapdragon 820
+
+If you look at the source code from Java part, you will find some are similar with Viper4Android, but this is not true.
+
+Viper4Android only open source it's interface, their core drivers source code have never been released.
+
+For convenient sake, I copy some interface code to accelerate my development.
+
+## Download
+[pling](https://androidsmart.github.io/d/202402/ainur-james-dsp/)
+
