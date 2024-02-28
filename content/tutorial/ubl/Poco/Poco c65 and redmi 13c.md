@@ -70,6 +70,7 @@ The final step is to run the Mi Unlock Tool on your PC and unlock the bootloader
 5. reboot recovery
 
 ### Using fastboot
+
 1. Make folder TWRP in your windows
 
 2. Copy your boot.img that you are currently using..., for example, I am on miui 14.0.7 Global so I have to download ROM 14.0.7 Global from https://xiaomifirmwareupdater.com and search device Redmi 13C and search that version miui you currently using and make sure the file is .tgz, not .zip
