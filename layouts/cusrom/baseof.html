@@ -3,11 +3,9 @@
 {{ partial "head.html" . }}
 </head>
 <body>
-	{{ partial "navbar.html" . }}
-
-      {{ block "cusrom" . }}
- 		{{ end }}
-
+{{ partial "navbar.html" . }}
+{{ block "cusrom" . }}
+{{ end }}
 {{ partial "footer.html" }}
 {{ partial "js.html" . }} 
 </body>

@@ -29,7 +29,13 @@ buildFuture = true
   filename = "sitemap.xml"
 [permalinks]
   news     = ":section/:year/:month/:slug"
-  download     = "/d/:year:month/:slug"
+  download   = "/d/:year:month/:slug"
+  cusrom     = "/cusrom/:year:month/:slug"
+  kernel     = "/kernel/:year:month/:slug"
+  module     = "/module/:year:month/:slug"
+  tutorial   = "/tutorial/:year:month/:slug"
+  etc        = "/etc/:year:month/:slug"
+  
 [params]
   text_color = ""
   author = ""
