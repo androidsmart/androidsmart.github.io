@@ -1,5 +1,5 @@
 ---
-type   : rom
+type   : cusrom
 title  : Nusatara Project LTS Android 10 Asus Zenfone Max Pro M1
 date   : 2023-12-01T09:17:35+07:00
 slug   : Nusantara project android 10
