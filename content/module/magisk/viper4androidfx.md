@@ -65,6 +65,7 @@ Here are some features that users can enjoy:
 
 ## Note
 
+
 - Don't install other audio equalizers such as *d0lby*, *dts audio* and others.  this is going to be a clash.
 - For Android 8+ versions, use viper4android fx version v2.7.
 - Currently, at least when this article was written, it does not support the installation of the KSU module.
@@ -76,12 +77,20 @@ Here are some features that users can enjoy:
 - This page is not official from viper4android fx, so we do not create and own the rights to this project.
 - To make it work, make sure you install the driver correctly, because this is an important component.
 
+
 ## Conclusion
 
 *Viper4Android FX*, even though the main developer is no longer actively updating this project, in fact this project is still being continued by several @xda developers and updating it from time to time.  and viper4android fx is one of the most popular Android audio equalizers that you must try.
 
 
 ## Link
+
+[Apk with material You](https://github.com/AndroidAudioMods/ViPER4Android/releases/tag/v0.6.2)
+
+[Driver](https://github.com/AndroidAudioMods/ViPER4Android/releases/tag/v0.6.1) magisk or ksu flashable.
+
+### Old
+
 [Apk Magisk Module](https://zackptg5.com/downloads/v4afx_v2.7.2.1.zip)
 
 [Driver Magisk Module](https://zackptg5.com/downloads/v4afx-rootless_10.21.2020.zip)

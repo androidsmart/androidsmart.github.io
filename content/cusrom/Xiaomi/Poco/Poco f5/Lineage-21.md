@@ -10,7 +10,7 @@ author : gotenksIN
 ---
 
 
-LineageOS is one of the most popular custom ROMs for Android devices, offering a clean, fast, and customizable experience. LineageOS 21 is based on Android 13, the latest version of the operating system that brings new features, security updates, and performance improvements.
+LineageOS is one of the most popular custom ROMs for Android devices, offering a clean, fast, and customizable experience. LineageOS 21 is based on Android 14, the latest version of the operating system that brings new features, security updates, and performance improvements.
 
 In this article, we will review LineageOS 21 for POCO F5, a high-end, mid-range smartphone from Xiaomi that was released in 2023. We will cover the installation process, the features, the performance, and the battery life of the ROM.
 
