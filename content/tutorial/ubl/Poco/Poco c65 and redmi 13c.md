@@ -62,23 +62,23 @@ The final step is to run the Mi Unlock Tool on your PC and unlock the bootloader
 - Click on Reboot phone to restart your device.
 
 ## Install Twrp
-### A. From older version/other custom recovery
+### From older version/other custom recovery
 1. copy New twrp.img to to your phone
 2. reboot to custom recovery
 3. Press Install, Press  Install Image, then select the new twrp.img file that you copied and pasted on your phone choose Install Recovery Ramdisk and swipe to confirm flash and wait until completed
 4. Flash magisk.zip if you use magisk
 5. reboot recovery
 
-### B. Using fastboot
-1. make folder TWRP in your windows
+### Using fastboot
+1. Make folder TWRP in your windows
 2. Copy your boot.img that you are currently using..., for example, I am on miui 14.0.7 Global so I have to download ROM 14.0.7 Global from https://xiaomifirmwareupdater.com and search device Redmi 13C and search that version miui you currently using and make sure the file is .tgz, not .zip
 3. Extract rom miui that and enter folder images and search boot.img and copy that boot.img to folder TWRP you make and copy to microsd card or usb otg
 4. copy file TWRP-3.7.1_12-UNOFFICIAL-gale.img to microsd card or usb otg
 5. make sure you successfully installing platfrom tools.zip into your folder TWRP
 6. click your status bar windows explorer type : cmd.exe
 7. type ( adb reboot bootloader ) if you from homescreen
-8. type again ( fastboot flash boot TWRP-3.7.1_12-UNOFFICIAL-gale.img ) wait until completed
-9. type again ( fastboot reboot recovery ) wait until entered TWRP Menu
+8. type again ``fastboot flash boot TWRP-3.7.1_12-UNOFFICIAL-gale.img`` wait until completed
+9. type again ``fastboot reboot recovery`` wait until entered TWRP Menu
 10. in TWRP Menu Press Install Select the boot.img file that you copied and pasted on the microSD card or USB OTG choose Boot and swipe to confirm flash and wait until completed
 11. press back button in twrp TWRP Menu Press Install Select the TWRP-3.7.1_12-UNOFFICIAL-gale.img file that you copied and pasted on the microSD card or USB OTG choose Install Recovery Ramdisk and swipe to confirm flash and wait until completed
 12. Reboot System
