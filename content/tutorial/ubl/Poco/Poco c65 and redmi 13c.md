@@ -1,6 +1,6 @@
 ---
 type   : tutorial
-title  : How to Unlock Bootloader And Install Twrp on Xiaomi REDMI 13C/Poco C65 | Redmi 13C
+title  : How to Unlock Bootloader And Install Twrp on Xiaomi REDMI 13C/Poco C65
 slug   : ubl-twrp-gale-gust
 date   : 2024-02-28T09:17:35+07:00
 categories: [tutorial]
