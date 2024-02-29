@@ -1,6 +1,7 @@
 ---
 type   : cusrom
 title  : Download Awaken Os Android 14 unofficial Poco X4 Pro | Redmi note 11 pro plus
+slug   : awakaen-a14
 date   : 2024-02-26T09:17:35+07:00
 categories: [rom]
 tags      : [pocox4pro]
