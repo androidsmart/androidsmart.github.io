@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Download CrDroid Android 14 | Poco M4 Pro 4G / Redmi Note 11S 4G
+title  : Download CrDroid Android 14 Poco M4 Pro 4G / Redmi Note 11S 4G
 slug   : crdroid-fleur
 date   : 2024-02-28T09:17:35+07:00
 categories: [rom]

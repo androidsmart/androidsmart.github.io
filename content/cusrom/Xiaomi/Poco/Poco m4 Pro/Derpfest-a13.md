@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Download Derpfest Android 13 | Poco M4 Pro 4G / Redmi Note 11S 4G
+title  : Download Derpfest Android 13 Poco M4 Pro 4G / Redmi Note 11S 4G
 slug   : derpfest-fleur
 date   : 2024-02-28T09:17:35+07:00
 categories: [rom]

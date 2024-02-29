@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Download Cherish OS Android 13 | Poco M4 Pro 4G / Redmi Note 11S 4G
+title  : Download Cherish OS Android Poco M4 Pro 4G / Redmi Note 11S 4G
 slug   : cherish-a13
 date   : 2024-02-28T09:17:35+07:00
 categories: [rom]
