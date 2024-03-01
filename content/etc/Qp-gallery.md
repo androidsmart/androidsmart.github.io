@@ -1,7 +1,7 @@
 ---
 type   : cusrom
 title  : QuickPic Gallery Mod
-date   : 2024-03-02T09:17:35+07:00
+date   : 2024-03-01T09:17:35+07:00
 slug   : quickpic-gallery
 categories: [apk]
 tags      : [universal]
