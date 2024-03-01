@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Adb Fastboot Tools Download Latert version
+title  : Adb Fastboot Tools Download Latest version
 date   : 2024-03-01T09:17:35+07:00
 slug   : adb-fastboot
 categories: [tool]
