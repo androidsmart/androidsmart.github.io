@@ -18,5 +18,5 @@ Asus ROG Phone 6 Boot animation port by wahyu6070
 
 
 ## Download Link
-[Click Here](https://androidsmart.github.io/d/202402/rog5/)
+[Click Here](https://androidsmart.github.io/d/202402/rog6/)
 
