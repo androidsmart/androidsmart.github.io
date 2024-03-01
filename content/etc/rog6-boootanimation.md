@@ -1,7 +1,7 @@
 ---
 type   : cusrom
 title  : Asus ROG Phone 6 Bootanimation
-date   : 2024-02-30T09:17:35+07:00
+date   : 2024-03-01T09:17:35+07:00
 slug   : rog6-bootanimation
 categories: [rom]
 tags      : [universal]
