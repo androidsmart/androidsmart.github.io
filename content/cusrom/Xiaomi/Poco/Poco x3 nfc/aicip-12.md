@@ -4,8 +4,8 @@ title  :  Download ROM AICP Android 12.1 POCO X3 NFC
 slug   : aicp-surya-12
 date   : 2024-03-02T09:17:35+07:00
 categories: [rom]
-tags      : [pocox4pro]
-keywords  : [poco x4 pro]
+tags      : [pocox3]
+keywords  : [poco x3]
 author : isaiahscape
 ---
 
@@ -30,5 +30,6 @@ Download Custom Rom AICP Android 12.1 POCO X3 NFC Surya
 
 ## Download Link
 [Download ROM](https://dwnld.aicp-rom.com/device/surya/WEEKLY/aicp_surya_s-17.1-WEEKLY-20240301.zip)
+
 [Gapps](https://litegapps.github.io)
 
