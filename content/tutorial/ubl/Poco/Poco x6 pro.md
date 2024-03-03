@@ -1,6 +1,7 @@
 ---
 type   : tutorial
 title  : How to Unlock Bootloader And Install Twrp on Xiaomi Poco X6 pro
+slug   : ubl-pocox6pro
 date   : 2024-02-27T09:17:35+07:00
 categories: [tutorial]
 tags      : [ubl, twrp]
