@@ -1,7 +1,7 @@
 ---
 type   : cusrom
 title  :  Download ROM Firedroid Android 14 POCO X3 NFC
-slug   : aicp-surya-12
+slug   : firedroid-surya-14
 date   : 2024-03-02T09:17:35+07:00
 categories: [rom]
 tags      : [pocox3]
