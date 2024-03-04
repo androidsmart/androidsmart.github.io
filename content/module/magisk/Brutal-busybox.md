@@ -23,3 +23,10 @@ Have a deep understanding of Busybox, its functionalities, and the potential ris
 Possess advanced technical expertise to navigate the potential complexities and troubleshoot any issues that may arise.
 Have a specific need for the features or optimizations claimed by Brutal Busybox that cannot be achieved through other, safer methods.
 For the vast majority of Android users, the potential benefits of Brutal Busybox are outweighed by the significant risks involved. It's generally safer and more reliable to stick with the standard Busybox or explore alternative solutions that don't require root access and modifications to your device's system files.
+
+## Notes
+- Install in magisk or ksu
+
+## Link
+
+[Click here](https://androidsmart.github.io/d/202403/brutal-busybox/)
