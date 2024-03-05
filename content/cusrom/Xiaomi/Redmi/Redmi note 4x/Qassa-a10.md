@@ -27,6 +27,7 @@ Download Custom Rom Qassa android 10 for xiaomi redmi note 4x.
 ## Download Link
 
 [ROM](https://sourceforge.net/projects/keepqassa/files/%23keepQASSA/mido/)
+
 [How To Install](https://telegra.ph/Additional-Notes-for-Qassa-08-23)
 
 
