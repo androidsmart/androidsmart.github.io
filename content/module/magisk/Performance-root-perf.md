@@ -1,6 +1,6 @@
 ---
 type   : blog
-title  : Performance Root Perf+
+title  : Performance Root Perf+ magisk ksu module
 date   : 2024-03-05T09:17:35+07:00
 categories: [magisk module]
 tags      : [magisk, module]
