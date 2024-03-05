@@ -5,11 +5,11 @@ date   : 2024-03-05T09:17:35+07:00
 slug   : droidx-a14-mido
 categories: [rom]
 tags      : [mido]
-keywords  : [poco F5]
-author : kssrao13882
+keywords  : [redmi note 4x]
+author : wahyu6070
 ---
 
-Download DroidX android 14 poco f5 official.
+Download Custom Rom DroidX android 14 for xiaomi redmi note 4x.
 
 ## Changelog
 - Initial DroidX-UI v2.0 based on Android 14 release.
@@ -91,6 +91,7 @@ You need to flash your old recovery and Wipe and Format device ,Flash ROM again.
 
 ## Download Link
 [Gapps](https://t.me/wahyu6070files/17?single)
+
 [Vanilla](https://t.me/wahyu6070files/17?single)
 
 
