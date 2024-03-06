@@ -110,7 +110,7 @@ Use the built-in Updater ("Settings > System > Updater") to apply OTA updates as
 - Rom is force encrypted by default
 
 ## Credits
-# Thanks to @xyz_sourav for micam
+Thanks to @xyz_sourav for micam
 
 By @Legendleo90
 
