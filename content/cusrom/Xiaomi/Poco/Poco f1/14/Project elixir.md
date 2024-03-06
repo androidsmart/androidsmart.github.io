@@ -66,4 +66,5 @@ By @wisky_rum
 
 ## Download Link
 [Download ROM](https://www.pling.com/p/1633538/)
+
 [How To Install](https://github.com/ProjectElixir-Devices/Wiki/blob/UNO/beryllium.md)
