@@ -40,4 +40,5 @@ Additionally, to you developers out there - any repository that is not core-plat
 
 ## 
 [Vanilla](https://sourceforge.net/projects/munch-los/files/lineage-21.0-20240215-VANILLA-munch.zip/download)
+
 [Gapps](https://sourceforge.net/projects/munch-los/files/lineage-21.0-20240215-GAPPS-munch.zip/download)
