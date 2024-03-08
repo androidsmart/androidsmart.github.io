@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Download Rom Superior Extended Android 14 Redmi 9 pro Miatol
+title  : Download Rom Superior Extended Android Note 14 Redmi 9 pro Miatol
 date   : 2024-03-08T09:17:35+07:00
 slug   : superiorextended-a14-miatol
 categories: [rom]

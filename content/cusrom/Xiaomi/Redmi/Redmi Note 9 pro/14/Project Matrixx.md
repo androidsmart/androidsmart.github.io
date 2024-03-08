@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Download Rom Project Matrixx Android 14 Redmi 9 pro
+title  : Download Rom Project Matrixx Android 14 Redmi Note 9 pro
 date   : 2024-03-08T09:17:35+07:00
 slug   : matrixx-a14-miatol
 categories: [rom]
