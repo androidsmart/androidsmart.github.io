@@ -14,3 +14,4 @@ ADB and Fastboot are two tools that allow you to communicate with Android device
 ## Download Link
 [Windows](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)
 
+[MAC](https://dl.google.com/android/repository/platform-tools-latest-darwin.zip)
