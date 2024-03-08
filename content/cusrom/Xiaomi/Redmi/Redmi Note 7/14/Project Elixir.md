@@ -14,9 +14,9 @@ Download Custom Rom Project Elixir android 14 Xiaomi redmi note 7 Lavender.
 
 ![Installation Guide For Project Elixir](https://i.imgur.com/42LxtAl.png)
 
-### Installation Guide For Project Elixir on Redmi Note 7/7s (lavender)
+## Installation Guide For Project Elixir on Redmi Note 7/7s (lavender)
 
-> [!Warning]
+### Warning
 > * Your warranty is void. Or valid, probably?
 > * Project Elixir is not responsible for any damage you made to your device. You have been warned!
 > * We are not responsible for anything that may happen to your phone by installing custom ROMs.
@@ -53,7 +53,7 @@ Download Custom Rom Project Elixir android 14 Xiaomi redmi note 7 Lavender.
 ```
 adb devices
 ```
-> [!Important]
+
 > If your device is listed, proceed to the next step. If not, make sure your device is connected properly and that USB debugging is enabled in the developer options.
 7. Now, reboot your device into Fastboot Mode using the following command:
 ```
@@ -109,13 +109,12 @@ fastboot reboot recovery
 - Reboot System
 ```
 
-> [!Important]
+
 > **May Required Files:**
 > * Retrofit Supported Recovery : [Tap Here for link](https://projectelixiros.com/device/lavender)
 
-<br>
 
-> [!Note]
+## Note
 > **Notes specific to device build**
 > * Firmware and Gapps are already included in zip no need to flash additionally
 > * If you are coming from Android 12 or 13 to Android 14 then clean flash is compulsory and format data.
@@ -123,6 +122,6 @@ fastboot reboot recovery
 
 <br>
 
-> [!Important]
+
 > **Donate**: [Do consider donating or buying us a coffee](https://projectelixiros.com/donate)
 
