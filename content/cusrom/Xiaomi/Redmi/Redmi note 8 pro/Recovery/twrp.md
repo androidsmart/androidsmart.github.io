@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Download Twrp Latest Version Redmi 8 pro Begonia
+title  : Download Twrp Latest Version Redmi Note 8 pro Begonia
 date   : 2024-03-08T09:17:35+07:00
 slug   : twrp-begonia
 categories: [Recovery]
@@ -9,7 +9,7 @@ keywords  : [Twro]
 author : wahyu6070
 ---
 
-Download Twrp Latest version for Xiaomi Redmi 8 Pro Begonia
+Download Twrp Latest version for Xiaomi Redmi Note 8 Pro Begonia
 
 
 
