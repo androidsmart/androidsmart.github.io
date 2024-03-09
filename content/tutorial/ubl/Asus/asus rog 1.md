@@ -1,9 +1,9 @@
 ---
 type   : tutorial
 title  : How to Unlock the Bootloader and Install TWRP Asus Rog Phone 1
-date   : 2023-12-14
-slug   : pixel2
-categories: [totorial]
+date   : 2024-03-09T09:17:35+07:00
+slug   : ubl-asusrog1
+categories: [ubl]
 tags      : [ubl, twrp]
 keywords  : [How to UBL and Install TWRP on Poco X3 Pro]
 author : wahyu6070
