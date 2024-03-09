@@ -5,7 +5,7 @@ date   : 2024-03-09T09:17:35+07:00
 slug   : ubl-asusrog1
 categories: [ubl]
 tags      : [ubl, twrp]
-keywords  : [How to UBL and Install TWRP on Poco X3 Pro]
+keywords  : [ubl rog phone 1]
 author : wahyu6070
 ---
 
@@ -45,3 +45,8 @@ author : wahyu6070
 
 ## Rooting (Optional)
 - If you wish to root your device, you can flash Magisk via TWRP for root access.
+
+
+## Download Link
+[Ubl apk](https://t.me/wahyu6070files/29)
+[twrp](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)
