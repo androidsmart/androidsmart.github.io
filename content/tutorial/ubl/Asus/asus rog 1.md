@@ -10,7 +10,6 @@ author : wahyu6070
 ---
 
 
-# Unlock Bootloader and Install TWRP on Asus ROG Phone 1
 
 ## Prerequisites
 - Backup all personal data on your phone to prevent data loss.
@@ -46,18 +45,3 @@ author : wahyu6070
 
 ## Rooting (Optional)
 - If you wish to root your device, you can flash Magisk via TWRP for root access.
-
----
-
-Remember to replace `twrp.img` with the actual name of the TWRP image file you downloaded. Also, rooting your device may void the warranty and requires caution. Proceed at your own risk.
-
-For detailed steps and downloads, you can refer to the guides available online¹²³.
-
-Source: Conversation with Bing, 3/9/2024
-(1) Asus ROG Phone 3 Guide: Unlock Bootloader, Install TWRP, and Root using .... https://www.thecustomdroid.com/rog-phone-3-unlock-bootloader-twrp-root-guide/.
-(2) TWRP Recovery on Asus ROG Phone and Root using Magisk/SU - Get Droid Tips. https://www.getdroidtips.com/twrp-recovery-asus-rog-phone-root/.
-(3) How to Install twrp Recovery Root Asus ROG Phone ZS600KL - ROMProvider.COM. https://romprovider.com/install-twrp-recovery-root-asus-rog-phone-zs600kl/.
-(4) [GUIDE][UNLOCK/RELOCK] Bootloader Unofficailly and Flash TWRP+Root .... https://xdaforums.com/t/guide-unlock-relock-bootloader-unofficailly-and-flash-twrp-root.3786698/.
-(5) undefined. https://en.wikipedia.org/wiki/TWRP.
-
-
