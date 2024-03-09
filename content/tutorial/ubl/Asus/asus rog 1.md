@@ -1,6 +1,6 @@
 ---
 type   : tutorial
-title  : How to Unlock the Bootloader and Install TWRP on Google Pixel 2
+title  : How to Unlock the Bootloader and Install TWRP Asus Rog Phone 1
 date   : 2023-12-14
 slug   : pixel2
 categories: [totorial]
