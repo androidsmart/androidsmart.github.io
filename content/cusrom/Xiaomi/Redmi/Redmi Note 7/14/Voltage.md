@@ -19,16 +19,6 @@ Download Custom Rom Voltage OS android 14 Xiaomi redmi note 7 Lavender
 - Use Latest Gcam, if Older Versions are crashing
 - Use Minimal Gapps for Vanilla Builds like Nik Core
 
-### Device Changelog - 14/01/24 :
-- Add touch improvements sysprops
-- Register health.IChargingControl
-- Build Lineage Health HAL
-- Add selinux fix for Lineage Health HAL
-- Limit screen recorder framerate to 60fps
-- prop: Fix screen record lag
-- silence OpenGLRenderer log spam
-
-
 ### Device Changelog - 04/12/23 :-
 - fstab: Drop AvB completely
 - update libstdc++ for Android U
