@@ -160,7 +160,7 @@
 
       <!-- Last Page. -->
       {{ if lt (add $p.PageNumber $adjacent_links) $p.TotalPages }}
-      <li class="page-item">
+      <li class="page-item active">
         <a href="{{ $p.Last.URL }}" class="page-link" 
            aria-label="Goto page {{ $p.TotalPages }}">
            {{ $p.TotalPages }}</a>

@@ -6,7 +6,7 @@ publishdir    = "public"
 languageCode = "en"
 resourceDir = "../resources"
 DefaultContentLanguage = "en"
-Paginate     = 5
+Paginate     = 20
 
 PygmentsCodeFences = true
 PygmentsStyle      = "monokai"
