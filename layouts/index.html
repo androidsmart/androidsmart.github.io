@@ -1,3 +1,36 @@
 {{ define "main" }}
-{{ .Content }}
+<main>
+<div class="container"	>
+<p>Welcome to Android Smart, this page contains articles about custom Roms, kernels, Magisk modules, KSU modules and several Android tutorials.</p>
+<!-- <img class="IMG_HOME" alt="android news homepage" src="img/ss1.png"> -->
+<h1>Article</h1>
+
+<h2>Custom Rom</h2>
+{{ range first 10 (where .Site.RegularPages "Section" "cusrom") }}
+<div><a class="game_link" href="{{ .RelPermalink }}">{{ .Title }}</a></div>
+{{ end }}
+
+<h2>Kernel</h2>
+{{ range first 10 (where .Site.RegularPages "Section" "kernel") }}
+<div><a class="game_link" href="{{ .RelPermalink }}">{{ .Title }}</a></div>
+{{ end }}
+
+<h2>Module</h2>
+{{ range first 10 (where .Site.RegularPages "Section" "module") }}
+<div><a class="game_link" href="{{ .RelPermalink }}">{{ .Title }}</a></div>
+{{ end }}
+
+<h2>Tutorial</h2>
+{{ range first 10 (where .Site.RegularPages "Section" "tutorial") }}
+<div><a class="game_link" href="{{ .RelPermalink }}">{{ .Title }}</a></div>
+{{ end }}
+
+<h2>Etc</h2>
+{{ range first 10 (where .Site.RegularPages "Section" "etc") }}
+<div><a class="game_link" href="{{ .RelPermalink }}">{{ .Title }}</a></div>
+{{ end }}
+</div>
+
+
+
 {{ end }}
