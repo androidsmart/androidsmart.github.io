@@ -24,10 +24,13 @@ File name on Pling: bst2qqq6mhwi
 
 
 ## Download Link
+### by dev 1
 [Download ROM](https://www.pling.com/p/1668809/)
 
 [Mirror](https://shrs.link/UlQsN7)
 
+### by dev 2
+[Gapps](https://www.androidfilehost.com/?fid=10620683726822068767)
 
-
+[Vanilla](https://www.androidfilehost.com/?fid=10620683726822068769)
 
