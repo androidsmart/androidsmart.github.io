@@ -3,8 +3,8 @@ type   : cusrom
 title  : Download Twrp Latest Version Poco F1
 date   : 2024-03-06T09:17:35+07:00
 slug   : twrp-beryllium
-categories: [rom]
-tags      : [pocof1]
+categories: [recovery]
+tags      : [twrp]
 keywords  : [poco F1]
 author : wahyu6070
 ---
