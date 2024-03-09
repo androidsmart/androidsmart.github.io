@@ -1,6 +1,5 @@
 User-agent: *
 Allow: /
-# Disallowed Sub-Directories
 Disallow: /tags/
 Disallow: /d/
 Disallow: /categories/
