@@ -1,6 +1,6 @@
 ---
 type   : rom
-title  : Download OrangeFox Poco F1 Beryllium
+title  : Download OrangeFox Poco F1
 date   : 2024-03-06T09:17:35+07:00
 slug   : orangefox-beryllium
 categories: [recovery]
@@ -9,7 +9,7 @@ keywords  : [poco F1]
 author : wahyu6070
 ---
 
-Download recovery orangefox for poco f1 beryllium
+Download Custom recovery orangefox for poco f1 beryllium
 
 ## Changelog
 - Add Support For Dynamic Partitions
