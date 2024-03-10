@@ -56,6 +56,4 @@ But if you want to still using my module in Xiaomi.eu rom, you must uninstall up
 What happen if xiaomi.eu devs dropped support for my device and their APK isn't compatible? If you want to pass Play Integrity you must flash stock ROM or use another rom.
 
 ## Download
-[Pling](https://androidsmart.github.io/d/202410/play-integrity-fix/)
-
-
+[Pling](https://androidsmart.github.io/d/202403/play-integrity-fix/)
