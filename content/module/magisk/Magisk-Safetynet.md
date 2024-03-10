@@ -20,7 +20,9 @@ Android versions up to 13 are supported, including OEM skins such as Samsung One
 
 ## Download
 
-**[Download latest version](https://github.com/kdrag0n/safetynet-fix/releases)**
+**[Download latest version](https://github.com/kdrag0n/safetynet-fix/releases)** by Kdragon
+
+**[Download Mod Version](https://github.com/Displax/safetynet-fix/releases/download/v2.4.0-MOD_2.0/safetynet-fix-v2.4.0-MOD_2.0.zip)** by displax (recomended)
 
 Install the downloaded module in Magisk Manager, then **enable Zygisk in Magisk settings.**
 
