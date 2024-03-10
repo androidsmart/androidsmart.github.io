@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Download Rom Lineage 21 Android 14 Poco F5 Official
+title  : Download Lineage OS 21 Android 14 Poco F5 Official
 date   : 2024-02-27T09:17:35+07:00
 slug   : lineage21-a14-marble
 categories: [rom]
@@ -71,5 +71,6 @@ If you are looking for a ROM that gives you the best of both worlds - stock Andr
 
 
 ## Download Link
-[Download ROM](https://mirror.codebucket.de/gotenks/unofficial/aospa-uvite-unofficial-marble-20240226-image.zip)
+[ROM](https://mirror.codebucket.de/gotenks/unofficial/aospa-uvite-unofficial-marble-20240226-image.zip)
 
+[ROM2](https://miracle.girlswithout.top/adrian/lineage-21/marble/) by @Adrianyyyy
