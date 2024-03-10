@@ -1,7 +1,7 @@
 ---
 type   : cusrom
 title  : Download Twrp Latest Version Redmi Poco x6 Pro duchamp
-date   : 2024-03-08T09:17:35+07:00
+date   : 2024-03-10T09:17:35+07:00
 slug   : twrp-duchamp
 categories: [Recovery]
 tags      : [duchamp]
