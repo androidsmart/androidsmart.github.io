@@ -23,3 +23,5 @@ Download Recovery SKKK Twrp Latest version for Xiaomi POCO F5 Marble
 
 ## Download Link
 [Download](https://sourceforge.net/projects/recovery-for-xiaomi-devices/files/marble/twrp-3.7.1_12-v8.6_A14-marble-skkk.img/download)
+
+[TWRP 2](https://devuploads.com/jzfbkrijphmz)
