@@ -1,6 +1,6 @@
 ---
 type   : module
-title  : Android Tweaker
+title  : Android Tweaker magisk ksu module
 date   : 2024-03-10T09:17:35+07:00
 slug   : android-tweaker
 ads    : true
