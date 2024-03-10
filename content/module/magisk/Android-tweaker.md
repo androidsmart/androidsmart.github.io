@@ -66,7 +66,7 @@ Changelog:
 -----------------------------------------
 
 ## Download Link
-[Module](https://download60.github.io/202403/android-tweaker/
+[Module](https://download60.github.io/202403/android-tweaker/)
 
 [Apk](https://download60.github.io/202403/android-tweaker/)
 
