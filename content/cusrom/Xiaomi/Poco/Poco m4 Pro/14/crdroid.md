@@ -8,9 +8,7 @@ tags      : [pocom4pro]
 keywords  : [poco m4 pro]
 ---
 
-
 Download Custom Rom Crdroid Android 14 Poco M4 Pro 4G / Redmi Note 11S 4G
-
 
 Changelogs:
 - Fixed issue with Goodix fingerprint sensor models
@@ -82,6 +80,7 @@ How to Dirty flash? (flash rom without format data)
 warning! if you do dirty flash or flash rom without format data, must flash DFE! (or your fleur won't boot and encrypted)
 
 Notes: Recommended to Use TWRP Latest by ShazuXD hehe 
+
 
 ## Download Link
 [ROM and boot-img](https://sourceforge.net/projects/gabutbuild/files/fleur/crdroid-14/)

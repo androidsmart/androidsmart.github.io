@@ -10,99 +10,99 @@ author : MrTopiA
 ---
 
 ## Device Changelog
-• Initial Android 14 Release
+- Initial Android 14 Release
 
-• Clean Flash (Must) from Previous Builds
+- Clean Flash (Must) from Previous Builds
 
-• Comes with February Security patch
+- Comes with February Security patch
 
-• Added Per-App Refresh Rate & Thermal Profiles feature
+- Added Per-App Refresh Rate & Thermal Profiles feature
 
-• Added OnePlus Dolby Atmos & Spatial Audio
+- Added OnePlus Dolby Atmos & Spatial Audio
 
-• Added Performance Tuning
+- Added Performance Tuning
 
-• Improved Video Playback (ENABLED - VULKAN by default)
+- Improved Video Playback (ENABLED - VULKAN by default)
 
-• Google Camera as default Cam
+- Google Camera as default Cam
 
-• Comes on Positron Kernel ( KSU Support by default )
+- Comes on Positron Kernel ( KSU Support by default )
 
 ## Source Changelog
 
-• Initial Release Build (Hellix-v2.0) based on Feb patch A14 QPR1 (tag: r26)
+- Initial Release Build (Hellix-v2.0) based on Feb patch A14 QPR1 (tag: r26)
 
-• FireDroid currently fully based on AOSP
+- FireDroid currently fully based on AOSP
 
-• We passed Device integrity(thanks to EvoX sources)
+- We passed Device integrity(thanks to EvoX sources)
 
-• Introduce our own Bootanimation
+- Introduce our own Bootanimation
 
-• Introduce our own Settings UI (FireUI)
+- Introduce our own Settings UI (FireUI)
 
-• Added the double tap to sleep gesture
+- Added the double tap to sleep gesture
 
-• Added support for window ignore secure
+- Added support for window ignore secure
 
-• Added Incall vibration options
+- Added Incall vibration options
 
-• Introduce Lots of Fonts & Little bit Icon Pack customisation
+- Introduce Lots of Fonts & Little bit Icon Pack customisation
 
-• Introduce BonFire (Rom Specific Settings)
+- Introduce BonFire (Rom Specific Settings)
 
-• Added Windows Ignore Secure flags in BonFire
+- Added Windows Ignore Secure flags in BonFire
 
-• Added NetFlix spoof toggle in BonFire
+- Added NetFlix spoof toggle in BonFire
 
-• Added Games Spoof(Unlock 90fps in PUBG) toggle in BonFire
+- Added Games Spoof(Unlock 90fps in PUBG) toggle in BonFire
 
-• Added Google Photos Spoof toggle in BonFire
+- Added Google Photos Spoof toggle in BonFire
 
-• Added Pixelpropsutils & Gamepropsutils in fwb
+- Added Pixelpropsutils & Gamepropsutils in fwb
 
-• Added an option to allow disabling refresh rate lowering in battery saver
+- Added an option to allow disabling refresh rate lowering in battery saver
 
-• Added support for the strict standby policy
+- Added support for the strict standby policy
 
-• Introduced cutout force full-screen
+- Introduced cutout force full-screen
 
-• Introduced burn-in protection for status/navbar
+- Introduced burn-in protection for status/navbar
 
-• Configurable 0, 90, 180 and 270-degree rotation
+- Configurable 0, 90, 180 and 270-degree rotation
 
-• Require unlocking to use sensitive QS tiles
+- Require unlocking to use sensitive QS tiles
 
-• Added a Screen-off UDFPS toggle
+- Added a Screen-off UDFPS toggle
 
-• Make all user apps cloneable from clone apps in apps Settings
+- Make all user apps cloneable from clone apps in apps Settings
 
-• Introduce Hide apps from launcher in apps Settings
+- Introduce Hide apps from launcher in apps Settings
 
-• Added Network Traffic Indicator in network Settings
+- Added Network Traffic Indicator in network Settings
 
-• Ability to disable QS battery estimates
+- Ability to disable QS battery estimates
 
-• Ability to hide power menu on lock screen
+- Ability to hide power menu on lock screen
 
-• Ability to secure tiles from lock screen
+- Ability to secure tiles from lock screen
 
-• Added package name to installed app details
+- Added package name to installed app details
 
-• Added Double tap to trigger doze
+- Added Double tap to trigger doze
 
-• Added Face Unlock from Paranoid Android
+- Added Face Unlock from Paranoid Android
 
-• Added High touch polling rate (Gloves Mode)
+- Added High touch polling rate (Gloves Mode)
 
-• Introduce Lineage Health Service
+- Introduce Lineage Health Service
 
-• Added LiveDisplay Feature
+- Added LiveDisplay Feature
 
-• Added One shot AutoBrightness option
+- Added One shot AutoBrightness option
 
-• Added Lots of Qs Tiles
+- Added Lots of Qs Tiles
 
-• fixed alot more bugs & optimise the source over AOSP source & other features that i forget to mention
+- fixed alot more bugs & optimise the source over AOSP source & other features that i forget to mention
 
 ## Bug
 
