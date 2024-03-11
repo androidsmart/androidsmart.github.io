@@ -12,14 +12,15 @@ author : wahyu6070
 Download PBRP Latest version for Xiaomi Poco X6 Garnet
 
 ## Changelog
-- Added Viper4AndroidFX
-- Added GPU Boost props
-- Enabled Smooth Motion
-- Import props for better magisk hide
-- Tuned Zram performance
-- Drop Trust Hal
-- Drop prebuilt usb blobs
-- Drop prebuilt overlays
+- Disabled continuous transaction tracing on all build types
+- Synced with latest cherish source changes
+- Dropped SurfaceFlinger Cache by default
+- Increased audio HAL buffer size to 240
+- Increased adm buffering time to 12ms
+- Switched FP to cheetah September
+- Disabled hwc vds in surface flinger
+- Added brightness ramp rate
+- Misc. fixes & improvements
 
 ## Download Link
 [Download](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)

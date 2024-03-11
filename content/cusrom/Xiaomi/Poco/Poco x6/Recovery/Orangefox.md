@@ -9,17 +9,23 @@ keywords  : [Twrp]
 author : wahyu6070
 ---
 
-Download Orangefox Latest version for Xiaomi Poco x6 Garnet
+Download Custom recovery Orangefox Latest version for Xiaomi Poco x6 Garnet
+
 
 ## Changelog
-- Now recovery uses as boot
-- Now CrDroid Supports OTA Updates
-- Updated MTD Service hal
-- Updated vendor security patch
-- Fixed Dirty Flash (Now dirty flash works!)
-- Import some overlays
-- Improved IRQ Balance
-- Improved Signature Spoofing Feature
+- Update KernelSU version up to tag v0.6.8
+- Update kernel version to 4.19.294
+- Fix plugging 3.5mm jack make screen freeze
+- Fix widevine downgraded to L3
+- Disable aux camera for Aperture
+- Don't encrypt userdata with FBE by default
+- Override all partition props with stock props
+- Enable DT2W by default
+- Set animation and transition scale to 0.5x
+- Update many ZenParts icons and strings
+- Improve overall performance
+
+
 
 ## Download Link
 [Download](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)

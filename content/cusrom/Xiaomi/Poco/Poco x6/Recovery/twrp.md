@@ -9,22 +9,16 @@ keywords  : [Twrp]
 author : wahyu6070
 ---
 
-Download Twrp Latest version for Xiaomi Poco x6 Garnet
+Download Custon Recovery Twrp Latest version for Xiaomi Poco x6 Garnet
 
-## Changeloh
-- Updated DT2W node
-- Start butanimation on post fs
-- Enabled LLVM
-- Added gpu boost for UI smothness 
-- Fixed StatusBar padding
-- Switched to GCamGo
-- Fixed Recovery Ramdisk
-- Initial Vanilla Build
-- February security patch
-- Included AOSP Surfaceflinger
-- Improved LMKD for better RAM managment
-- Tuned Surfaceflinger for more smoothness 
-- Fixed QS lags with bluid
+
+## Changelog
+- Set default value night display color temperature
+- Allow more cached apps in the background
+- Set default vibration intensity level to high
+- Add props to silence log spam
+- Drop perftunning properties
+- Update dalvik.vm values
 
 
 ## Download Link
