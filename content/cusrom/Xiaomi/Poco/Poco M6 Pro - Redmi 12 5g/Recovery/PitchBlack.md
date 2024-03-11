@@ -1,30 +1,31 @@
 ---
 type   : cusrom
-title  : Download PitchBlack Latest Version Redmi Note 8 pro Begonia
-date   : 2024-03-08T09:17:35+07:00
-slug   : PitchBlack-begonia
+title  : Download PitchBlack Latest Version Redmi 12 5G and Poco M6 pro Sky
+date   : 2024-03-12T09:17:35+07:00
+slug   : PitchBlack-sky
 categories: [Recovery]
-tags      : [Begonia]
-keywords  : [Twro]
+tags      : [sky]
+keywords  : [picthblack]
 author : wahyu6070
 ---
 
-Download PitchBlack Latest version for Xiaomi Redmi Note 8 Pro Begonia
+Download PitchBlack Latest version for Xiaomi Redmi 12 5G and Poco M6 pro Sky.
 
-## Changelog
-- PBRP source upstream.
-- Support decryption for AOSP ROMs with Android 12.1 and higher.
-- Support F2FS/NTFS/exFAT/sdFAT/FAT32 file systems.
 
-## Note
-- MIUI Not Supported.
-- Dynamic ROMs Not Supported.
+## Notes
+- Initial build for Android 14
 
-## Credits
-@SoldatSempai (Resources)
-@HyperAnonymousX97 (Testing)
+## Known Bugs
+- Flashlight
+- CPU temp display
 
-By @thepsambit
+## Credit
+All Thanks to @pjgowtham for his work on device source on custom recovery
+
+By: @sheshuv
 
 ## Download Link
-[Download](https://www.pling.com/p/1928059/)
+[img](https://sourceforge.net/projects/sheshu/files/sky/PBRP/PBRP-sky-4.0-20231202-0725-UNOFFICIAL.img/download)
+
+[Zip](https://sourceforge.net/projects/sheshu/files/sky/PBRP/PBRP-sky-4.0-20231202-0725-UNOFFICIAL.zip/download)
+

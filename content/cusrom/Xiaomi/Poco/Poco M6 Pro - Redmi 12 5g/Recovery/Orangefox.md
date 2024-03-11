@@ -1,21 +1,32 @@
 ---
 type   : cusrom
-title  : Download OrangeFox Latest Version Redmi Note 8 pro Begonia
-date   : 2024-03-08T09:17:35+07:00
-slug   : orangefox-begonia
+title  : Download OrangeFox Latest Version Redmi 12 5G and Poco M6 pro Sky
+date   : 2024-03-12T09:17:35+07:00
+slug   : orangefox-sky
 categories: [Recovery]
-tags      : [Begonia]
-keywords  : [Twro]
+tags      : [sky]
+keywords  : [orangefox]
 author : wahyu6070
 ---
 
-Download Orangefox Latest version for Xiaomi Redmi Note 8 Pro Begonia
+Download Orangefox Latest version for Xiaomi Redmi 12 5G and Poco M6 pro Sky
 
-## Changelog
-- Synced with latest OrangeFox source.
+## Notes
+- Android 14 Supported 
 
-By @thepsambit
+## Bugs
+You tell me (with proper logs)
+
+## Credits
+@pjgowtham for recovery device tree.
+@xprateek for testing.
+
+By: @sheshuv (Sheshu Vadrevu)
 
 ## Download Link
-[Download](https://www.pling.com/p/1657764/)
+[Fastboot](https://sourceforge.net/projects/sheshu/files/sky/OrangeFox/OrangeFox-Unofficial-sky_22_10_2023.img/download)
+
+[Recovery](https://sourceforge.net/projects/sheshu/files/sky/OrangeFox/OrangeFox-Unofficial-sky_22_10_2023.zip/download)
+
+[How To Install](https://wiki.orangefox.tech/en/guides/installing_orangefox)
 
