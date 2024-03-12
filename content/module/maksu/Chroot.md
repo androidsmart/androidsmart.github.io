@@ -30,65 +30,65 @@ author : wahyu6070
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/YasserNull/chroot-distro/blob/main/screenshot/help.png)
 
 + help
-```
+``
 chroot-distro help
-```
+``
 + list of available linux distributions
-```
+``
 chroot-distro list
-```
+``
 
 + download rootfs file
-```
+``
 chroot-distro download <distro>
-```
+``
 + redownload rootfs file
-```
+``
 chroot-distro redownload <distro>
-```
+``
 + delete rootfs 
-```
+``
 chroot-distro delete <distro>
-```
+``
 
 + install distro
-```
+``
 chroot-distro install <distro>
-```
+``
 + reinstall distro
-```
+``
 chroot-distro reinstall <distro>
-```
+``
 + uninstall distro
-```
+``
 chroot-distro uninstall <distro>
-```
+``
 
 + backup distro
-```
+``
 chroot-distro backup <distro>
-```
+``
 + backup distro with custom path
-```
+``
 chroot-distro backup <distro> <path>
-```
+``
 + remove backup distro
-```
+``
 chroot-distro unbackup <distro>
-```
+``
 + restore distro
-```
+``
 chroot-distro restore <distro>
-```
+``
 + restore distro with custom path
-```
+``
 chroot-distro restore <distro> <path>
-```
+``
 
 + login to distro
-```
+``
 chroot-distro login <distro> 
-```
+``
 
 ## supported distributions
 + kali-linux : Kali Linux
