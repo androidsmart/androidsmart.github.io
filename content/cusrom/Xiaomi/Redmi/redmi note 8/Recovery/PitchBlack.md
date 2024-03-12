@@ -2,7 +2,7 @@
 type   : cusrom
 title  : Download PitchBlack Latest Version Redmi Note 8 Ginkgo
 date   : 2024-03-12T09:17:35+07:00
-slug   : PitchBlack-tulip
+slug   : PitchBlack-ginkgo
 categories: [Recovery]
 tags      : [tulip]
 keywords  : [Twrp]
