@@ -1,15 +1,15 @@
 ---
 type   : cusrom
-title  : Download Twrp Latest Version Redmi Note 6 pro Tulip
+title  : Download Twrp Latest Version Redmi Note 8 Ginkgo
 date   : 2024-03-08T09:17:35+07:00
-slug   : twrp-tulip
+slug   : twrp-Ginkgo
 categories: [Recovery]
-tags      : [tulip]
+tags      : [ginkgo]
 keywords  : [Twrp]
 author : wahyu6070
 ---
 
-Download Custom Recovery Twrp Latest version for Xiaomi Redmi Note 6 pro tulip
+Download Custom Recovery Twrp Latest version for Xiaomi Redmi Note 8 ginkgo
 
 
 ## Changelog

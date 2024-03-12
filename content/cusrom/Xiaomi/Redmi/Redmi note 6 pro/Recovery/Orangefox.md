@@ -1,7 +1,7 @@
 ---
 type   : cusrom
 title  : Download OrangeFox Latest Version Redmi Note 6 pro
-date   : 2024-03-12T09:17:35+07:00
+date   : 2024-03-13T09:17:35+07:00
 slug   : orangefox-tulip
 categories: [Recovery]
 tags      : [tulip]
