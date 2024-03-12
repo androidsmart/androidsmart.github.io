@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Download Twrp Latest Version Redmi Note 8 pro Begonia
+title  : Download Twrp Latest Version Redmi Note 6 pro
 date   : 2024-03-12T09:17:35+07:00
 slug   : twrp-tulip
 categories: [Recovery]
