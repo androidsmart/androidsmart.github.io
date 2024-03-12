@@ -1,30 +1,23 @@
 ---
 type   : cusrom
-title  : Download PitchBlack Latest Version Redmi Note 8 pro Begonia
-date   : 2024-03-08T09:17:35+07:00
-slug   : PitchBlack-begonia
+title  : Download PitchBlack Latest Version Redmi Note 6 pro tulip
+date   : 2024-03-12T09:17:35+07:00
+slug   : PitchBlack-tulip
 categories: [Recovery]
-tags      : [Begonia]
-keywords  : [Twro]
+tags      : [tulip]
+keywords  : [Twrp]
 author : wahyu6070
 ---
 
-Download PitchBlack Latest version for Xiaomi Redmi Note 8 Pro Begonia
+Download custom recovery PitchBlack Latest version for Xiaomi Redmi Note 6 pro
 
 ## Changelog
-- PBRP source upstream.
-- Support decryption for AOSP ROMs with Android 12.1 and higher.
-- Support F2FS/NTFS/exFAT/sdFAT/FAT32 file systems.
+- Upstream 
 
-## Note
-- MIUI Not Supported.
-- Dynamic ROMs Not Supported.
+## Notes
+- Based on TWRP 3.7.1_9.0
+- This Only A9/A10/A11
 
-## Credits
-@SoldatSempai (Resources)
-@HyperAnonymousX97 (Testing)
-
-By @thepsambit
 
 ## Download Link
-[Download](https://www.pling.com/p/1928059/)
+[Download](http://www.pling.com/p/2117793/)
