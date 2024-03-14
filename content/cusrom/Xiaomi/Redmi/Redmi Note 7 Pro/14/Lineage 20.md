@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Download Rom Lineage 13 Android 13 Redmi Note 7 pro
+title  : Download Rom Lineage 20 Android 13 Redmi Note 7 pro
 date   : 2024-03-09T09:17:35+07:00
 slug   : lineage21-a13-violet
 categories: [rom]
