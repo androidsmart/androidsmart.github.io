@@ -14,4 +14,4 @@ The script optimizes system performance by adjusting CPU affinity, process prior
 
 ## Link
 
-[Plin](https://androidsmart.github.io/d/202403/task-optimizer/)
+[Pling](https://androidsmart.github.io/d/202403/task-optimizer/)
