@@ -13,3 +13,6 @@ author : wahyu6070
 
 Increase performance and improve display smoothness/responsiveness also change rendering from software to hardware rendering.
 
+## Link
+[Pling](https://androidsmart.github.io/d/202403/android-hardware-optimization/)
+
