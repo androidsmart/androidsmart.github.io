@@ -12,21 +12,24 @@ author : wahyu6070
 Download Custom Rom Lineage 21 android 14 Xiaomi redmi note 4x Santoni.
 
 ## Changelog
-- Synchronized with the latest source code 
-- February 2024 security patches 
-- Unofficial compilation 
-- Kernelsu included
-- fixed to digital printing
-- fixed camera hdr
-- Update CarrierConfig blobs for LA.QSSI.13.0.r1-10000.02-qssi.0
-- enabled fastcharg 900mA by default
-- Build vanilla
-## Credit
-- thanks @DeliUstaTM for testing
-- thanks @DarkJoker360dev for the construction tree
-- thanks @ghostrider_reborn for the kernel source
+February 2024 Changelog #2:
 
+### General:
+- Update to latest ROM sources
+- Mulch WebView: Update to version 121.0.6167.178
+- Fix power off alarm in charger mode
+- rolex: Report approximate (fake) current
 
+### Kernel 4.19:
+- Disable directly booting from charger mode as well
+- kernel: Merge LineageOS/android_kernel_qcom_sm8250
+- kernel: Merge LA.UM.9.6.4.r2-01900-89xx.QSSI13r2.0
+  (this should fix some more stability issues)
+- audio-kernel: Merge LA.UM.9.6.4.r2-01900-89xx.QSSI13r2.0
+- rolex: Fix long delay when waking up from charging
+- (from upstream) Introduce Glimpse gallery app
+
+(still updating, until the builds are out)
 
 ## Download Link
 [ROM](https://pixeldrain.com/u/yot6DQkh)
