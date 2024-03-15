@@ -1,6 +1,6 @@
 ---
 type   : tutorial
-title  : How to Unlock the Bootloader and Install TWRP Asus Rog Phone 2
+title  : How to Unlock Bootloader and Install TWRP Asus Rog Phone 2
 date   : 2024-03-15T09:17:35+07:00
 slug   : ubl-asusrog2
 categories: [ubl]
@@ -51,4 +51,5 @@ You now have an unlocked bootloader and TWRP installed on your Asus ROG Phone 2.
 ## Download Link
 [Ubl apk](https://t.me/wahyu6070files/31)
 
-[twrp](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)
+[twrp](https://dl.twrp.me/I001D/)
+
