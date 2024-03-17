@@ -1,25 +1,26 @@
 ---
 type   : cusrom
-title  : Download Twrp Latest Version Redmi Note 8 Ginkgo
+title  : Download Twrp Latest Version Redmi 4x santoni
 date   : 2024-03-08T09:17:35+07:00
-slug   : twrp-Ginkgo
-categories: [Recovery]
-tags      : [ginkgo]
+slug   : twrp-santoni
+categories: [recovery]
+tags      : [santoni]
 keywords  : [Twrp]
 author : wahyu6070
 ---
 
-Download Custom Recovery Twrp Latest version for Xiaomi Redmi Note 8 ginkgo
-
+Download Custom Recovery Twrp Latest version for Xiaomi Redmi 4x santoni
 
 ## Changelog
-- Error for missing TW_MAX_BRIGHTNESS - CaptainThrowback
-- repack support for vendor boot and recovery with a/b parititions - DarthJabba9
-- include vendor libs for AIDL haptics - CaptainThrowback
-- Unmap super devices before fastbootd - color597 & CaptainThrowback
-- Fix creation of default folder - faoliveira78
-- Use unmount2 in PartitionManager - CaptainThrowback
-- recovery settings save fix after format data - faoliveira78
+- Initial official build
+
+## Notes
+- Android 11 & 12 userdata decryption WORKS
+- Official builds doesn't have some of my extra stuffs
+- Unmount partitions before using restore!
+- For riva (with Oreo bootloader) users, Flash our latest recovery kernel zip right after flashing the recovery
 
 ## Download Link
-[Download](https://www.pling.com/p/2117793/)
+[Download](https://dl.twrp.me/mi8937/twrp-3.7.0_12-0-mi8937.img.html)
+
+

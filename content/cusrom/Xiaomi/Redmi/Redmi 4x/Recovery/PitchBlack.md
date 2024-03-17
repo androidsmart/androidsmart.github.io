@@ -1,23 +1,25 @@
 ---
 type   : cusrom
-title  : Download PitchBlack Latest Version Redmi Note 8 Ginkgo
+title  : Download PitchBlack Latest Version Redmi 4x santoni
 date   : 2024-03-12T09:17:35+07:00
-slug   : PitchBlack-ginkgo
+slug   : PitchBlack-santoni
 categories: [Recovery]
-tags      : [tulip]
+tags      : [santoni]
 keywords  : [Twrp]
 author : wahyu6070
 ---
 
-Download custom recovery PitchBlack Latest version for Xiaomi Redmi Note 8 Ginkgo
+Download custom recovery PitchBlack Latest version for Xiaomi Redmi 4x santoni
 
-## Changelog
-- Upstream 
-
-## Notes
-- Based on TWRP 3.7.1_9.0
-- This Only A9/A10/A11
+## CHANGELOG
+- Update DM Verity Logic
+- Timezone issue fixed
+- Update magisk
+- Update unroot magisk
+- Some bug fixed
+- Etc
 
 
 ## Download Link
-[Download](http://www.pling.com/p/2117793/)
+[Download](https://sourceforge.net/projects/pbrp/files/santoni/PitchBlack-santoni-2.9.0-20190724-0525-OFFICIAL.zip/download)
+
