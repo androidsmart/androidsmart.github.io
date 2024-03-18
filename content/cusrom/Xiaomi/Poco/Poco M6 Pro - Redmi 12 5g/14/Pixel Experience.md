@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Download Pixel Experience Android 14 Redmi 12 5G | Poco M6 pro Sky
+title  : Pixel Experience Android 14 Redmi 12 5G - Poco M6 pro
 slug   : pe-a14-sky
 date   : 2024-03-12T09:17:35+07:00
 categories: [rom]
