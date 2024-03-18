@@ -1,6 +1,6 @@
 ---
 type   : module
-title  : Zgisk Next Magisk Ksu Module
+title  : Zgisk Next
 slug : zgisk-next
 date   : 2024-03-19T09:17:35+07:00
 ads    : true
