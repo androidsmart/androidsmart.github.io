@@ -1,26 +1,29 @@
 ---
 type   : cusrom
-title  : Download Twrp Latest Version Redmi Poco x6 Garnet
+title  : Download SKK Twrp Latest Version Xiaomi 11T Pro
 date   : 2024-03-11T09:17:35+07:00
-slug   : twrp-garnet
+slug   : twrp-vili
 categories: [Recovery]
-tags      : [garnet]
+tags      : [vili]
 keywords  : [Twrp]
 author : wahyu6070
 ---
 
-Download Custon Recovery Twrp Latest version for Xiaomi Poco x6 Garnet
+Download Custon Recovery Twrp Latest version for Xiaomi 11T Pro vili.
+## Install via ADB
+1. fastboot boot <drag recovery img file here>
+(E.g.- fastboot boot C:/skkk_twrp.img)
+2. go to Advanced > Flash Current TWRP
+3. after that is done, if you were using a custom kernel, reflash it now
+4. Reboot to system
 
-
-## Changelog
-- Set default value night display color temperature
-- Allow more cached apps in the background
-- Set default vibration intensity level to high
-- Add props to silence log spam
-- Drop perftunning properties
-- Update dalvik.vm values
-
+## Updating to a newer build
+1. download new build to internal storage
+2. go to Advanced > Install Recovery Ramdisk
+4. select the new image
+5. after that is done, if you were
+ using a custom kernel, reflash it now
+6. Boot to system
 
 ## Download Link
-[Download](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)
-
+[Download](https://t.me/papp54romupdate/1101)

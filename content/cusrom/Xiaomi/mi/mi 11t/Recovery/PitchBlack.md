@@ -1,25 +1,27 @@
 ---
 type   : cusrom
-title  : Download PitchBlack Latest Version Poco X6 Garnet
-date   : 2024-03-11T09:17:35+07:00
-slug   : PitchBlack-Garnet
+title  : Download PitchBlack Latest Version Xiaomi 11T pro Vili
+date   : 2024-03-19T09:17:35+07:00
+slug   : PitchBlack-vili
 categories: [Recovery]
-tags      : [garnet]
+tags      : [bili]
 keywords  : [Twrp]
 author : wahyu6070
 ---
 
-Download PitchBlack Latest version for Xiaomi Poco X6 Garnet
+Download PitchBlack Latest version for Xiaomi 11T Pro Vili
+
 
 
 ## Changelog
-- Update KernelSU version up to tag v0.6.8
-- Don't encrypt userdata with FBE by default
-- Override all partition props with stock props
-- Enable DT2W by default
-- Set animation and transition scale to 0.5x
-- Update many ZenParts icons and strings
-- Improve overall performance
+- Add Support A14 Decryption
+- Source Upstream
+- Based on TWRP 3.7.1
+
+## Credits
+- @Jedag for test
+
+By @DeanPerformer
 
 
 ## Download Link
