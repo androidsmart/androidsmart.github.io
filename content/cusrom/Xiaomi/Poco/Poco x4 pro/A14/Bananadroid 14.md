@@ -1,14 +1,15 @@
 ---
 type   : cusrom
-title  : Download BananaDroid Android 14 Official Poco X4 Pro | Redmi note 11 pro plus
-slug   : bananadrod-a14
+title  : Download BananaDroid Android 14 Official Poco X4 Pro x Redmi note 11 pro plus
+slug   : bananadrod-a14-veux
 date   : 2024-02-26T09:17:35+07:00
 categories: [rom]
-tags      : [pocox4pro]
+tags      : [veux]
 keywords  : [poco x4 pro]
 author : MrTopiA
 ---
 
+Dowload Custom Rom Bananadroid OS Android 14 Poco X4 Pro | Redmi note 11 pro plus (veux)
 
 ## Notes
 - GApps Build

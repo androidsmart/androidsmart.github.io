@@ -1,15 +1,15 @@
 ---
 type   : cusrom
-title  : Download Awaken Os Android 14 unofficial Poco X4 Pro | Redmi note 11 pro plus
-slug   : awakaen-a14
+title  : Download Awaken Os Android 14 Poco X4 Pro | Redmi note 11 pro plus
+slug   : awakaen-a14-veux
 date   : 2024-02-26T09:17:35+07:00
 categories: [rom]
-tags      : [pocox4pro]
+tags      : [veux]
 keywords  : [poco x4 pro]
 author : isaiahscape
 ---
 
-awakenOS Ursa Minor 4.3 for Poco X4 Pro / Redmi Note 11 Pro 5G (veux)
+Download Custom RoM awaken OS Minor 4.3 for Poco X4 Pro / Redmi Note 11 Pro 5G (veux)
 
 ## Changelog
 

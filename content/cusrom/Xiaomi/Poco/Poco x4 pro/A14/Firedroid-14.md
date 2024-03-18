@@ -1,13 +1,15 @@
 ---
 type   : cusrom
 title  : Download FireDroid Hellix Android 14 Official Poco X4 Pro | Redmi note 11 pro plus
-slug   : firedroid-a14
+slug   : firedroid-a14-veux
 date   : 2024-02-26T09:17:35+07:00
 categories: [rom]
-tags      : [pocox4pro]
+tags      : [veux]
 keywords  : [poco x4 pro]
 author : MrTopiA
 ---
+
+Download Custom ROM FireDroid Hellix Android 14 For Poco X4 Pro | Redmi note 11 pro plus (veux)
 
 ## Device Changelog
 - Initial Android 14 Release
@@ -97,11 +99,8 @@ author : MrTopiA
 - Introduce Lineage Health Service
 
 - Added LiveDisplay Feature
-
 - Added One shot AutoBrightness option
-
 - Added Lots of Qs Tiles
-
 - fixed alot more bugs & optimise the source over AOSP source & other features that i forget to mention
 
 ## Bug

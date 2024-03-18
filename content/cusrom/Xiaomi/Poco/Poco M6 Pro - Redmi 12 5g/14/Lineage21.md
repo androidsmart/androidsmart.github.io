@@ -8,7 +8,7 @@ tags      : [sky]
 keywords  : [poco m6 pro]
 ---
 
-Download Custom Rom Crdroid Android 14 Xiaomi Redmi 12 5G and Poco M6 pro Sky.
+Download Custom Rom Lineage 21 OS Android 14 Xiaomi Redmi 12 5G and Poco M6 pro Sky.
 
 The Redmi 12 5G is a mid-range smartphone that has gained popularity due to its balance of performance and affordability. With the release of Lineage 21, users of this device can now enjoy the latest Android features and a clean, optimized experience.
 
