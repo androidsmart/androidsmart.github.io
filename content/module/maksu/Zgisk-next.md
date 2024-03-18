@@ -53,5 +53,7 @@ The following conditions now apply:
 Zygisk Next only guarantees the same behavior of Zygisk API, but will NOT ensure Magisk's internal features.
 
 ## Link
-[Github](https://github.com/Dr-TSNG/ZygiskNext/releases/latest)
+[Github](https://github.com/Dr-TSNG/ZygiskNext/releases/latest) by Dr-TSNG
+
+[telegram](https://t.me/real5ec1cff/155) by 5ec1cff
 
