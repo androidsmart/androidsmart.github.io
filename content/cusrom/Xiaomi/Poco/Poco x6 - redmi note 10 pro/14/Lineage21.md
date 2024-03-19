@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Download Lineage 21 OS Android 14 Redmi Note 10 Pro / Poco X6 / Redmi Note 10 Pro Pro Garnet
+title  : Download Lineage 21 OS Android 14 Redmi Note 10 Pro / Poco X6 Garnet
 slug   : lineage21-a14-garnet
 date   : 2024-03-20T09:17:35+07:00
 categories: [rom]
@@ -8,7 +8,7 @@ tags      : [garnet]
 keywords  : [Poco X6 / Redmi Note 10 Pro]
 ---
 
-Download Custom Rom LineAge 21 OS Android 14 Xiaomi redmi note 10 pro or Poco X6 / Redmi Note 10 Pro garnet .
+Download Custom Rom LineAge 21 OS Android 14 Xiaomi Poco X6 / Redmi Note 10 Pro garnet .
 
 Lineage OS is renowned for its stability, reliability, and wide range of supported devices. It's considered the true successor to CyanogenMod, offering users the freedom to tailor their Android experience without the need for additional tools.
 
