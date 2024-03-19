@@ -2,7 +2,7 @@
 type   : cusrom
 title  : Download Lineage 21 OS Android 14 Redmi Note 10 Pro / Poco X6 / Redmi Note 10 Pro Pro Garnet
 slug   : lineage21-a14-garnet
-date   : 2024-03-19T09:17:35+07:00
+date   : 2024-03-20T09:17:35+07:00
 categories: [rom]
 tags      : [garnet]
 keywords  : [Poco X6 / Redmi Note 10 Pro]
