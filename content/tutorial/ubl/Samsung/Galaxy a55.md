@@ -1,10 +1,10 @@
 ---
 type   : tutorial
-title  : How to Unlock Bootloader And Install Twrp on Samsung Galaxy a55
-slug   : ubl-galaxy-a55
+title  : How to Unlock Bootloader And Install Twrp on Samsung Galaxy a55 
+slug   : ubl-S5E8845
 date   : 2024-03-20T09:17:35+07:00
-categories: [tutorial]
-tags      : [ubl, twrp]
+categories: [ubl]
+tags      : [S5E8845]
 keywords  : [Unlock bootloader samsung galaxy a55]
 author : wahyu6070
 ---
