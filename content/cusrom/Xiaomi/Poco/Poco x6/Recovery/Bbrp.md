@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Download PBRP Latest Version Poco x6 Garnet
+title  : Download PBRP Latest Version redmi note 10 pro / Poco x6 Garnet
 date   : 2024-03-11T09:17:35+07:00
 slug   : pbrp-garnet
 categories: [Recovery]
@@ -9,7 +9,7 @@ keywords  : [Twrp]
 author : wahyu6070
 ---
 
-Download PBRP Latest version for Xiaomi Poco X6 Garnet
+Download PBRP Latest version for Xiaomi redmi note 10 pro or Poco X6 Garnet
 
 ## Changelog
 - Disabled continuous transaction tracing on all build types

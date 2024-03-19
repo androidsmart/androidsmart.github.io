@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Download PitchBlack Latest Version Poco X6 Garnet
+title  : Download PitchBlack Latest Version redmi note 10 pro / Poco X6 Garnet
 date   : 2024-03-11T09:17:35+07:00
 slug   : PitchBlack-Garnet
 categories: [Recovery]
@@ -9,7 +9,7 @@ keywords  : [Twrp]
 author : wahyu6070
 ---
 
-Download PitchBlack Latest version for Xiaomi Poco X6 Garnet
+Download PitchBlack Latest version for Xiaomi redmi note 10 pro or Poco X6 Garnet
 
 
 ## Changelog
