@@ -22,5 +22,5 @@ Download Custon Recovery Twrp Latest version for Xiaomi Poco x6 Garnet
 
 
 ## Download Link
-[Download](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)
+[Download](https://www.pling.com/p/2125614)
 
