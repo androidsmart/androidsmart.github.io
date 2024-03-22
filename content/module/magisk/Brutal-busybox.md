@@ -1,6 +1,6 @@
 ---
 type   : module
-title  : Download brutal busybox latest version
+title  : Download Brutal Busybox Magisk Kernelsu Module
 date   : 2024-03-03T09:17:35+07:00
 slug   : brutal-busybox
 categories: [magisk module]
