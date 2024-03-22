@@ -26,7 +26,7 @@ For the vast majority of Android users, the potential benefits of Brutal Busybox
 
 ## Notes
 - Install in magisk or ksu
-
+- Based busybox ndk
 ## Link
 
 [Click here](https://androidsmart.github.io/d/202403/brutal-busybox/)
