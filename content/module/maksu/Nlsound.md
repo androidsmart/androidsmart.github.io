@@ -25,3 +25,6 @@ This module globally improves audio quality when recording video/audio and liste
 - Only for Qualcomm Snapdragon devices!
 - On devices based on processors lower than SDM625, work of the modification is not guaranteed!⚠️
 
+## Link
+[Pling](https://www.pling.com/p/2122998/)
+
