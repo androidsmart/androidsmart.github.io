@@ -60,3 +60,15 @@ To root your Poco X3 Pro with Magisk, you need to follow these steps:
 
 This article has shown you how to UBL and install TWRP on Poco X3 Pro, as well as how to root it with Magisk. You can now enjoy the benefits of having a custom recovery and root access on your device, such as installing custom ROMs, kernels, mods, or tweaking your device's settings. However, you should also be careful and responsible with your device, as unlocking the bootloader and rooting may void your warranty, trigger safety net, or cause instability or damage to your device or data. Always backup your data before making any changes and follow the instructions carefully. Happy modding!
 
+## Download Link
+
+[Usb Driver](https://sourceforge.net/projects/wahyu6070-project-android/files/Tools/surya/PdaNetA4199.zip/download)
+
+[Adb Fastboot](https://androidsmart.github.io/etc/202403/adb-fastboot/)
+
+[magisk v26.4](https://github.com/topjohnwu/Magisk/releases/tag/v26.4)
+
+[MI unlock Tool](https://en.miui.com/unlock/download_en.html)
+
+twrp is coming soon
+

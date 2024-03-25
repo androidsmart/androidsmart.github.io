@@ -65,3 +65,15 @@ The final step is to run the Mi Unlock Tool on your PC and unlock the bootloader
 
 Congratulations, you have successfully unlocked the bootloader of your Xiaomi Poco F5. You can now install custom ROMs, root your device, or perform other modifications. However, you should also be careful and only flash trusted and compatible files, as unlocking the bootloader may expose your device to risks and void the warranty. We hope this article was helpful and informative. If you have any questions or feedback, feel free to leave a comment below.
 
+## Download Link
+
+[Usb Driver](https://sourceforge.net/projects/wahyu6070-project-android/files/Tools/surya/PdaNetA4199.zip/download)
+
+[Adb Fastboot](https://androidsmart.github.io/etc/202403/adb-fastboot/)
+
+[magisk v26.4](https://github.com/topjohnwu/Magisk/releases/tag/v26.4)
+
+[MI unlock Tool](https://en.miui.com/unlock/download_en.html)
+
+twrp is coming soon
+

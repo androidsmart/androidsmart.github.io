@@ -1,29 +1,29 @@
 ---
 type   : tutorial
-title  : How to Unlock Bootloader And Install Twrp on Xiaomi Poco x6
-slug   : ubl-pocox6
-date   : 2024-02-27T09:17:35+07:00
-categories: [tutorial]
+title  : How to Unlock Bootloader And Install Twrp on Poco F5 Peridot
+slug   : ubl-peridot
+date   : 2024-03-25T09:17:35+07:00
+categories: [ubl]
 tags      : [ubl, twrp]
-keywords  : [Unlock bootloader poco x6]
+keywords  : [Unlock bootloader poco F5]
 author : wahyu6070
 ---
 
-Poco X6 is a smartphone model from Xiaomi that was released in January 2024. It features a 6.67-inch AMOLED display with a resolution of 2712 x 1220 pixels and a refresh rate of 120 Hz. It is powered by the Snapdragon 7s Gen 2 chipset, which is a 4 nm octa-core processor with a clock speed of up to 2.4 GHz.
+The Poco F6 is a 5G smartphone that was released in July 2024. It has a 6.67-inch AMOLED display, a Snapdragon 8s gen 3 chipset, and a 64MP triple camera. It runs on Android 14 with HyperOS and has a 5000mAh battery with 80W charging. It also features a fingerprint sensor under the display, dual speakers, and a liquid cooling system.
 
 If you are an Android enthusiast who wants to customize your smartphone with custom ROMs, root access, or other modifications, you will need to unlock the bootloader of your device first. The bootloader is a program that runs before the operating system and kernel, and it controls the boot process and the recovery mode. By default, the bootloader of most Android devices is locked by the manufacturer, to prevent unauthorized changes to the software and to ensure the security and stability of the device.
 
 However, Xiaomi allows its users to unlock the bootloader of their devices, as long as they follow some steps and use the official Mi Unlock Tool. Unlocking the bootloader will give you more freedom and control over your device, but it will also void the warranty, erase the data, and potentially expose your device to risks. Therefore, you should only proceed if you are aware of the consequences and have a clear purpose for unlocking the bootloader.
 
-In this article, we will guide you through the process of unlocking the bootloader of Xiaomi Poco x6.
+In this article, we will guide you through the process of unlocking the bootloader of Xiaomi Poco F6.
 
-- A Xiaomi Poco x6 with at least 66% battery charge.
+- A Xiaomi Poco F6 with at least 66% battery charge.
 - A Windows PC with an internet connection.
 - A USB cable compatible with your device.
 - A backup of your important data, as unlocking the bootloader will erase everything on your device.
-- The Xiaomi Poco x6 USB drivers, which you can download from.
+- The Xiaomi Poco F6 USB drivers, which you can download from.
 - The Mi Unlock Tool, which you can download from .
-- The Xiaomi Poco x6 fastboot drivers, which you can download from .
+- The Xiaomi Poco F6 fastboot drivers, which you can download from .
 
 ## Step 1: Enable Developer Options and OEM Unlocking
 
@@ -62,7 +62,7 @@ The final step is to run the Mi Unlock Tool on your PC and unlock the bootloader
 - Click on Reboot phone to restart your device.
 
 ## Install Twrp
-TWRP is a custom recovery program that allows you to backup, restore, and modify your Android device. To install TWRP on your Poco x6 5G, you need to follow these steps:
+TWRP is a custom recovery program that allows you to backup, restore, and modify your Android device. To install TWRP on your Poco F6 5G, you need to follow these steps:
 
 1. Download and install the latest adb and fastboot drivers on your computer.
 2. Download Twrp.
@@ -91,7 +91,7 @@ fastboot flash boot_b twrp.img
 
 [Adb Fastboot](https://androidsmart.github.io/etc/202403/adb-fastboot/)
 
-[magisk v26.4](https://github.com/topjohnwu/Magisk/releases/tag/v26.4)
+[magisk](https://github.com/topjohnwu/Magisk/releases/tag/latest)
 
 [MI unlock Tool](https://en.miui.com/unlock/download_en.html)
 

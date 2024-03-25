@@ -100,7 +100,7 @@ The final step is to run the Mi Unlock Tool on your PC and unlock the bootloader
 
 [Usb Driver](https://sourceforge.net/projects/wahyu6070-project-android/files/Tools/surya/PdaNetA4199.zip/download)
 
-[Adb Fastboot](https://sourceforge.net/projects/wahyu6070-project-android/files/Tools/surya/adb-setup-1.4.3.zip/download)
+[Adb Fastboot](https://androidsmart.github.io/etc/202403/adb-fastboot/)
 
 [magisk v26.4](https://github.com/topjohnwu/Magisk/releases/tag/v26.4)
 
