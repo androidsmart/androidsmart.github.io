@@ -67,7 +67,7 @@ Download Custom Recovery Twrp Latest version for poco f1 beryllium.
 * TWRP will now allow you to flash custom ROMs, mods, and perform other advanced actions on your device.
 
 ## Download Link
-[Download ROM](https://www.pling.com/p/1346294/#files-panel)
+[Download Recovery](https://www.pling.com/p/1346294/#files-panel)
 
 [Official](https://eu.dl.twrp.me/beryllium/)
 
