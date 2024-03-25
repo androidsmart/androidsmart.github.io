@@ -7,7 +7,7 @@ languageCode = "en"
 resourceDir = "../resources"
 DefaultContentLanguage = "en"
 Paginate     = 20
-
+markup.highlight.noClasses=false
 PygmentsCodeFences = true
 PygmentsStyle      = "monokai"
 
