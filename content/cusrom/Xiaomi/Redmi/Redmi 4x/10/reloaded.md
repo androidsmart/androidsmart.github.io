@@ -1,15 +1,15 @@
 ---
 type   : cusrom
-title  : Reloaded CAF Android 10 Redmi Note 4 Santoni
+title  : Reloaded CAF Android 10 Redmi Note 4x Santoni
 date   : 2024-03-27T09:17:35+07:00
 slug   : reloaded-a10-santoni
 categories: [rom]
 tags      : [santoni]
-keywords  : [redmi note 4]
+keywords  : [redmi note 4x]
 author : wahyu6070
 ---
 
-Download Custom Rom Reloaded CAF OS android 10 Xiaomi redmi note 4 santoni.
+Download Custom Rom Reloaded CAF OS android 10 Xiaomi redmi note 4x santoni.
 
 ## Changelog
 - Fixed bluetooth audio

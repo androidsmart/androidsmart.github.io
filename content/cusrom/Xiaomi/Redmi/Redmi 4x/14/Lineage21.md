@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Download Rom Lineage 21 Android 14 Redmi 4X Santoni
+title  : Download Rom Lineage 21 Android 14 Redmi 4x Santoni
 date   : 2024-03-12T09:17:35+07:00
 slug   : lineage21-a14-santoni
 categories: [rom]
