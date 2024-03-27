@@ -1,8 +1,8 @@
 ---
 type   : module
-title  : Dolby Audio Moto G Pro Magisk Kernelsu Module
-slug   : Dolby-motogpro
-date   : 2024-03-21T09:17:35+07:00
+title  : Dolby Atmos Moto G52 Magisk Kernelsu Module
+slug   : Dolby-motog52
+date   : 2024-03-28T09:17:35+07:00
 ads    : true
 categories: [module]
 tags      : [magisk, ksu]
