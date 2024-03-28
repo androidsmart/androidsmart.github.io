@@ -9,8 +9,7 @@ keywords  : [lineage]
 author : wahyu6070
 ---
 
-Download Custom Rom Lineage 20 android 13 Xiaomi redmi note 10 pro Sweet.
-
+Download Custom Rom Lineage 20 android 13 Infinix Note 30 Pro.
 
 ## Changelogs
 - Initial Build
