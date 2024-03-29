@@ -38,8 +38,20 @@ The ccbins module has seen numerous updates since its initial release. Here are 
 - **v9.1 - 1.9.2022**: Fixed a bug with the connection test¹.
 - **v9.0 - 11.27.2021**: Updated the curl binary, streamlined the installer process, and overhauled wireguard support¹.
 
+## Install
+You can install in magisk,kernelsu and apatch
+
+## Usage
+Open terminal emulator
+
+``su -c ccbins``
+
 ## Conclusion
 
 The ccbins Magisk module is a powerful tool for Android users, providing a collection of cross-compiled binaries that enhance the functionality of their devices. With regular updates and a robust set of features, it's a valuable addition to any Magisk user's toolkit.
 
 For more information about the ccbins Magisk module, you can visit the [official GitHub page](https://github.com/Magisk-Modules-Repo/ccbins)
+
+## Link
+[Pling](https://www.pling.com/p/2122998/)
+
