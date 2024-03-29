@@ -1,6 +1,6 @@
 ---
 type   : module
-title  : Cross Compiled Binaries (ccbins) Magisk Module
+title  : Cross Compiled Binaries (ccbins) Magisk kernelsu Module
 date   : 2023-12-01T09:17:35+07:00
 slug   : ccbins
 categories: [magisk module]
