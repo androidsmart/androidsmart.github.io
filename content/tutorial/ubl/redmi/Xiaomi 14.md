@@ -31,7 +31,7 @@ Before you start, ensure you have the following:
    - Run the installer and follow the prompts to install ADB and Fastboot on your computer.
 
 3. **Create or Log in to Your Mi Account**
-   - If you don't have a Mi Account, create one [here](^7^).
+   - If you don't have a Mi Account, create one here.
 
 4. **Apply for Bootloader Unlocking Permission**
    - Open the Xiaomi Community App and navigate to `Me` > `Set Up` > `Change Region` to Global.
