@@ -1,7 +1,7 @@
 ---
 type   : module
-title  : Youtube Music Revanced Extended Kernelsu Module
-slug   : ytmusic-extended-revances
+title  : Youtube Music Revanced Extended
+slug   : ytmusic-extended-revanced
 date   : 2024-04-04T09:17:35+07:00
 ads    : true
 categories: [module]
