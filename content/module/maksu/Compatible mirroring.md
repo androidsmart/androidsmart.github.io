@@ -2,7 +2,7 @@
 type   : module
 title  : Compatible mirroring Magisk Ksu Module
 slug   : Compatible mirroring
-date   : 2024-03-09T09:17:35+07:00
+date   : 2024-04-09T09:17:35+07:00
 ads    : true
 categories: [module]
 tags      : [magisk, ksu]
