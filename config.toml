@@ -59,3 +59,8 @@ customJS = []
 
 # Custom remote JS files
 customRemoteJS = []
+
+[Taxonomies]
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
