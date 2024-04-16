@@ -62,5 +62,5 @@ customRemoteJS = []
 
 [Taxonomies]
 
-disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["taxonomy"]
 
