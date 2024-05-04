@@ -1,2 +1,5 @@
 # androidsmart.github.io
-android smart
+
+``git clone git@github.com:androidsmart/androidsmart.github.io``
+
+
