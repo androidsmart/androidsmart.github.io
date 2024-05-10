@@ -30,7 +30,7 @@ Download Custom ROM Pixel OS Android 14 for Poco X4 Pro (veux)
 By @iaswinop
 
 ## Download Link
-[ROM](https://sourceforge.net/projects/pixelos-veux/files/PixelOS_veux-14.0-20231212-0820.zip/download(
+[ROM](https://sourceforge.net/projects/pixelos-veux/files/PixelOS_veux-14.0-20231212-0820.zip/download)
 
 [Boot - Vendor Boot](https://t.me/isnowflakes_veux/6)
 
