@@ -5,7 +5,7 @@ date   : 2024-03-09T09:17:35+07:00
 slug   : twrp-lavender
 categories: [Recovery]
 tags      : [lavender]
-keywords  : [Twro]
+keywords  : [Twrp]
 author : wahyu6070
 ---
 
