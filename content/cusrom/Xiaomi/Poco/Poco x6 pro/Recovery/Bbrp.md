@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Download PBRP Latest Version Poco x6 pro Duchamp
+title  : Download PBRP Recovery Poco x6 pro Duchamp
 date   : 2024-03-10T09:17:35+07:00
 slug   : pbrp-duchamp
 categories: [Recovery]

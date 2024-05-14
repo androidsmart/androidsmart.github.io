@@ -27,4 +27,4 @@ Choosing LineageOS 21 for your POCO X6 pro means opting for an extended device l
 The unofficial LineageOS 21 ROM for the POCO X6 pro marks a significant step towards sustainable smartphone usage. It offers users the chance to experience the latest software features without the need to upgrade to a new device.
 
 ## Download Link
-[ROM](https://www.toprevenuegate.com/ye2syfhyx3?key=2f8831f2ecc5f5151d73d5a47264f074)
+[ROM](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)

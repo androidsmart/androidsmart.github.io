@@ -1,11 +1,11 @@
 ---
 type   : cusrom
-title  : Download PitchBlack Latest Version Poco X6 Pro Duchamp
+title  : Download PitchBlack Recovery Poco X6 Pro Duchamp
 date   : 2024-03-10T09:17:35+07:00
 slug   : PitchBlack-Duchamp
 categories: [Recovery]
 tags      : [duchamp]
-keywords  : [Twro]
+keywords  : [Twrp]
 author : wahyu6070
 ---
 
