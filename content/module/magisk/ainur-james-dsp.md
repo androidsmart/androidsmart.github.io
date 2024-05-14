@@ -2,11 +2,8 @@
 type   : module
 title  : Ainur James Dsp
 date   : 2024-02-24T09:17:35+07:00
-ads    : true
 categories: [magisk module]
-tags      : [magisk, ksu]
 keywords  : [magisk module, viper4androidfx, dolby, audio equalizer]
-author : wahyu6070
 ---
 
 This is a reformed audio effect digital signal processing engine for Android. The GUI is copy from Omnirom DSPManager, but the internal audio engine is enhanced and reformed!

@@ -4,10 +4,7 @@ title  : Download Brutal Busybox Magisk Kernelsu Module
 date   : 2024-03-03T09:17:35+07:00
 slug   : brutal-busybox
 categories: [magisk module]
-tags      : [magisk, module, busybox]
 keywords  : [magisk module, goodspeed, brutal busybox, Kernelsu]
-author : wahyu6070
-ads    : true
 ---
 
 Brutal Busybox is a modified version of Busybox, a popular set of command-line utilities for Linux-based systems. It claims to offer additional features and performance optimizations compared to the standard Busybox available on Android. However, it's crucial to understand the potential risks before considering its use on your device.

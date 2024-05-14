@@ -5,9 +5,7 @@ slug   : FirusXinjektor
 date   : 2024-03-14T09:17:35+07:00
 ads    : true
 categories: [module]
-tags      : [magisk, ksu]
 keywords  : [magisk]
-author : wahyu6070
 ---
 
 Elevate your experience with customizable profiles!

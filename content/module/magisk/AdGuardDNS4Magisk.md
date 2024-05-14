@@ -3,11 +3,8 @@ type   : module
 title  : AdGuardDNS4Magisk Magisk Or Ksu Modules
 date   : 2024-03-04T09:17:35+07:00
 slug   : AdGuardDNS4Magisk
-ads    : true
 categories: [magisk module]
-tags      : [magisk, module, AdGuardDNS4Magisk]
 keywords  : [magisk module, AdGuardDNS4Magisk]
-author : TukangM
 ---
 
 Fork from [xerta555/CloudflareDNS4Magisk](https://github.com/xerta555/CloudflareDNS4Magisk)

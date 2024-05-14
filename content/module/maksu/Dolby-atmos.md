@@ -3,11 +3,8 @@ type   : module
 title  : Dolby Atmos Moto G52 Magisk Kernelsu Module
 slug   : Dolby-motog52
 date   : 2024-03-28T09:17:35+07:00
-ads    : true
 categories: [module]
-tags      : [magisk, ksu]
 keywords  : [magisk]
-author : wahyu6070
 ---
 
 

@@ -4,12 +4,7 @@ title  : Cross Compiled Binaries (ccbins) Magisk kernelsu Module
 date   : 2023-12-01T09:17:35+07:00
 slug   : ccbins
 categories: [magisk module]
-tags      : [magisk, module]
 keywords  : [magisk module, Magneter, module gaming, Kernelsu]
-author : wahyu6070
-opengraph:
-toc    :
-excerpt:
 ---
 
 

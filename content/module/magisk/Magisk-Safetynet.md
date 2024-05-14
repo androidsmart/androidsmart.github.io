@@ -4,9 +4,7 @@ title  : Universal SafetyNet Fix Magisk KSU Module
 date   : 2024-03-09T09:17:35+07:00
 slug   : Universal SafetyNet Fix
 categories: [magisk module]
-tags      : [magisk, module]
 keywords  : [Universal SafetyNet Fix]
-author : wahyu6070
 ---
 
 

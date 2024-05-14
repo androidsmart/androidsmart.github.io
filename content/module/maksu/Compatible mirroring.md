@@ -5,9 +5,7 @@ slug   : Compatible mirroring
 date   : 2024-04-09T09:17:35+07:00
 ads    : true
 categories: [module]
-tags      : [magisk, ksu]
 keywords  : [magisk]
-author : wahyu6070
 ---
 
 

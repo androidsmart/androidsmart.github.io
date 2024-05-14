@@ -5,9 +5,7 @@ slug : nlsound
 date   : 2024-03-23T09:17:35+07:00
 ads    : true
 categories: [module]
-tags      : [magisk, ksu]
 keywords  : [magisk]
-author : wahyu6070
 ---
 
 This module globally improves audio quality when recording video/audio and listening to audio on your device.

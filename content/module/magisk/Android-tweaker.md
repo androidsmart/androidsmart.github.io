@@ -3,11 +3,8 @@ type   : module
 title  : Android Tweaker magisk ksu module
 date   : 2024-03-10T09:17:35+07:00
 slug   : android-tweaker
-ads    : true
 categories: [module]
-tags      : [magisk, ksu, apatch]
 keywords  : [magisk module]
-author : wahyu6070
 ---
 
 ----------------------------------------------------------------------------------------

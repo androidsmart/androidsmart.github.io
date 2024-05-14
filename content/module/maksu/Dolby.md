@@ -3,11 +3,8 @@ type   : module
 title  : Dolby Audio Moto G Pro Magisk Kernelsu Module
 slug   : Dolby-motogpro
 date   : 2024-03-21T09:17:35+07:00
-ads    : true
 categories: [module]
-tags      : [magisk, ksu]
 keywords  : [magisk]
-author : wahyu6070
 ---
 
 This article explores the Dolby Audio Moto G Pro Magisk module, designed to enhance the audio experience on your Moto G Pro smartphone.

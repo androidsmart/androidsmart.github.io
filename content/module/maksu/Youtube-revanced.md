@@ -5,9 +5,7 @@ slug   : Revanced
 date   : 2024-04-02T09:17:35+07:00
 ads    : true
 categories: [module]
-tags      : [magisk, ksu]
 keywords  : [magisk]
-author : wahyu6070
 ---
 
 

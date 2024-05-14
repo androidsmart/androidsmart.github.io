@@ -5,8 +5,6 @@ slug : 200-module
 date   : 2024-03-22T09:17:35+07:00
 ads    : true
 categories: [module]
-tags      : [magisk, ksu]
 keywords  : [magisk]
-author : wahyu6070
 ---
 

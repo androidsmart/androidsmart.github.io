@@ -4,9 +4,7 @@ title  : Play Integrity Fix Magisk KSU Module
 date   : 2024-03-10T09:17:35+07:00
 slug   : Play Integrity Fix
 categories: [magisk module]
-tags      : [magisk, module]
 keywords  : [Play Integrity Fix]
-author : wahyu6070
 ---
 
 

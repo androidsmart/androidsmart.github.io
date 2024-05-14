@@ -5,9 +5,7 @@ date   : 2023-12-24T09:17:35+07:00
 slug   : viper4androidfx
 ads    : true
 categories: [magisk module]
-tags      : [magisk, module, viper4androidfx]
 keywords  : [magisk module, viper4androidfx, dolby, audio equalizer]
-author : wahyu6070
 ---
 
 This time I discuss the Magisk module which is quite popular among the Android community, namely viper4android FX which was ported as the Magisk module and KSU module by several developers, so this module functions to add a manual audio equalizer to the speakers or handsets of our devices.
