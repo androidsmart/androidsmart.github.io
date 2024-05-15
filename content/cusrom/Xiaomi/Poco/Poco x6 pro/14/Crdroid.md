@@ -1,14 +1,14 @@
 ---
 type   : cusrom
-title  : Download Pixel Experience Android 14 Poco X6 Pro Duchamp
-slug   : pe-a14-duchamp
+title  : Download Crdroid Android 14 Poco X6 Pro Duchamp
+slug   : cdroid-a14-duchamp
 date   : 2024-05-15T09:17:35+07:00
 categories: [rom]
 tags      : [duchamp]
 keywords  : [poco x6 pro]
 ---
 
-Download Custom Rom Pixel Experience OS Android 14 Xiaomi Poco x6 Pro Duchamp.
+Download Custom Rom Crdroid OS Android 14 Xiaomi Poco x6 Pro Duchamp.
 
 ## Changelog
 - wifi: Disable RX wakelock feature
