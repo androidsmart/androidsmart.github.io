@@ -82,5 +82,5 @@ Changelog:
 -----------------------------------------
 
 ## Download Link
-[Module](https://github.com/C0d3h01/AndroidTweaker/releases/tag/latest)
+[Module](https://github.com/C0d3h01/AndroidTweaker/releases/tag/2.1.5)
 
