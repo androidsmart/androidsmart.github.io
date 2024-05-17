@@ -4,9 +4,8 @@ title  : Download Project Matrixx OS Android 14 Poco F5 Marble
 date   : 2024-02-27T09:17:35+07:00
 slug   : projectmatrixx-a14-marble
 categories: [rom]
-tags      : [munch]
+tags      : [marble]
 keywords  : [poco F5]
-author : gotenksIN
 ---
 
 Download Custom Rom Project Matrixx Android 14 for poco f5 Marble.
@@ -35,8 +34,8 @@ By @kssrao13882
 
 
 ## Download Link
-[Gapps](https://sourceforge.net/projects/projectmatrixx/files/Android-14/marble/Matrixx-v10.3.0-Official-marble-Gapps-20240306.zip/download)
+[Gapps](https://sourceforge.net/projects/projectmatrixx/files/Android-14/marble)
 
-[Vanilla](https://sourceforge.net/projects/projectmatrixx/files/Android-14/marble/Matrixx-v10.3.0-Official-marble-Vanilla-20240306.zip/download)
+[Vanilla](https://sourceforge.net/projects/projectmatrixx/files/Android-14/marble)
 
-[How To Install](https://matrixx-devices.github.io/mi/marble_inst.html)
+[How To Install](https://www.projectmatrixx.org/downloads/marble)

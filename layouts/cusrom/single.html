@@ -6,6 +6,37 @@
 <body>
 {{ partial "navbar.html" . }}
 {{ partial "single.html" . }}
+
+<div class="container">
+<h2>Device Info</h2>
+{{ range .Params.categories }}
+ <p> Type : {{ . }}</p>
+{{ end }}
+
+
+
+{{ range .Params.keywords }}
+<p> Device : {{ . }}</p>
+{{ end }}
+{{ range .Params.tags }}
+<p> Codename : {{ . }}</p>
+{{ end }}
+
+{{ range .Params.keywords }}
+<h2> New Release Custom Rom For {{ . }}</h2>
+{{ end }}
+
+{{ $P := .Params.tags }}
+{{ range .Site.RegularPages | first 10 }}
+	{{ if eq .Params.tags $P }}
+	<div><a class="game_link" href="{{ .RelPermalink }}">{{ .Title }}</a></div>
+	{{ end }}
+
+{{ end }}
+
+</div>
+
+
 {{ partial "footer.html" }}
 {{ partial "js.html" . }} 
 </body>
