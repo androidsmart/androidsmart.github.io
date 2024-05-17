@@ -27,6 +27,25 @@ Changelog :
 - **Module Improvements:** Experience optimized performance with revamped modules.
 ----------------------------------------------------------------------------------------
 AndroidxTweaker
+### 2.51
+ ChangeLogs:
+- Implemented Auto ram boost.
+- Implemented Auto cache cleaner service.
+- Implemented Sqlite3 optimization (binary required).
+- implemented Prop tweaks.
+- Implemented CPU CoreClt.
+- Implemented Thermal services.
+- Improved File system.
+- Reworked I/O tweaks.
+- Reworked GPU variables.
+- Removed Network tweaks(Non-Comp).
+- Fixed preload permission.
+- Fixed CPU (battery).
+- Reworked File system.
+- Implemented GMS doze.
+- Fixed minor bugs.
+- Worked on many changes.
+
 Version:1.4.7
 Changelog:
 ### New:
@@ -63,8 +82,5 @@ Changelog:
 -----------------------------------------
 
 ## Download Link
-[Module](https://download60.github.io/202403/android-tweaker/)
-
-[Apk](https://download60.github.io/202403/android-tweaker/)
-
+[Module](https://github.com/C0d3h01/AndroidTweaker/releases/tag/latest)
 
