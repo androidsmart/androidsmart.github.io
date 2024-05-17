@@ -27,14 +27,19 @@
 {{ end }}
 
 {{ $P := .Params.tags }}
-{{ range .Site.RegularPages | first 10 }}
+{{ $Z := where site.RegularPages "Section" "eq" "cusrom" }}
+{{ $T :=  where $Z "Params.tags" "intersect" $P }}
+
+{{ range $T | first 10}}
+
 	{{ if eq .Params.tags $P }}
 	<div><a class="game_link" href="{{ .RelPermalink }}">{{ .Title }}</a></div>
 	{{ end }}
 
 {{ end }}
 
-</div>
+
+
 
 
 {{ partial "footer.html" }}
