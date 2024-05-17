@@ -1,15 +1,15 @@
 ---
 type   : cusrom
-title  : Download OrangeFox Latest Version Poco x6 Pro Duchamp
-date   : 2024-03-10T09:17:35+07:00
-slug   : orangefox-duchamp
+title  : Download OrangeFox Latest Version Poco x5 Pro Redwood
+date   : 2024-05-18T09:17:35+07:00
+slug   : orangefox-redwood
 categories: [Recovery]
-tags      : [duchamp]
-keywords  : [Twro]
+tags      : [redwood]
+keywords  : [Orangefox]
 author : wahyu6070
 ---
 
-Download Orangefox Latest version for Xiaomi Poco x6 Pro Duchamp
+Download Custom Recovery Orangefox Latest version for Xiaomi Poco x5 Pro Redwood
 
 ## Changelog
 - Now recovery uses as boot

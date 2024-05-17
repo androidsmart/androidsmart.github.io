@@ -1,17 +1,17 @@
 ---
 type   : cusrom
-title  : Download Twrp Latest Version Redmi Poco x6 Pro duchamp
-date   : 2024-03-10T09:17:35+07:00
-slug   : twrp-duchamp
+title  : Download Twrp Recovery Redmi Poco x5 Pro Redwood
+date   : 2024-05-18T09:17:35+07:00
+slug   : twrp-redwood
 categories: [Recovery]
-tags      : [duchamp]
-keywords  : [Twro]
+tags      : [redwood]
+keywords  : [Twrp]
 author : wahyu6070
 ---
 
-Download Twrp Latest version for Xiaomi Poco x6 Pro
+Download Custom Recovery Twrp Latest version for Xiaomi Poco x5 Pro Redwood
 
-## Changeloh
+## Changelog
 - Updated DT2W node
 - Start butanimation on post fs
 - Enabled LLVM
@@ -26,7 +26,19 @@ Download Twrp Latest version for Xiaomi Poco x6 Pro
 - Tuned Surfaceflinger for more smoothness 
 - Fixed QS lags with bluid
 
+## Notes 
+Only works in roms AOSP if follow same MIUI structure
+
+## How To Install
+Before doing the following you should be sure that your bootloader is unlocked.
+1. Download twrp-TheStrechh-RX.img from HERE, and platform tools from [HERE](https://developer.android.com/tools/releases/platform-tools?hl=es-419).
+2. Extract platform tools in C:\  and copy boot.img in folder.
+3. Open terminal (CMD) in local folder and paste this command fastboot boot twrp-TheStrechh-R2.img , then click enter.
+4. Device boot in TWRP interface go to Advance and select Flash current TWRP and confirm.
+5. Done, you have TWRP installed fine, now can reboot system.
+
 
 ## Download Link
-[Download](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)
+[Download](https://www.pling.com/p/2107386/)
 
+[How To Install](https://telegra.ph/Instructions-for-install-TWRP-redwood-11-20)
