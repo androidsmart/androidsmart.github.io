@@ -1,7 +1,7 @@
 ---
 type   : cusrom
 title  : Download Aweken OS Android 14 Asus Zenfone Max Pro M1
-date   : 2024-05-18T09:17:35+07:00
+date   : 2024-05-19T09:17:35+07:00
 slug   : aweken-a14-x00t
 categories: [rom]
 tags      : [X00T]

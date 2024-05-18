@@ -4,7 +4,7 @@ title  : Download Rom Project Elixir Android 14 Poco F1 Beryllium
 date   : 2024-03-06T09:17:35+07:00
 slug   : projectelixir-a14-beryllium
 categories: [rom]
-tags      : [pocof1]
+tags      : [beryllium]
 keywords  : [poco F1]
 author : wahyu6070
 ---

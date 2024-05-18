@@ -5,7 +5,7 @@ date   : 2024-03-06T09:17:35+07:00
 slug   : awakenos-a14-beryllium
 categories: [rom]
 tags      : [pocof1]
-keywords  : [poco F1]
+keywords  : [beryllium]
 author : wahyu6070
 ---
 
