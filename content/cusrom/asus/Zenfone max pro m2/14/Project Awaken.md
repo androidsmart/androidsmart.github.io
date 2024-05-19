@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Download Project Awaken OS Android 14 Asus Zenfone Max Pro M1
+title  : Download Project Awaken OS Android 14 Asus Zenfone Max Pro M2
 date   : 2024-05-20T09:17:35+07:00
 slug   : awaken-a14-x01bd
 categories: [rom]

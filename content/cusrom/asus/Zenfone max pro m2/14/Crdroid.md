@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Download Crdroid OS Android 14 Asus Zenfone Max Pro M1
+title  : Download Crdroid OS Android 14 Asus Zenfone Max Pro M2
 date   : 2024-05-20T09:17:35+07:00
 slug   : cdroid-a14-x01bd
 categories: [rom]
