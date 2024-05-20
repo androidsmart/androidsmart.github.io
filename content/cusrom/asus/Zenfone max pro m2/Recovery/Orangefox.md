@@ -2,7 +2,7 @@
 type   : cusrom
 title  : Download Orangefox Recovery Asus Zenfone Max Pro M2 X01BD
 date   : 2024-05-20T09:17:35+07:00
-slug   : twrp-x01bd
+slug   : orangefox-x01bd
 categories: [Recovery]
 tags      : [X01BD]
 keywords  : [Asus Zenfone Max pro M2]
