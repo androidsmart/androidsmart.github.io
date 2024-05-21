@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Download Peoject Elixir OS Android 14 Poco X6 garnet
+title  : Download Project Elixir OS Android 14 Poco X6 garnet
 slug   : elixir-a14-garnet
 date   : 2024-05-21T09:17:35+07:00
 categories: [rom]
