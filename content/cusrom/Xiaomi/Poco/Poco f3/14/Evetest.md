@@ -5,7 +5,7 @@ date   : 2024-04-18T09:17:35+07:00
 slug   : everest-a14-alioth
 categories: [rom]
 tags      : [alioth]
-keywords  : [poco F4]
+keywords  : [poco F3]
 author : wahyu6070
 ---
 
