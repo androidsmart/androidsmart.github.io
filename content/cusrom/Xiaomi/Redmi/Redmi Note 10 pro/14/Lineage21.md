@@ -32,3 +32,5 @@ By Pulkit Agarwal
 ## Download Link
 [Download ROM](https://downloads.pulkit077.workers.dev/0:/Downloads/lineage-21.0-20240209-UNOFFICIAL-sweet.zip)
 
+[by aryann](https://files.danielml.dev/android/sweet/lineage-21/lineage-21.0-20240323-UNOFFICIAL-sweet.zip)
+
