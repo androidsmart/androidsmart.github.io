@@ -10,16 +10,22 @@
 <div class="container">
 <h2>Device Info</h2>
 {{ range .Params.categories }}
- <p> Type : {{ . }}</p>
+ <div class="p1"> Type : {{ . }}</div>
 {{ end }}
 
 
 
 {{ range .Params.keywords }}
-<p> Device : {{ . }}</p>
+<div class="p1"> Device : {{ . }}</div>
 {{ end }}
 {{ range .Params.tags }}
-<p> Codename : {{ . }}</p>
+<div class="p1"> Codename : {{ . }}</div>
+{{ end }}
+
+{{ if .Params.author }}
+
+<div class="p1"> Maintainer ROM : <a href="https://t.me/{{ .Params.author }}">{{ .Params.author }}</a></div>
+
 {{ end }}
 
 {{ range .Params.keywords }}
@@ -33,7 +39,7 @@
 {{ range $T | first 200}}
 
 	{{ if eq .Params.tags $P }}
-	<div><a class="game_link" href="{{ .RelPermalink }}">{{ .Title }}</a></div>
+	<div class="p1"><a class="game_link" href="{{ .RelPermalink }}">{{ .Title }}</a></div>
 	{{ end }}
 
 {{ end }}
