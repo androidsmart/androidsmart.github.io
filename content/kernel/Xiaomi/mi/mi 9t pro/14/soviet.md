@@ -1,5 +1,5 @@
 ---
-type   : cusrom
+type   : kernel
 title  : Soviet Star kernel for Mi 9T Pro raphael
 slug   : soviet-kernel-raphael
 date   : 2024-05-24

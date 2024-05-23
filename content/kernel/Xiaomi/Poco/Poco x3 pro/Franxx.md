@@ -4,7 +4,7 @@ title  : Download Franxx Kernel Poco X3 Pro
 date   : 2024-05-07T09:17:35+07:00
 slug   : franxx-vayu
 categories: [kernel]
-tags      : [kernel, vayu]
+tags      : [vayu]
 keywords  : [kernel]
 ---
 

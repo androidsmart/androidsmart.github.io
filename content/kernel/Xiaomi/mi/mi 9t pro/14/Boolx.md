@@ -1,5 +1,5 @@
 ---
-type   : cusrom
+type   : kernel
 title  : Boolx kernel for Mi 9T Pro raphael
 slug   : boolx-kernel-raphael
 date   : 2024-05-24
