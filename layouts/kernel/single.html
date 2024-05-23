@@ -6,6 +6,48 @@
 <body>
 {{ partial "navbar.html" . }}
 {{ partial "single.html" . }}
+
+<div class="container">
+<h2>Device Info</h2>
+{{ range .Params.categories }}
+ <div class="p1"> Type : {{ . }}</div>
+{{ end }}
+
+
+
+{{ range .Params.keywords }}
+<div class="p1"> Device : {{ . }}</div>
+{{ end }}
+{{ range .Params.tags }}
+<div class="p1"> Codename : {{ . }}</div>
+{{ end }}
+
+{{ if .Params.author }}
+
+<div class="p1"> Developer kernel : <a href="https://t.me/{{ .Params.author }}">{{ .Params.author }}</a></div>
+
+{{ end }}
+
+{{ range .Params.keywords }}
+<h2> New Release Custom Kernel For {{ . }}</h2>
+{{ end }}
+
+{{ $P := .Params.tags }}
+{{ $Z := where site.RegularPages "Section" "eq" "cusrom" }}
+{{ $T :=  where $Z "Params.tags" "intersect" $P }}
+
+{{ range $T | first 200}}
+
+	{{ if eq .Params.tags $P }}
+	<div class="p1"><a class="game_link" href="{{ .RelPermalink }}">{{ .Title }}</a></div>
+	{{ end }}
+
+{{ end }}
+
+
+
+
+
 {{ partial "footer.html" }}
 {{ partial "js.html" . }} 
 </body>
