@@ -5,7 +5,7 @@ slug   : boolx-kernel-raphael
 date   : 2024-05-24
 categories: [kernel]
 tags      : [raphael]
-keywords  : [mid 9T Pro]
+keywords  : [mi 9T Pro]
 author : NATO66613
 ---
 

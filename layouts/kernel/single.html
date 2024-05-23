@@ -33,7 +33,7 @@
 {{ end }}
 
 {{ $P := .Params.tags }}
-{{ $Z := where site.RegularPages "Section" "eq" "cusrom" }}
+{{ $Z := where site.RegularPages "Section" "kernel" }}
 {{ $T :=  where $Z "Params.tags" "intersect" $P }}
 
 {{ range $T | first 200}}
