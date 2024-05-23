@@ -30,7 +30,21 @@ Download Custom Rom Lineage 21 android 14 Xiaomi redmi note 10 pro Sweet.
 By Pulkit Agarwal
 
 ## Download Link
+## Official
+[ROM](https://devuploads.com/12563sc4sir5)
+
+[boot.img](https://devuploads.com/zc4s4ijx6zso)
+
+[dtbo.img](https://devuploads.com/1jt3zr1c7pli)
+
+[recovery.img](https://devuploads.com/v5iwr8unesv6)
+
+[super_empty.img](https://devuploads.com/017o7nqnrg2m)
+
+[vbmeta.img](https://devuploads.com/l84zb8fjqdlq)
+
+
+### Unofficial
 [Download ROM](https://downloads.pulkit077.workers.dev/0:/Downloads/lineage-21.0-20240209-UNOFFICIAL-sweet.zip)
 
-[by aryann](https://files.danielml.dev/android/sweet/lineage-21/lineage-21.0-20240323-UNOFFICIAL-sweet.zip)
 
