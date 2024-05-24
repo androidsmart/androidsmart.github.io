@@ -36,5 +36,4 @@ fastboot update --skip-secondary --skip-reboot path/to/aospa_zip
 - include gapps
 
 ## Download Link
-[Download ROM](https://mirror.codebucket.de/gotenks/unofficial/aospa-uvite-unofficial-marble-20240226-image.zip)
-
+[Download ROM](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)

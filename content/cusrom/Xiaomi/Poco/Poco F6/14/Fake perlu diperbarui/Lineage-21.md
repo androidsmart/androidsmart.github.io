@@ -1,8 +1,8 @@
 ---
 type   : cusrom
 title  : Download Lineage OS 21 Android 14 Poco F6 Peridot
-date   : 2024-03-25T09:17:35+07:00
-slug   : lineage21-a14-peridot
+date   : 2024-05-25T09:17:35+07:00
+slug   : lineage-a14-peridot
 categories: [rom]
 tags      : [peridot]
 keywords  : [poco F6]
@@ -10,65 +10,33 @@ author : gotenksIN
 ---
 
 
-LineageOS is one of the most popular custom ROMs for Android devices, offering a clean, fast, and customizable experience. LineageOS 21 is based on Android 14, the latest version of the operating system that brings new features, security updates, and performance improvements.
+LineageOS, an aftermarket firmware distribution based on the Android Open Source Project, offers an alternative to stock Android. With LineageOS 21, Poco F6 users can enjoy a customized experience, improved performance, and additional features.
 
-In this article, we will review LineageOS 21 for POCO F6, a high-end, mid-range smartphone from Xiaomi that was released in 2024. We will cover the installation process, the features, the performance, and the battery life of the ROM.
+## Changelog
+- Add missing charger & dolby visiob blobs
+- Core build
+- Fixed Autobrightness
+- Rebase on Los tree
+- Synced with latest los kernel
+- Update hyper blobs from V816.0.5.0
 
-## Installation
+## Key Features of LineageOS 21
+1. **Android 14 Base**: LineageOS 21 is built on Android 14, providing the latest features, security enhancements, and performance improvements.
+2. **Material You Design**: LineageOS adopts the Material You design for various apps, including Aperture, Jelly, Dialer, Contacts, Messaging, LatinIME, and Calculator. This ensures a pleasant and customizable user interface.
+3. **Advanced Gallery App**: The new gallery app, called "glimpse," replaces Gallery2. It offers more advanced and functional image management features.
+4. **Camera Improvements**: Aperture benefits from CameraX API updates, including HDR video recording, configurable volume button gestures, UI rotation support, an improved QR scanner, and voice actions for the assistant.
+5. **Global Light Mode for Quick Settings**: LineageOS 21 introduces a global light mode for Quick Settings, enhancing customization options.
+6. **Optimized Update Installation**: The update installation process (A/B) is faster, thanks to optimizations from Google. Monthly security patches are also easier to integrate.
 
-To install LineageOS 21 on POCO F6, you will need to have an unlocked bootloader, a custom recovery, and a compatible firmware. You can follow the instructions from the on XDA Forums, where you can also find the download links for the ROM and the recovery.
-
-The installation process is simple and straightforward:
-
-- Download the LineageOS 21 zip file and the Lineage Recovery image from the thread.
-- Copy the zip file to your device's internal storage.
-- Boot your device into fastboot mode by holding Volume Down + Power buttons.
-- Flash the Lineage Recovery image using the command `fastboot flash recovery lineage-21.0-20240327-recovery-peridot.img`.
-- Reboot your device into recovery mode by holding Volume Up + Power buttons.
-- Wipe the data, cache, and system partitions from the recovery menu.
-- Tap on Apply Update and select the LineageOS 21 zip file from your internal storage.
-- Swipe to confirm the installation and wait for it to finish.
-- Reboot your device and enjoy LineageOS 21.
-
-## Features
-
-LineageOS 21 for POCO F6 offers a stock Android experience with some additional features and customizations. Some of the notable features are:
-
-- **LineageOS Updater**: This app allows you to check for and install OTA updates for the ROM without using a computer. You can also choose the update frequency and the preferred network (Wi-Fi or mobile data) for downloading the updates.
-- **LineageOS Trust**: This app provides a security dashboard that shows the status of your device's encryption, SELinux, and root access. It also lets you manage the permissions and privacy settings for your apps and services.
-- **LineageOS Recorder**: This app lets you record your screen and audio with various options and quality settings. You can also edit and share your recordings from the app.
-- **LineageOS Snap**: This app is the default camera app for LineageOS 21. It supports various modes and features such as HDR, portrait, panorama, night, pro, and more. It also has a QR code scanner and a document scanner built-in.
-- **LineageOS Trebuchet**: This app is the default launcher for LineageOS 21. It offers a simple and smooth home screen with customizable icons, widgets, and gestures. You can also access the Google Feed by swiping left from the home screen.
-- **LineageOS Styles**: This feature allows you to change the accent color, the icon shape, the font, and the system theme of your device. You can choose from a range of presets or create your own custom style.
-- **LineageOS Profiles**: This feature allows you to create and switch between different profiles that have different settings for sound, display, network, and more. You can also trigger the profiles based on time, location, or events.
-- **LineageOS Quick Settings**: This feature allows you to customize the quick settings panel with various tiles and options. You can also access the power menu, the volume panel, and the notification settings from the quick settings panel.
-
-## Performance
-
-LineageOS 21 for POCO F6 delivers a smooth and stable performance with no major bugs or issues. The ROM is based on a fully open source kernel, which is a rare feat for this device. The kernel supports various features such as WireGuard, KVM, and F2FS.
-
-The ROM also supports the hardware features of the device, such as the fingerprint scanner, the IR blaster, the NFC, and the dual speakers. The device supports VoLTE, VoWiFi, and carrier aggregation on both SIM slots.
-
-The ROM has a good RAM management and multitasking capability, with no noticeable lags or stutters. The gaming performance is also decent, with most games running at high settings and stable frame rates.
-
-The benchmark scores of the device on LineageOS 21 are as follows:
-
-- **AnTuTu**: 472,321
-- **Geekbench 5**: 762 (single-core), 2,534 (multi-core), 2,178 (compute)
-- **3DMark**: 4,512 (Sling Shot Extreme OpenGL), 4,278 (Sling Shot Extreme Vulkan)
-
-## Battery Life
-
-LineageOS 21 for POCO F6 has a good battery life, with an average screen-on time of around 7 hours on a single charge. The device has a 5,000 mAh battery that supports 33W fast charging. The ROM also supports adaptive battery, battery saver, and smart charging features.
-
-The battery drain on standby and idle modes is minimal, with no significant wakelocks or drain sources. The device also has a good thermal management, with no overheating or throttling issues.
-
-## Conclusion
-
-LineageOS 21 for POCO F6 is a great custom ROM that offers a pure Android experience with some useful features and customizations. The ROM is stable, smooth, and secure, with regular updates and support from the developer and the community. The ROM also enhances the performance, the battery life, and the hardware compatibility of the device.
-
-If you are looking for a ROM that gives you the best of both worlds - stock Android and LineageOS - then LineageOS 21 for POCO F6 is the one for you. You can download and install the ROM from the on XDA Forums and join the discussion and feedback there.
+## Installation Steps
+1. **Unlock Bootloader**: Before installing LineageOS, unlock the bootloader of your Poco F6.
+2. **Backup Your Data**: Back up your data to avoid any loss during installation.
+3. **Download LineageOS 21**: Visit the official LineageOS website or community forums to find the latest build for the Poco F6.
+4. **Install TWRP Recovery**: Flash TWRP recovery onto your device using fastboot or other methods.
+5. **Flash LineageOS 21**: Boot into recovery mode (TWRP) and install the LineageOS 21 zip file. Don't forget to flash the GApps package if needed.
+6. **Wipe Cache and Dalvik Cache**: After installation, wipe the cache and Dalvik cache for a clean system.
+7. **Reboot**: Reboot your device, and you should now be running LineageOS 21!
 
 
 ## Download Link
-[ROM](https://lineageos.org/)
+[ROM](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)

@@ -40,5 +40,4 @@ Download Custom Rom EvolutionX android 14  for poco f5 Marble.
 
 
 ## Download Link
-[ROM](https://sourceforge.net/projects/evolution-x/files/marble/)
-
+[ROM](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)

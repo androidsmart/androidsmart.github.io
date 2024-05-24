@@ -47,5 +47,4 @@ Download Custom Rom Crdroid android 14  for poco f5 Marble.
 By @JYR_RC
 
 ## Download Link
-[Download ROM](https://sourceforge.net/projects/crdroid/files/marble/10.x/crDroidAndroid-14.0-20240309-marble-v10.2.zip/download)
-
+[Download ROM](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)

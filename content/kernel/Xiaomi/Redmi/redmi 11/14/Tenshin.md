@@ -1,7 +1,7 @@
 ---
 type   : kernel
-title  : Dragon Ice kernel for Redmi 11 Spes
-slug   : dragon-kernel-spes
+title  : Tenshin kernel for Redmi 11 Spes
+slug   : tenshin-kernel-spes
 date   : 2024-05-24
 categories: [kernel]
 tags      : [spes]
@@ -9,7 +9,7 @@ keywords  : [Redmi 11]
 author : NATO66613
 ---
 
-Download Custom Kernel Dragon Ice Android 14 Xiaomi 9T Pro.
+Download Custom Kernel Tenshin Android 14 Xiaomi 9T Pro.
 
 ## Changelog
 - Add 3 variants : PURE/OC/EROFS

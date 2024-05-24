@@ -1,28 +1,25 @@
 ---
 type   : cusrom
 title  : Download Awaken OS Android 14 Poco F5 Marble
-date   : 2024-05-06T09:17:35+07:00
-slug   : awaken-a14-marble
+date   : 2024-05-25T09:17:35+07:00
+slug   : awaken-a14-peridot
 categories: [rom]
-tags      : [marble]
-keywords  : [poco F5]
+tags      : [peridot]
+keywords  : [poco F6]
 author : gotenksIN
 ---
 
-Download Custom Rom Awaken android 14  for poco f5 Marble.
+Download Custom Rom Awaken android 14  for poco f6 Peridot.
 
 ## Changelog
-- Allowed users to disable clipboard overlay.
-- Introduced hotspot client manager.
-- Introduced new battery info page.
-- new refresh rate page.
-- Misc fixes and improvements
-- Reintroduced internet and sensor permissions.
-- Reintroduced power off alarm service.
-
-
-## Known issues
-- Adaptive brightness 
+- Fixed Auto Brightness issue
+- Haptics improved
+- Screen flickering at low brightness is addressed to some extent (very less flickers now)
+- Update fingerprint for play integrity
+- Add per-app Firewall from Calyx
+- Bring back tuner navbar editor from Android 7
+- Add toggle for squiggle animation
+- DerpLauncher: Fix kill app button drawable for regular design
 
 ## Notes
 - Initial official release
@@ -35,7 +32,4 @@ Download Custom Rom Awaken android 14  for poco f5 Marble.
 
 
 ## Download Link
-[ROM](https://www.pling.com/p/1422701/)
-
-[How To Install](https://awakenos.vercel.app/downloads/marble)
-
+[ROM](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)

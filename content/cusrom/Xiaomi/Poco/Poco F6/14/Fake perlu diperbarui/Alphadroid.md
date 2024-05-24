@@ -1,41 +1,23 @@
 ---
 type   : cusrom
-title  : Download Alphadroid OS Android 14 Poco F5 Marble
-date   : 2024-02-27T09:17:35+07:00
-slug   : alphadroid-a14-marble
+title  : Download Alphadroid OS Android 14 Poco F6 Peridot
+date   : 2024-05-25T09:17:35+07:00
+slug   : alphadroid-a14-peridot
 categories: [rom]
-tags      : [marble]
-keywords  : [poco F5]
+tags      : [peridot]
+keywords  : [poco F6]
 author : gotenksIN
 ---
 
-Download Custom Rom Alphadroid android 14  for poco f5 Marble.
+Download Custom Rom Alphadroid android 14  for poco f6 Peridot.
 
 ## Changelog
-- marble: thermal: Nuke qti thermal
-- marble: thermal: Import qcom-caf thermal HAL
-- marble: init: Set minimum scaling frequency of silver cluster to 300MHz
-- marble: rro-overlay: Don't use proximity sensor for DozeSensors
-- marbe: config: Enable Advanced SF Phase Offsets
-- marble: overlay: Make the UI smoother
-- marble: Debloat Some Apps
-- marble: overlay: Add config_wallpaperMaxScale overlay
-- marble: Fixup-Enable FUSE Passthrough
-- marble: rootdir: Fix the battery drain due to statsd...?
-- marble: Kang libqcrilNrSmsModule.so from OOS 11.C.51
-- Revert "[PATCH] marble: Import oriole cpuctl tuning"
-- marble: BoardConfig: set HWUI_COMPILE_FOR_PERF to "true"
-- marble: Import Powerhint from stock
-- marble: props: Remove Force triple frame buffers
-- marble: Sync some of the refresh rate properties with Pixel
-- marble: Optimise dex flags
-- marble: overlay: improve signal reception
-- marble: configs: wifi: Disable FW TWT
-- marble: Move to PreferenceFragmentCompat
-- marble: sepolicy: qti: Address qcom perf hal denials
-- fixup! marble: Enable VoNR Calls support
-- marble: overlay: Don't require long press for lockscreen shortcuts
-- marble: Enable GL comp backpressure
+- Fixed Auto Brightness issue
+- Haptics improved
+- Screen flickering at low brightness is addressed to some extent (very less flickers now)
+- Switched to Los based trees
+- Based on QPR2 April security patch
+- Switched to OSS kernel and ships with 5.10.209 based on latest April tag ASB-
 
 ## Notes
 - Nik gapps core for vannila version
@@ -44,11 +26,6 @@ Download Custom Rom Alphadroid android 14  for poco f5 Marble.
 - Flash this for ksu
 - Clean flash mandatory
 
-By @chaitanyabuilds
 
 ## Download Link
-[Vanilla](https://sourceforge.net/projects/alphadroid-project/files/marble/vanilla/AlphaDroid-14.0-20240306-marble-vanilla-v2.0.zip/download)
-
-[Gapps](https://sourceforge.net/projects/alphadroid-project/files/marble/gapps/AlphaDroid-14.0-20240306-marble-gapps-v2.0.zip/download)
-
-[How To Install](https://t.me/chaitanyabuilds/65637)
+[Vanilla](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)

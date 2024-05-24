@@ -1,60 +1,24 @@
 ---
 type   : cusrom
-title  : Download Rom BlackIron Android 14 Poco F5 Official
-date   : 2024-02-27T09:17:35+07:00
-slug   : BlackIron-a14-marble
+title  : Download BlackIron Android 14 Poco F6 Peridot
+date   : 2024-05-25T09:17:35+07:00
+slug   : BlackIron-a14-peridot
 categories: [rom]
-tags      : [pocof5]
-keywords  : [poco F5]
-author : JYR_RC
+tags      : [peridot]
+keywords  : [poco F6]
 ---
 
-Download Custom Rom BlackIron android 14 poco f5 official.
+Download Custom Rom BlackIron android 14 poco f6 peridot.
 
 
-## Changelog - 14.0// V4.1 25/02/2024
-
- - Switch Google gki Kernel
- - Added oplus Dolby
- - Leica camera default camera
- - Improved reception signal
- - Dex optimization for apps
- - Added changes to reserve and optimize battery
- - Added force triple frame buffers for performance
- - Optimization for Qs lag
- - Update media codecs fix glitches and flick in youtube/Instagram 4k
- - Nuke viperFx
- - Nuke refresh rate per app
- - Firmware hyperOS your region required for installation
-
-## Method installation
-
- Mandatory installation clean
-
- Mandatory installation firmware your region 
-
- Using twrp minimum 8.0. Skkk
-
- Into twrp
-
- Format data
-
- Restart twrp
-
- Install firmware hyperOS!!!!!
-
- Install rom
-
- Start system
-
-
-
-## Changelog - 14.0// V4.1 06/02/2024
-
- - Initial official build
- - Included dolby atmos
- - Added spatial audio
- - Enabled Smart Pixel
+## Changelog
+- Added Leica Camera
+- Nuked the system apps AudioFX, Auxio and Matlog
+- Fixed the issue of vendor security patch level displaying as unknown
+- Added Google messaging to fix sms not receiving after device restart
+- Ships with Google Dialer instead of Aosp dialer
+- Added back Support for 32 bit apps
+- Switched to Silver core kernel
 
 ## Notes
 - Based in hyperOS firmware 
@@ -63,5 +27,4 @@ Download Custom Rom BlackIron android 14 poco f5 official.
 - Read changelog for install
 
 ## Download Link
-[Download ROM](https://sourceforge.net/projects/black-iron-project/files/marble/)
-
+[Download ROM](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)

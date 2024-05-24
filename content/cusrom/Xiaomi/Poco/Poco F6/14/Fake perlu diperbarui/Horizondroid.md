@@ -83,5 +83,5 @@ If already on HyperOS based custom rom
 - If you come from another custom rom with miui firmware or A13 you must install hyperOS firmware
 
 ## Download Link
-[Download ROM](https://sourceforge.net/projects/horizondroid/files/marble/HorizonDroid-v2.3-Lynx-marble-14.0-OFFICIAL-20240309-0826.zip/download)
+[Download ROM](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)
 

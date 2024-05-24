@@ -36,7 +36,5 @@ Download Custom Rom Pixel OS android 14  for poco f5 Marble.
 
 
 ## Download Link
-[ROM](https://sourceforge.net/projects/marble-builds/files/pixelos/)
-
-[How To Install](https://t.me/chaitanyabuilds/56582)
+[ROM](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)
 

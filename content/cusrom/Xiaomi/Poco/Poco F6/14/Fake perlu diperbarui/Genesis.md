@@ -25,5 +25,4 @@ Download Custom Rom Genesis OS android 14  for poco f5 Marble.
 By @Wally_We5t & @nerdfail & @rokusenpaii
 
 ## Download Link
-[Download ROM](https://www.genesisos.dev/devices/marble)
-
+[Download ROM](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)
