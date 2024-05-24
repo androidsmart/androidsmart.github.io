@@ -1,21 +1,20 @@
 ---
 type   : cusrom
-title  : Download Genesis OS Android 14 Poco F5 Marble
-date   : 2024-03-11T09:17:35+07:00
-slug   : genesis-a14-marble
+title  : Download Genesis OS Android 14 Poco F6 Peridot
+date   : 2024-05-26T09:17:35+07:00
+slug   : genesis-a14-peridot
 categories: [rom]
-tags      : [marble]
-keywords  : [poco F5]
-author : gotenksIN
+tags      : [peridot]
+keywords  : [poco F6]
 ---
 
-Download Custom Rom Genesis OS android 14  for poco f5 Marble.
+Download Custom Rom Genesis OS android 14  for poco f6 peridot.
 
 ## Changelog
-- SMS Issue Fixed
-- Improved Performance
-- Improved Battery Backup
-- Initial release
+- Based on HyperOS firmware
+- Added 90Hz support
+- Ships with Evenstar Kernel non-ksu variant
+- Dropped support for 32 bit apps for now
 
 ## Notes
 - OTA Has Been Pushed 

@@ -1,34 +1,25 @@
 ---
 type   : cusrom
-title  : Download Rom Paranoid Android 14 Poco F5 Official
-date   : 2024-02-27T09:17:35+07:00
-slug   : paranoid-a14-marble
+title  : Download Rom Paranoid Android 14 Poco F6 Peridot
+date   : 2024-05-26T09:17:35+07:00
+slug   : paranoid-a14-peridot
 categories: [rom]
-tags      : [pocof5]
-keywords  : [poco F5]
+tags      : [peridot]
+keywords  : [poco F6]
 author : gotenksIN
 ---
 
-Download Paranoid android 14 poco f5 official.
+Download Paranoid android 14 poco f6 Peridot.
 
 # Changelog
-- Replace IOP with Preferred apps
-- Tune CPU Boost
-- Add more battery info parameters
-- Fix mobile data always showing unavailable data in internet tile
-- Adjust stereo speaker based on orientation
-- Update to OS1.0.3.0.UMRMIXM
-
-## Installation
-Make sure you have the latest platform-tools and Google USB Drivers installed (check #platform-tools).
-
-Steps for installing a fastboot package:
-1. Reboot to bootloader
-2. Execute this for flashing the ROM:
-fastboot update --skip-secondary --skip-reboot path/to/aospa_zip
-3. Reboot to Recovery.
-4. Go to Wipe Data \ Factory Reset to format.
-5. Reboot to System
+- Fixed sms/otp not receiving issue
+- Fixed Thermals
+- Fixed ott apps crash and now Widevine is back to L1
+- Improved Auto Brightness
+- Set Brightness slider curve Implementation (Enjoy higher brightness at lower slider positions)
+- Upstreamed Evenstar Non ksu kernel to 5.10.211
+- Updated BCR to latest 1.61
+- Ships with Moto Dolby and Dirac instead of parts Dolby and ViperFX
 
 ## Notes
 - Based in hyperOS firmware 

@@ -1,25 +1,23 @@
 ---
 type   : cusrom
-title  : Download Rom Derpfest Android 14 Poco F5 Marble
+title  : Download Rom Derpfest Android 14 Poco F6 peridot
 date   : 2024-03-25T09:17:35+07:00
-slug   : derpfest-a14-marble
+slug   : derpfest-a14-peridot
 categories: [rom]
-tags      : [pocof5]
-keywords  : [poco F5]
+tags      : [peridot]
+keywords  : [peridot]
 author : kssrao13882
 ---
 
-Download Custom Rom Derpfest android 14 for xiaomi poco f5 marble.
+Download Custom Rom Derpfest android 14 for xiaomi poco f6 Peridot.
 
 
-## Source Changelog
+## Changelog
 - Base HyperOS
-- Update Evenstar kernel 5.10.211
-- Added Moto Dolby
-- Added MiuiCamera Stock
-- Double Tap Fingerprint sensor fixed
-- Safety Pass Default
-- Based Feb Patch
+- Hotfix update for 10.2.1 release of 22.01.24
+- Fixed Fingerprint issues that was randomly occuring with few users
+- Dropped Smooth display for now
+- Switch back to Silvercore Kernel based on 5.10.208 (Though melt was not behind the FP issue)
 
 ## Notes
 - Use HyperOS firmware

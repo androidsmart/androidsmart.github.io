@@ -1,7 +1,7 @@
 ---
 type   : cusrom
 title  : Download Rom BananaDroid Android 14 Poco F6 Peridot
-date   : 2024-05-25T09:17:35+07:00
+date   : 2024-05-27T09:17:35+07:00
 slug   : bananadroid-a14-peridot
 categories: [rom]
 tags      : [peridot]

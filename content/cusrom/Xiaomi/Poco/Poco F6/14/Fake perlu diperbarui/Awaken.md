@@ -1,7 +1,7 @@
 ---
 type   : cusrom
 title  : Download Awaken OS Android 14 Poco F5 Marble
-date   : 2024-05-25T09:17:35+07:00
+date   : 2024-05-27T09:17:35+07:00
 slug   : awaken-a14-peridot
 categories: [rom]
 tags      : [peridot]

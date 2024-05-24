@@ -1,43 +1,25 @@
 ---
 type   : cusrom
-title  : Download EvolutionX OS Android 14 Poco F5 Marble
-date   : 2024-05-06T09:17:35+07:00
-slug   : evolutionx-a14-marble
+title  : Download EvolutionX OS Android 14 Poco F6 Peridot
+date   : 2024-05-26T09:17:35+07:00
+slug   : evolutionx-a14-peridot
 categories: [rom]
-tags      : [marble]
-keywords  : [poco F5]
-author : gotenksIN
+tags      : [peridot]
+keywords  : [poco F6]
 ---
 
-Download Custom Rom EvolutionX android 14  for poco f5 Marble.
+Download Custom Rom EvolutionX android 14  for poco f6 Peridot.
 
 ## Changelog
-- Build qca6750 module in addition to qca6490
-- Decommonize libssccalapi@2.0
-- Define device specific kernel modules
-- Enable xiaomi vibrator effects on common qti vibrator hal
-- Extract diwali media configs
-- Fix black glowing at DCI-P3 and others
-- Move to QTI health AIDL service
-
-## Notes:
-- Auto brightness still dead
-- Updated LOS trees
-- LosKsu.zip updated
-- Includes Dolby Vision, POCO Camera, Link to Windows
-- Clean flash required if coming from Feb/March builds
-- Select default clock in Wallpapers & styles menu first before changing custom clock in Evolver
-- AOSP-based source.
-- Make sure to be on HyperOS firmware first.
-- Clean flash is required if coming from March or older builds.
-- Install LosKsuMarble-042824.zip (https://sourceforge.net/projects/evolution-x/files/marble/14/LosKsuMarble-042824.zip/download) for root.
-- Play Integrity passes by default (As of 04/28/2024).
-- Includes Dolby Atmos, POCO Camera.
-- Credits to Arian16k, GR, Chaitanya, Adrianyyyy.
-
-## Credits
-- ArianK16a, Adrianyyyy, Chaitanya, ghostrider_reborn
-
+- Fixed Green tint at low brightness
+- Added smooth display Toggle
+- Fixed some Janks
+- Tuned charging control parameters
+- Silence some spammy logging (reduces idle cpu usage)
+- Tune ambient display burn-in protection
+- Updated Silvercore Kernel to latest 5.10.209
+- Updated ViperFX app to latest 6.1
+- In order to fix crashing ott apps, widevine compromised to L3 for now
 
 ## Download Link
 [ROM](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)

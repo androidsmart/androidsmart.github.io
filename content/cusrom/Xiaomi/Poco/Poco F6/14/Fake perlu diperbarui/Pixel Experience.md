@@ -1,30 +1,24 @@
 ---
 type   : cusrom
-title  : Download Pixel Experience Android 14 Poco F5 Marble
-date   : 2024-03-11T09:17:35+07:00
-slug   : pe-a14-marble
+title  : Download Pixel Experience Android 14 Poco F6 Peridot
+date   : 2024-05-26T09:17:35+07:00
+slug   : pe-a14-peridot
 categories: [rom]
 tags      : [marble]
 keywords  : [poco F5]
-author : gotenksIN
 ---
 
-Download Custom Rom Pixel Experience android 14  for poco f5 Marble.
+Download Custom Rom Pixel Experience android 14  for poco f6 peridot.
 
 ## Notes
-- Based on February Security Patch
-- Default kernel is Google gki nonksu
-- SMS issue fixed
-- Flash this for ksu
-- Clean flash is mandatory
-- Based on HyperOS firmware, so follow Flashing Instructions carefully to avoid Bricking
+- Fixed Auto Brightness issue
+- Disable frame rate override feature
+- Disable backpressure prop (helps fix lags and Janks )
+- Updated BCR to latest 1.59
+- Updated Silvercore Kernel to latest by Chaitanya
 
 ## Credits
 - @Saikiran008 for base trees
-- @kssrao13882 for the invaluable support
-- @Skrull10 for testing
-
-By @AnilShebin
 
 ## Download Link
 [Download ROM](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)
