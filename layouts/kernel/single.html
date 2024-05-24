@@ -28,6 +28,10 @@
 
 {{ end }}
 
+{{ if .Params.source }}
+<div class="p1"> Source : <a href="{{ .Params.source }}">{{ .Params.source }}</a></div>
+{{ end }}
+
 {{ range .Params.keywords }}
 <h2> New Release Custom Kernel For {{ . }}</h2>
 {{ end }}
