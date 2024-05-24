@@ -1,8 +1,8 @@
 User-agent: *
 Allow: /
-Disallow: /tags/
-Disallow: /d/
-Disallow: /categories/
+Disallow: /tags/*
+Disallow: /d/*
+Disallow: /categories/*
 
 Sitemap: https://androidsmart.github.io/sitemap.xml
 
