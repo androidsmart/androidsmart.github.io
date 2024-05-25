@@ -5,8 +5,8 @@ date   : 2024-05-07T09:17:35+07:00
 slug   : fussion-kernel-mido
 categories: [kernel]
 tags      : [mido]
-keywords  : [fussion kernel]
-author : wahyu6070
+keywords  : [Redmi Note 4X]
+author : Alone0316
 ---
 
 Download Custom kernel Fussion for redmi note 4x mido
