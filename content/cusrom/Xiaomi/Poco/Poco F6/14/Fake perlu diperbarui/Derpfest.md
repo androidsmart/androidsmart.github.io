@@ -1,7 +1,7 @@
 ---
 type   : cusrom
 title  : Download Rom Derpfest Android 14 Poco F6 peridot
-date   : 2024-03-25T09:17:35+07:00
+date   : 2024-05-26T09:17:35+07:00
 slug   : derpfest-a14-peridot
 categories: [rom]
 tags      : [peridot]

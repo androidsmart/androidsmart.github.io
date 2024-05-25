@@ -1,7 +1,7 @@
 ---
 type   : cusrom
 title  : Download Pixel Star OS Android 14 Poco F6 Peridot
-date   : 2024-05-26T09:17:35+07:00
+date   : 2024-05-29T09:17:35+07:00
 slug   : pixelstar-a14-marble
 categories: [rom]
 tags      : [peridot]

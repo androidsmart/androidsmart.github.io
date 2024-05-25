@@ -1,7 +1,7 @@
 ---
 type   : cusrom
 title  : Download Superior Extended Android 14 Poco F6 peridot
-date   : 2024-05-26T09:17:35+07:00
+date   : 2024-05-29T09:17:35+07:00
 slug   : superiorextended-a14-peridot
 categories: [rom]
 tags      : [peridot]

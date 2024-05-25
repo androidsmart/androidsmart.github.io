@@ -1,7 +1,7 @@
 ---
 type   : cusrom
 title  : Download EvolutionX OS Android 14 Poco F6 Peridot
-date   : 2024-05-26T09:17:35+07:00
+date   : 2024-05-28T09:17:35+07:00
 slug   : evolutionx-a14-peridot
 categories: [rom]
 tags      : [peridot]

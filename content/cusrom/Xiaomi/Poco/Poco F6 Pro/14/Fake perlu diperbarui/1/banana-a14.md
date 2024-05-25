@@ -1,15 +1,16 @@
 ---
 type   : cusrom
-title  : Download Blaze Project OS Android 14 Poco F6 Peridot
-date   : 2024-05-27T09:17:35+07:00
-slug   : blazeproject-a14-peridot
+title  : Download Rom BananaDroid Android 14 Poco F6 Peridot
+date   : 2024-05-28T09:17:35+07:00
+slug   : bananadroid-a14-peridot
 categories: [rom]
 tags      : [peridot]
 keywords  : [poco F6]
-author : gotenksIN
+author : kssrao138
 ---
 
-Download Custom Rom Blaze Project OS android 14  for poco f6 Peridot.
+Download BananaDroid android 14 poco f6 Peridot.
+
 
 ## Changelog
 - Added props to improve App closing/opening animations and touch response
@@ -24,7 +25,5 @@ Download Custom Rom Blaze Project OS android 14  for poco f6 Peridot.
 - Battery backup improvements
 - Improvements to scrolling and smoothness of rom
 
-
 ## Download Link
-[ROM](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)
-
+[Download ROM](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)
