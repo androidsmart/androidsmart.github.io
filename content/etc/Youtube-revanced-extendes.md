@@ -26,7 +26,6 @@ As with any modified app, there are some security considerations to keep in mind
 
 Here are some tips for staying safe:
 
-* **Download from Trusted Sources:** Only download RVX from the official website ([https://revancedextended.com/](https://revancedextended.com/)) or a trusted repository.
 * **Be Wary of Additional Apps:** Avoid downloading any additional apps alongside RVX, as they might be malicious.
 * **Stay Updated:** Regularly update RVX to ensure you have the latest security patches.
 
