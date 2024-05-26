@@ -12,18 +12,16 @@ Download Custom Rom BlackIron android 14 poco f6 Pro vermeer.
 
 
 ## Changelog
-- Added Leica Camera
-- Nuked the system apps AudioFX, Auxio and Matlog
-- Fixed the issue of vendor security patch level displaying as unknown
-- Added Google messaging to fix sms not receiving after device restart
-- Ships with Google Dialer instead of Aosp dialer
-- Added back Support for 32 bit apps
-- Switched to Silver core kernel
+- LineageOS-based source.
+- Make sure to be on HyperOS firmware first.
+- Clean flash is required if coming from March or older builds.
+- Install LosKsu9.x.zip (https://sourceforge.net/projects/evolution-x/files/marble/14/LosKsu9.x.zip/download) for root.
+- Play Integrity fails (As of 05/25/2024).
+- Includes Dolby Atmos, POCO Camera.
+- Credits to Arian16k, GR, Chaitanya,
 
 ## Notes
 - Based in hyperOS firmware 
-- Based February 2024 security patches
-- Leica,oplus Dolby and Dirac included
 - Read changelog for install
 
 ## Download Link

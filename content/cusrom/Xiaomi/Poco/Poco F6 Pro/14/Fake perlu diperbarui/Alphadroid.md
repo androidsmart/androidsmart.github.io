@@ -12,16 +12,18 @@ author :
 Download Custom Rom Alphadroid android 14  for poco f6 Pro vermeer.
 
 ## Changelog
-- Fixed Auto Brightness issue
-- Haptics improved
-- Screen flickering at low brightness is addressed to some extent (very less flickers now)
-- Switched to Los based trees
-- Based on QPR2 April security patch
-- Switched to OSS kernel and ships with 5.10.209 based on latest April tag ASB-
+- Based On Stock Hyper China 1.0.3.0
+- Maximum Debloted 
+- Rom Is Encrypted
+- Added Moded Cc With Feature Tiles
+- Added OxygenOS About Look With Changing Wallpaper
+- Hyper Moded Launcher Added 
+- Hyper Moded App Vault Added 
+- Stock China App Installer
+- Moded Hyper Theme Manager Added 
+- Orange Clock Bg Added 
 
 ## Notes
-- Nik gapps core for vannila version
-- Google Gki non-ksu by default
 - Hyper os fw mandatory
 - Flash this for ksu
 - Clean flash mandatory

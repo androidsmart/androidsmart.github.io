@@ -13,11 +13,13 @@ Download Custom Rom Derpfest android 14 for xiaomi poco f6 Pro vermeer.
 
 
 ## Changelog
-- Base HyperOS
-- Hotfix update for 10.2.1 release of 22.01.24
-- Fixed Fingerprint issues that was randomly occuring with few users
-- Dropped Smooth display for now
-- Switch back to Silvercore Kernel based on 5.10.208 (Though melt was not behind the FP issue)
+- Derplauncher: Redesign Settings homepage 
+- services: Don't enable user switcher when creating parallel space
+- Implement firewall status bar indicator
+- SystemUI: Controllable squiggle animation [1/2]
+- Porting menu button from pie to new pipeline
+- Added Power menu extra styles 
+- Probably some another changes & fixes as well.
 
 ## Notes
 - Use HyperOS firmware

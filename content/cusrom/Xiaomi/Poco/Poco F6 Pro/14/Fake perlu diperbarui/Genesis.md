@@ -11,10 +11,14 @@ keywords  : [poco F6 Pro]
 Download Custom Rom Genesis OS android 14  for poco f6 Pro vermeer.
 
 ## Changelog
-- Based on HyperOS firmware
-- Added 90Hz support
-- Ships with Evenstar Kernel non-ksu variant
-- Dropped support for 32 bit apps for now
+- Add per-app Firewall from Calyx
+- Bring back tuner navbar editor from Android 7
+- Add toggle for squiggle animation
+- DerpLauncher: Fix kill app button drawable for regular design
+- DerpLauncher: Gestures: Set sleep as default
+- DerpLauncher: Move shake gesture pref up
+- Merge May security patch
+- Fix QS tile shape style options
 
 ## Notes
 - OTA Has Been Pushed 

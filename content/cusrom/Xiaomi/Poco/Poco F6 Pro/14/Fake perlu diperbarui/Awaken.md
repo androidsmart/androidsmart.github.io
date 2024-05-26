@@ -12,19 +12,19 @@ author :
 Download Custom Rom Awaken android 14  for poco f6 Pro vermeer.
 
 ## Changelog
-- Fixed Auto Brightness issue
-- Haptics improved
-- Screen flickering at low brightness is addressed to some extent (very less flickers now)
-- Update fingerprint for play integrity
-- Add per-app Firewall from Calyx
-- Bring back tuner navbar editor from Android 7
-- Add toggle for squiggle animation
-- DerpLauncher: Fix kill app button drawable for regular design
+- Added iOS Emojis 
+- Fixed Battery Drain issues 
+- Fixed Sd Card not mounting
+- Added New Unlimited Gphotos With All Games Higher Fps Support (Not Spoof)
+- Added Extra dim feature 
+- Added Notification history with fixed background 
+- Improved ui smoothness & scrolling 
+- Improved battery backup 
+- Added oto music player 
 
 ## Notes
 - Initial official release
 - Device is certified by default
-- Use latest recovery: [twrp](https://sourceforge.net/projects/aosp-builds/files/marble/REC3_7_0_12_RedmiNote12TurboEdition_POCOF5_v8_0t1_A13_marble_skkk%20%282%29.zip/download) | [awakenOS](https://sourceforge.net/projects/project-awaken/files/marble/4.4/recovery.img/download)
 - Use latest Xiaomi HyperOS firmware for your region
 
 ## Credits

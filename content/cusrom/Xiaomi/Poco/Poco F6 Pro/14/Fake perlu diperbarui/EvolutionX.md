@@ -11,15 +11,13 @@ keywords  : [poco F6 Pro]
 Download Custom Rom EvolutionX android 14  for poco f6 Pro vermeer.
 
 ## Changelog
-- Fixed Green tint at low brightness
-- Added smooth display Toggle
-- Fixed some Janks
-- Tuned charging control parameters
-- Silence some spammy logging (reduces idle cpu usage)
-- Tune ambient display burn-in protection
-- Updated Silvercore Kernel to latest 5.10.209
-- Updated ViperFX app to latest 6.1
-- In order to fix crashing ott apps, widevine compromised to L3 for now
+- Changes in pixelproputils
+- Device integrity passes again
+- Added firewall
+- Probably some another changes as well :P
+- Remove megvii shim, build stub packages instead
+- Switch to lineage common power-libperfmgr && qcom-caf/common dummy libqti-perfd-client
+- Address some sepolicy denials
 
 ## Download Link
 [ROM](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)
