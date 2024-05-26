@@ -3,8 +3,6 @@ type   : module
 title  : Youtube Revanced Premium Magisk Kernelsu Module
 slug   : Revanced
 date   : 2024-04-02T09:17:35+07:00
-ads    : true
-categories: [module]
 keywords  : [magisk]
 ---
 
@@ -43,4 +41,4 @@ YouTube ReVanced offers a user-friendly interface that is easy to navigate, main
 YouTube ReVanced is here to revolutionize the way you enjoy YouTube content. With its range of features and user-centric design, it's an excellent choice for those looking to enhance their video streaming experience.
 
 ## Link
-[Pling](https://www.pling.com/p/2132695/)
+[Pling](https://www.pling.com/p/2158318/)

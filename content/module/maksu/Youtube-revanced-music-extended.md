@@ -30,6 +30,6 @@ YouTube Music Revanced Extended offers a compelling alternative to the official 
 
 
 ## Link
-[Youtube Music](https://www.pling.com/p/2132695/)
+[Youtube Music](https://www.pling.com/p/2158318/)
 
-[MicroG Revanced](https://www.pling.com/p/2132695/)
+[MicroG Revanced](https://www.pling.com/p/2158318/)
