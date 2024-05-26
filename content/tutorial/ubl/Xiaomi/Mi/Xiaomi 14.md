@@ -89,7 +89,7 @@ And that's it! You've successfully installed TWRP on your Xiaomi 14. Remember, t
 
 [Adb Fastboot](https://sourceforge.net/projects/wahyu6070-project-android/files/Tools/surya/adb-setup-1.4.3.zip/download)
 
-[magisk v26.4](https://github.com/topjohnwu/Magisk/releases/tag/v26.4)
+[Magisk](https://github.com/topjohnwu/Magisk/releases/latest)
 
 [MI unlock Tool](https://en.miui.com/unlock/download_en.html)
 
