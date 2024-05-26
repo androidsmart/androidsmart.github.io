@@ -1,10 +1,10 @@
 ---
 type   : cusrom
-title  : LineageOS 21 for Xiaomi 14 Pro
+title  : Download LineageOS 21 for Xiaomi 14 Pro
 slug   : los21-a14-xiaomi14pro
 date   : 2024-04-05T09:17:35+07:00
 categories: [rom]
-tags      : [xiaomi14pro]
+tags      : [shennong]
 keywords  : [Xiaomi 14 Pro]
 ---
 

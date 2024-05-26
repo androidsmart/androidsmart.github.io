@@ -1,11 +1,11 @@
 ---
 type   : cusrom
-title  : Download OrangeFox Latest Version Xiaomi 14 shennong
+title  : Download OrangeFox Recovery Xiaomi 14 shennong
 date   : 2024-04-04T09:17:35+07:00
 slug   : orangefox-shennong
 categories: [Recovery]
 tags      : [shennong]
-keywords  : [orangefox]
+keywords  : [Xiaomi 14 Pro]
 author : wahyu6070
 ---
 

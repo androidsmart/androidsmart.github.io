@@ -1,7 +1,7 @@
 ---
 type   : cusrom
 title  : Download Genesis OS Android 14 Xiaomi 14 houji
-date   : 2024-05-28T09:17:35+07:00
+date   : 2024-05-29T09:17:35+07:00
 slug   : genesis-a14-houji
 categories: [rom]
 tags      : [houji]

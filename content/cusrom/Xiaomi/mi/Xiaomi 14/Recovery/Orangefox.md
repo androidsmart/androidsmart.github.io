@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Download OrangeFox Latest Version Xiaomi 14 houji
+title  : Download OrangeFox Recovery Xiaomi 14 houji
 date   : 2024-04-04T09:17:35+07:00
 slug   : orangefox-houji
 categories: [Recovery]

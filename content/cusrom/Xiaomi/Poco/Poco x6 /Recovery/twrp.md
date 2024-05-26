@@ -9,7 +9,7 @@ keywords  : [Twrp]
 author : wahyu6070
 ---
 
-Download Custon Recovery Twrp Latest version for Xiaomi redmi note 10 pro or Poco x6 Garnet
+Download Custom Recovery Twrp Latest version for Xiaomi redmi note 10 pro or Poco x6 Garnet
 
 
 ## Changelog

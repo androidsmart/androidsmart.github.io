@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : TWRP Xiaomi 14 houji
+title  : Download TWRP Recovery Xiaomi 14 houji
 date   : 2024-04-04T09:17:35+07:00
 slug   : twrp-houji
 categories: [Recovery]

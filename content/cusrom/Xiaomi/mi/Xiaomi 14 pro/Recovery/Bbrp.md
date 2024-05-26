@@ -1,11 +1,11 @@
 ---
 type   : cusrom
-title  : PBRP Recovery Xiaomi 14 Pro shennong
+title  : Download PBRP Recovery Xiaomi 14 Pro shennong
 date   : 2024-04-04T09:17:35+07:00
 slug   : pbrp-shennong
 categories: [Recovery]
 tags      : [shennong]
-keywords  : [bprp]
+keywords  : [Xiaomi 14 Pro]
 author : wahyu6070
 ---
 
