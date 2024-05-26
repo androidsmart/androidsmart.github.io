@@ -9,22 +9,15 @@ keywords  : [xiaomi 14]
 author : 
 ---
 
-Download Custom Rom Pixel OS android 14  for poco f6 Peridot.
+Download Custom Rom Pixel OS android 14  for Xiaomi 14 houji.
 
 ## Changelog
-- Added Dolby atoms, spatial audio
-- Removed Dirac and retained ViperFX
-- Added dolby vision
-- Added Battery Health
-- Added support for new Bluetooth Low Energy (BLE) devices
-- Updated Perf blobs from Nothing Phone 2
-- Switched to latest Silvercore Kernel 5.10.203
-- Updated BCR to latest 1.57
-- Updated ViperFX driver to latest 0.6.1
+- Latest DerpFest A14 source upstream
+- Merged May Security Patches
+- Disabled blur properly in source now. It will increase ui performance & improvements
+- Update CustomSeekBarPreference, VibrationSeekBarPreference & ProperSeekBarPreference and adapt it for our RealmeParts.
 
 ## Notes
-- Based on April Security Patch
-- Default kernel los nonksu other gki kernels are not compatible only melt kernel compatible
 - Follow Flashing Instructions carefully
 
 

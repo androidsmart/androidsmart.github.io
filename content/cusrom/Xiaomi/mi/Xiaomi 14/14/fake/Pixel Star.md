@@ -12,13 +12,16 @@ Download Custom Rom Pixel Star OS android 14 for Xiaomi 14 houji.
 
 
 ## Changelog
-- Updated Silvercore Kernel to latest 5.10.204
-- Added some tweaks to improve smoothness of the rom
-- Fixed 'No Space' Error with Gapps Flashing (Now use any Nikgapps package of ur choice)
+- Dropped QTI thermal HAL service
+- Dropped livedisplay leftovers and switched to simple RGB adjustments (can be found in display color settings)
+- Adjust cpu sets for background tasks
+- Now it should show "Turbo charging" instead of "charging rapidly"
+- Downgraded netmgrd to LAHAINA-19300 (should fix VoWifi)
+- Updated CarrierConfig from Nothing phone (2) and LA.QSSI.14.0.r1-12000-qssi.0
+- Disabled unsupported perf resources
+- Enabled 'core' config for Multi-Gen LRU
 
 ## Notes
-- Hyper os fw mandatory
-- Flash this for ksu
 - Clean flash mandatory
 - Give rom 1 day to settle
 

@@ -11,14 +11,12 @@ keywords  : [Xiaomi 14]
 Download Custom Rom Pixel Experience android 14  for xiaomi 14 houji.
 
 ## Notes
-- Fixed Auto Brightness issue
-- Disable frame rate override feature
-- Disable backpressure prop (helps fix lags and Janks )
-- Updated BCR to latest 1.59
-- Updated Silvercore Kernel to latest by Chaitanya
-
-## Credits
-- @Saikiran008 for base trees
+- Updated vili specific blobs to V816.0.2.0.UKDMIXM (credits to TheStrechh)
+- Updated included firmware to V816.0.2.0.UKDMIXM
+- Updated common blobs from Haydn V816.0.2.0.UKKMIXM
+- Added some missing dolby atmos props
+- Added props for better RAM management
+- Set thread count for dex2oat
 
 ## Download Link
 [Download ROM](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)

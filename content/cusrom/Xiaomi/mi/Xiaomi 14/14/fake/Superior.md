@@ -12,11 +12,15 @@ keywords  : [Xiaomi 14]
 Download Custom Rom Superior OS android 14  for Xiaomi 14 houji.
 
 ## Changelog
-- Added support for Vanilla Build
-- Added cloned apps support for Gmail
-- Improved vibrations
-- Updated Silvercore Kernel to v5.10.200
-- Miscellaneous fixes and improvements
+- Fix QS tile shape style options
+- Fix more scrim issues regarding transparency
+- Fix inconsistent default values for heads-up set by AOSP
+- Fix phantom spaces with center clock
+- Nuke oriented navbar handle to fix navbar pill being stuck at landscape 
+- Add back Custom long swipe gesture actions
+- Import more lockscreen clock fonts
+- Add iOS system icon shape
+- Let more system switches be affected by the vibration toggle
 
 ## Notes
 - Any Nik gapps for vannila version

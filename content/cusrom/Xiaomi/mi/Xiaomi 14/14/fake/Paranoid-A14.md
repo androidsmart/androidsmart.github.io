@@ -12,19 +12,15 @@ author :
 Download Paranoid android 14 Xiaomi 14 houji.
 
 # Changelog
-- Fixed sms/otp not receiving issue
-- Fixed Thermals
-- Fixed ott apps crash and now Widevine is back to L1
-- Improved Auto Brightness
-- Set Brightness slider curve Implementation (Enjoy higher brightness at lower slider positions)
-- Upstreamed Evenstar Non ksu kernel to 5.10.211
-- Updated BCR to latest 1.61
-- Ships with Moto Dolby and Dirac instead of parts Dolby and ViperFX
-
-## Notes
-- Based in hyperOS firmware 
-- install fastboot
-- include gapps
+- Add toggle for squiggle animation
+- DerpLauncher: Fix kill app button drawable for regular design
+- DerpLauncher: Gestures: Set sleep as default
+- DerpLauncher: Move shake gesture pref up
+- Added Depth Wallpapers and lockscreen clocks (credits to yograjfire18)
+- Fixed crashes for several apps caused by ART
+- Enabled expensive rendering hints for lahaina
+- Added a toggle for LTE_CA
+- Attempted to fix random reboots and soft reboots
 
 ## Download Link
 [Download ROM](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)

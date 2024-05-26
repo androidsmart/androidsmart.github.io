@@ -13,14 +13,16 @@ Download Custom Rom Rising OS android 14  for xiaomi 14 houji.
 
 
 ## Changelog
-- Shipped & Updated ViperFX to latest version 5.5
-- Match vendor security patch with platform security patch
-- Adjust status bar paddings
+- Add per-app Firewall from Calyx
+- Bring back tuner navbar editor from Android 7
+- Add toggle for squiggle animation
+- DerpLauncher: Fix kill app button drawable for regular design
+- DerpLauncher: Gestures: Set sleep as default
+- DerpLauncher: Move shake gesture pref up
+- Merge May security patch
 
 
 ## Notes
-- Clean flash is mandatory
-- Auto brightness dead
 - Based on HyperOS fw
 
 ## Download Link

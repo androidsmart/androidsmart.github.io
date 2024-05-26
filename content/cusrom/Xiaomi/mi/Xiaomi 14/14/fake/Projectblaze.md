@@ -12,18 +12,13 @@ author :
 Download Custom Rom Blaze Project OS android 14  for Xiaomi 14 houji.
 
 ## Changelog
-- Added props to improve App closing/opening animations and touch response
-- Switched to Melt kernel and updated to latest 2.3.6_1
-- Updated Basic Call Recorder app to latest 1.56
-- Added lineage Charging Control feature
-- Enabled aosp surfaceflinger (Improved smoothness)
-- Enabled apk fs-verity (root detection improvement)
-- Silenced OpenGLRenderer log spam
-- Cleaned up useless log spams
-- Reduction of idle drain
-- Battery backup improvements
-- Improvements to scrolling and smoothness of rom
-
+- GApps, Vanilla builds available.
+- Gapps build recommended
+- Officially NO SUPPORT for vanilla build
+- So don't report bugs in vanilla
+- Vanilla Build Bug: Derp launcher will crash. So disable it and use any other third-party launchers or use launcher modules.
+- Enforcing & User Build.
+- More improvements & bug fixes!
 
 ## Download Link
 [ROM](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)

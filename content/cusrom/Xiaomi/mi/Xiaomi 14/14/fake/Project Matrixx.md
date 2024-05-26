@@ -5,21 +5,21 @@ date   : 2024-05-29T09:17:35+07:00
 slug   : matrixx-a14-houji
 categories: [rom]
 tags      : [houji]
-keywords  : [poco F6]
+keywords  : [Xiaomi 14]
 ---
 
-Download Custom Rom Project Matrixx Android 14 for poco f6 Peridot.
+Download Custom Rom Project Matrixx Android 14 for Xiaomi 14 houji.
 
 ## Changelog
-- Fixed issue of incoming call displaying weird numbers for dual sim users (Replaced Google Dialer with aosp dialer app)
-- Replaced Google Messages with aosp messages app
-- Switched to aospa kernel from melt kernel
-- Hotfix build, synced with latest source
-- Updated pinner service in tune with pixel_fw merge in source
+- RealmeParts: Drop all unsupported features for Realme 5 Pro
+- Cleanup all unused files while at it.
+- media: Update vp9 media codecs from google sargo
+- media: Re-added OMX.qcom.video.decoder.vp9 codecs(Because media stuck issues properly fixed in media hal by LineageOS now)
+- So Instagram reels should be fine now.
+- media: Set higher priority to c2 than OMX
+- Removed ViPER4Android(users can use whatever audio mods they want)
 
 ## Credits
-- @Saikiran008 for  base trees
-- @No_912 team for Evenstar Kernel 
 - @Vamsi_Tadisetti & @bdwilk for testing 
 
 ## Download Link

@@ -12,14 +12,13 @@ author :
 Download Custom Rom Paranoid android 14  for Xiaomi 14 houji.
 
 ## Changelog
-- Fix QS tile shape style options
-- Fix more scrim issues regarding transparency
-- Fix inconsistent default values for heads-up set by AOSP
-- Fix phantom spaces with center clock
-- Nuke oriented navbar handle to fix navbar pill being stuck at landscape 
-- Add back Custom long swipe gesture actions
-- Import more lockscreen clock fonts
-- Add iOS system icon shape
+- Allow application downgrade
+- Add vibration when long pressing QS footer settings button
+- Match background for brightness slider with volume panel changes from AOSP
+- Launch hotspot settings on long click instead of click
+- Bring back Cutout force full screen settings
+- Settings: Add missing icon for Adaptive connectivity 
+- Settings: Add preference for resetting auto brightness adjustment
 
 ## Download Link
 [Download ROM](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)
