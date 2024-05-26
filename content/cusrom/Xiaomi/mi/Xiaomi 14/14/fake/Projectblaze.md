@@ -1,15 +1,15 @@
 ---
 type   : cusrom
-title  : Download Blaze Project OS Android 14 Poco F6 Peridot
+title  : Download Blaze Project OS Android 14 Xiaomi 14 houji
 date   : 2024-05-29T09:17:35+07:00
-slug   : blazeproject-a14-peridot
+slug   : blazeproject-a14-houji
 categories: [rom]
-tags      : [peridot]
-keywords  : [poco F6]
-author : gotenksIN
+tags      : [houji]
+keywords  : [Xiaomi 14]
+author :
 ---
 
-Download Custom Rom Blaze Project OS android 14  for poco f6 Peridot.
+Download Custom Rom Blaze Project OS android 14  for Xiaomi 14 houji.
 
 ## Changelog
 - Added props to improve App closing/opening animations and touch response

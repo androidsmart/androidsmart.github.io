@@ -1,15 +1,15 @@
 ---
 type   : cusrom
-title  : Download Superior OS Android 14 Poco F6 Peridot
+title  : Download Superior OS Android 14 Xiaomi 14 houji
 date   : 2024-05-29T09:17:35+07:00
-slug   : superior-a14-peridot
+slug   : superior-a14-houji
 categories: [rom]
-tags      : [peridot]
-keywords  : [poco F6]
+tags      : [houji]
+keywords  : [Xiaomi 14]
 
 ---
 
-Download Custom Rom Superior OS android 14  for poco f6 peridot.
+Download Custom Rom Superior OS android 14  for Xiaomi 14 houji.
 
 ## Changelog
 - Added support for Vanilla Build

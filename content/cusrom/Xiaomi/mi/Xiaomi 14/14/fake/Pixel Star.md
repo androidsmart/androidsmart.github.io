@@ -1,14 +1,14 @@
 ---
 type   : cusrom
-title  : Download Pixel Star OS Android 14 Poco F6 Peridot
+title  : Download Pixel Star OS Android 14 Xiaomi 14 houji
 date   : 2024-05-29T09:17:35+07:00
-slug   : pixelstar-a14-marble
+slug   : pixelstar-a14-houji
 categories: [rom]
-tags      : [peridot]
-keywords  : [poco F6]
+tags      : [houji]
+keywords  : [Xiaomi 14]
 ---
 
-Download Custom Rom Pixel Star OS android 14 for poco f5 Marble.
+Download Custom Rom Pixel Star OS android 14 for Xiaomi 14 houji.
 
 
 ## Changelog

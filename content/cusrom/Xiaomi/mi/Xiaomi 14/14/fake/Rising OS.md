@@ -1,15 +1,15 @@
 ---
 type   : cusrom
-title  : Download Rising OS Android 14 Poco F6 peridot
+title  : Download Rising OS Android 14 Xiaomi 14 houji
 date   : 2024-05-29T09:17:35+07:00
-slug   : rising-a14-peridot
+slug   : rising-a14-houji
 categories: [rom]
-tags      : [peridot]
-keywords  : [poco F6]
+tags      : [houji]
+keywords  : [xiaomi 14]
 
 ---
 
-Download Custom Rom Rising OS android 14  for poco f6 peridot.
+Download Custom Rom Rising OS android 14  for xiaomi 14 houji.
 
 
 ## Changelog

@@ -1,10 +1,10 @@
 ---
 type   : cusrom
-title  : Download Project Matrixx OS Android 14 Poco F6 Peridot
+title  : Download Project Matrixx OS Android 14 Xiaomi 14 houji
 date   : 2024-05-29T09:17:35+07:00
-slug   : matrixx-a14-peridot
+slug   : matrixx-a14-houji
 categories: [rom]
-tags      : [peridot]
+tags      : [houji]
 keywords  : [poco F6]
 ---
 

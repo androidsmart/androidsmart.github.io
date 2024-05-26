@@ -5,7 +5,7 @@ date   : 2024-04-04T09:17:35+07:00
 slug   : twrp-houji
 categories: [Recovery]
 tags      : [houji]
-keywords  : [Twrp]
+keywords  : [Xiaomi 14]
 author : wahyu6070
 ---
 

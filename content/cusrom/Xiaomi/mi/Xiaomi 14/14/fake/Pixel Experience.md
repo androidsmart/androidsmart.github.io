@@ -1,14 +1,14 @@
 ---
 type   : cusrom
-title  : Download Pixel Experience Android 14 Poco F6 Peridot
+title  : Download Pixel Experience Android 14 Xiaomi 14 houji
 date   : 2024-05-29T09:17:35+07:00
-slug   : pe-a14-peridot
+slug   : pe-a14-houji
 categories: [rom]
-tags      : [marble]
-keywords  : [poco F5]
+tags      : [houji]
+keywords  : [Xiaomi 14]
 ---
 
-Download Custom Rom Pixel Experience android 14  for poco f6 peridot.
+Download Custom Rom Pixel Experience android 14  for xiaomi 14 houji.
 
 ## Notes
 - Fixed Auto Brightness issue

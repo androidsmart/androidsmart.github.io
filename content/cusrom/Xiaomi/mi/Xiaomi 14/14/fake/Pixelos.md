@@ -1,12 +1,12 @@
 ---
 type   : cusrom
-title  : Download Pixel OS Android 14 Poco F6 Peridot
+title  : Download Pixel OS Android 14 Xiaomi 14 houji
 date   : 2024-05-29T09:17:35+07:00
-slug   : pixelos-a14-marble
+slug   : pixelos-a14-houji
 categories: [rom]
-tags      : [peridot]
-keywords  : [poco F6]
-author : gotenksIN
+tags      : [houji]
+keywords  : [xiaomi 14]
+author : 
 ---
 
 Download Custom Rom Pixel OS android 14  for poco f6 Peridot.

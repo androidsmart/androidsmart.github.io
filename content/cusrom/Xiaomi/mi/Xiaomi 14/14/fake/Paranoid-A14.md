@@ -1,15 +1,15 @@
 ---
 type   : cusrom
-title  : Download Rom Paranoid Android 14 Poco F6 Peridot
+title  : Download Rom Paranoid Android 14 Xiaomi 14 houji
 date   : 2024-05-29T09:17:35+07:00
-slug   : paranoid-a14-peridot
+slug   : paranoid-a14-houji
 categories: [rom]
-tags      : [peridot]
-keywords  : [poco F6]
-author : gotenksIN
+tags      : [houji]
+keywords  : [Xiaomi 14]
+author : 
 ---
 
-Download Paranoid android 14 poco f6 Peridot.
+Download Paranoid android 14 Xiaomi 14 houji.
 
 # Changelog
 - Fixed sms/otp not receiving issue
