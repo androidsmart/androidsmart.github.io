@@ -1,15 +1,15 @@
 ---
 type   : cusrom
-title  : Download Alphadroid OS Android 14 Poco F6 Peridot
+title  : Download Alphadroid OS Android 14 Poco F6 Vermeer
 date   : 2024-05-28T09:17:35+07:00
-slug   : alphadroid-a14-peridot
+slug   : alphadroid-a14-vermeer
 categories: [rom]
-tags      : [peridot]
-keywords  : [poco F6]
-author : gotenksIN
+tags      : [vermeer]
+keywords  : [poco F6 Pro]
+author : 
 ---
 
-Download Custom Rom Alphadroid android 14  for poco f6 Peridot.
+Download Custom Rom Alphadroid android 14  for poco f6 Pro vermeer.
 
 ## Changelog
 - Fixed Auto Brightness issue

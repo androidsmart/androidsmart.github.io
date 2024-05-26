@@ -1,15 +1,15 @@
 ---
 type   : cusrom
-title  : Download OrangeFox Latest Version Poco F6 Peridot
-date   : 2024-03-25T09:17:35+07:00
-slug   : orangefox-peridot
+title  : Download OrangeFox Latest Version Poco F6 Pro vermeer
+date   : 2024-05-28T09:17:35+07:00
+slug   : orangefox-vermeer
 categories: [Recovery]
-tags      : [peridot]
-keywords  : [orangeofox]
-author : wahyu6070
+tags      : [vermeer]
+keywords  : [Poco f6 Pro]
+author : 
 ---
 
-Download Orangefox Latest version for Xiaomi Poco F6 Peridot
+Download Custom Recovery Orangefox Latest version for Xiaomi Poco F6 Pro vermeer
 
 ## Changelog
 - New UI for Vanced app cards

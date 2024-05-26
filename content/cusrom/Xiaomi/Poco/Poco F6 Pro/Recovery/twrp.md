@@ -1,15 +1,15 @@
 ---
 type   : cusrom
-title  : Download Twrp Latest Version POCO F6 Peridot
+title  : Download Twrp Latest Version POCO F6 Pro vermeer
 date   : 2024-03-25T09:17:35+07:00
-slug   : twrp-peridot
+slug   : twrp-vermeer
 categories: [Recovery]
 tags      : [Vermeer]
-keywords  : [Twrp]
+keywords  : [Poco f6 Pro]
 author : wahyu6070
 ---
 
-Download Twrp Latest version for Xiaomi Poco F6 Peridot
+Download Twrp Latest version for Xiaomi Poco F6 Pro vermeer
 
 ## Changelog
 - Disabled Window blur by default

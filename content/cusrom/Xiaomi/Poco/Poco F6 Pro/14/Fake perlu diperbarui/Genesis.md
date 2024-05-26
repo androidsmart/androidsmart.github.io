@@ -1,14 +1,14 @@
 ---
 type   : cusrom
-title  : Download Genesis OS Android 14 Poco F6 Peridot
+title  : Download Genesis OS Android 14 Poco F6 Pro
 date   : 2024-05-28T09:17:35+07:00
-slug   : genesis-a14-peridot
+slug   : genesis-a14-vermeer
 categories: [rom]
-tags      : [peridot]
-keywords  : [poco F6]
+tags      : [vermeer]
+keywords  : [poco F6 Pro]
 ---
 
-Download Custom Rom Genesis OS android 14  for poco f6 peridot.
+Download Custom Rom Genesis OS android 14  for poco f6 Pro vermeer.
 
 ## Changelog
 - Based on HyperOS firmware

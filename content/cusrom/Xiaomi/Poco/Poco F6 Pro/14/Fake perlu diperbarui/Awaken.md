@@ -1,15 +1,15 @@
 ---
 type   : cusrom
-title  : Download Awaken OS Android 14 Poco F5 Marble
+title  : Download Awaken OS Android 14 Poco F6 Pro Vermeer
 date   : 2024-05-28T09:17:35+07:00
-slug   : awaken-a14-peridot
+slug   : awaken-a14-vermeer
 categories: [rom]
-tags      : [peridot]
-keywords  : [poco F6]
-author : gotenksIN
+tags      : [vermeer]
+keywords  : [poco F6 Pro]
+author : 
 ---
 
-Download Custom Rom Awaken android 14  for poco f6 Peridot.
+Download Custom Rom Awaken android 14  for poco f6 Pro vermeer.
 
 ## Changelog
 - Fixed Auto Brightness issue

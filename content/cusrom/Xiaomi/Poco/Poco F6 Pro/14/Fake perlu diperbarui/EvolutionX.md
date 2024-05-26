@@ -1,14 +1,14 @@
 ---
 type   : cusrom
-title  : Download EvolutionX OS Android 14 Poco F6 Peridot
+title  : Download EvolutionX OS Android 14 Poco F6 Pro
 date   : 2024-05-28T09:17:35+07:00
-slug   : evolutionx-a14-peridot
+slug   : evolutionx-a14-vermeer
 categories: [rom]
-tags      : [peridot]
-keywords  : [poco F6]
+tags      : [vermeer]
+keywords  : [poco F6 Pro]
 ---
 
-Download Custom Rom EvolutionX android 14  for poco f6 Peridot.
+Download Custom Rom EvolutionX android 14  for poco f6 Pro vermeer.
 
 ## Changelog
 - Fixed Green tint at low brightness

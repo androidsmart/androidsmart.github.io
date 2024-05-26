@@ -1,12 +1,12 @@
 ---
 type   : cusrom
-title  : Download Lineage OS 21 Android 14 Poco F6 Peridot
+title  : Download Lineage OS 21 Android 14 Poco F6 Pro Vermeer.
 date   : 2024-05-28T09:17:35+07:00
-slug   : lineage-a14-peridot
+slug   : lineage-a14-vermeer
 categories: [rom]
-tags      : [peridot]
-keywords  : [poco F6]
-author : gotenksIN
+tags      : [vermeer]
+keywords  : [poco F6 Pro]
+author : 
 ---
 
 

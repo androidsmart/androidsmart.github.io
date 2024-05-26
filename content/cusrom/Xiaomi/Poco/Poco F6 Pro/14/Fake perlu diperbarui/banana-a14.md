@@ -1,15 +1,15 @@
 ---
 type   : cusrom
-title  : Download Rom BananaDroid Android 14 Poco F6 Peridot
+title  : Download Rom BananaDroid Android 14 Poco F6 Pro 
 date   : 2024-05-28T09:17:35+07:00
-slug   : bananadroid-a14-peridot
+slug   : bananadroid-a14-vermeer
 categories: [rom]
-tags      : [peridot]
+tags      : [vermeer]
 keywords  : [poco F6]
 author : kssrao138
 ---
 
-Download BananaDroid android 14 poco f6 Peridot.
+Download BananaDroid android 14 poco f6 Pro Vermeer.
 
 
 ## Changelog

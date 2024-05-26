@@ -1,15 +1,15 @@
 ---
 type   : cusrom
-title  : Download Rom Derpfest Android 14 Poco F6 peridot
-date   : 2024-03-28T09:17:35+07:00
-slug   : derpfest-a14-peridot
+title  : Download Rom Derpfest Android 14 Poco F6 Pro
+date   : 2024-05-28T09:17:35+07:00
+slug   : derpfest-a14-vermeer
 categories: [rom]
-tags      : [peridot]
-keywords  : [peridot]
-author : kssrao13882
+tags      : [vermeer]
+keywords  : [Poco f6 Pro]
+author :
 ---
 
-Download Custom Rom Derpfest android 14 for xiaomi poco f6 Peridot.
+Download Custom Rom Derpfest android 14 for xiaomi poco f6 Pro vermeer.
 
 
 ## Changelog

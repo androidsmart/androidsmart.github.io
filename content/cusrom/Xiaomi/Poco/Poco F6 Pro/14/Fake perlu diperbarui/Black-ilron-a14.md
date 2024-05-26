@@ -1,14 +1,14 @@
 ---
 type   : cusrom
-title  : Download BlackIron Android 14 Poco F6 Peridot
+title  : Download BlackIron Android 14 Poco F6 Pro
 date   : 2024-05-28T09:17:35+07:00
-slug   : BlackIron-a14-peridot
+slug   : BlackIron-a14-vermeer
 categories: [rom]
-tags      : [peridot]
-keywords  : [poco F6]
+tags      : [vermeer]
+keywords  : [poco F6 Pro]
 ---
 
-Download Custom Rom BlackIron android 14 poco f6 peridot.
+Download Custom Rom BlackIron android 14 poco f6 Pro vermeer.
 
 
 ## Changelog
