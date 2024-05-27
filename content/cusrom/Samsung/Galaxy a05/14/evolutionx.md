@@ -2,7 +2,7 @@
 type   : cusrom
 title  : Download EvolutionX Android 14 Samsung Galaxy A05 SM-A055F
 slug   : evolutionx-a14-SM-A055F
-date   : 2024-05-01T09:17:35+07:00
+date   : 2024-06-01T09:17:35+07:00
 categories: [rom]
 tags      : [SM-A055F]
 keywords  : [Samsung Galaxy A05]

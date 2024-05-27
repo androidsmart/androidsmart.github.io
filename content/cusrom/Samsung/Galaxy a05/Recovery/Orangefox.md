@@ -1,7 +1,7 @@
 ---
 type   : cusrom
 title  : Download OrangeFox Recovery For Samsung Galaxy A05
-date   : 2024-05-01T09:17:35+07:00
+date   : 2024-06-01T09:17:35+07:00
 slug   : orangefox-SM-A055F
 categories: [Recovery]
 tags      : [SM-A055F]

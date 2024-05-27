@@ -1,19 +1,23 @@
 ---
 type   : cusrom
-title  : Download EvolutionX Android 14 Xiaomi Redmi 13C x POCO C65
-slug   : evolutionx-a14-gale
-date   : 2024-05-01T09:17:35+07:00
+title  : Download EvolutionX Android 14 Xiaomi Redmi A3 | POCO C61
+slug   : evolutionx-a14-blue
+date   : 2024-05-31T09:17:35+07:00
 categories: [rom]
-tags      : [gale]
-keywords  : [Redmi 13C x POCO C65]
+tags      : [blue]
+keywords  : [Xiaomi Redmi A3 | POCO C61]
 ---
 
-Download Custom Rom EvolutionX OS Android 14 Xiaomi Redmi 13C x POCO C65.
+Download Custom Rom EvolutionX OS Android 14 Xiaomi Redmi A3 | POCO C61 Blue.
 
 ## Changelog
-- Synced with latest PixelOS source
-- Updated SilverCore Kernel to latest version
-- Added separate tile for Dirac
+- Added proper support for battery info
+- Allow more cached apps in the background
+- Switch to f2fs with fscrypt v2 for /data
+- Switch to Vulkan UI Renderer
+- Update kernel to Linux 4.14.343 (OpenELA LTS)
+- Update slow/fast charging threshold
+- Use pixel power HAL directly
 
 ## Download Link
 [ROM](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)

@@ -1,24 +1,22 @@
 ---
 type   : cusrom
-title  : Download OrangeFox Recovery For Redmi 13C x POCO C65
-date   : 2024-05-01T09:17:35+07:00
-slug   : orangefox-gale
+title  : Download OrangeFox Recovery For Redmi A3 | POCO C61
+date   : 2024-05-31T09:17:35+07:00
+slug   : orangefox-blue
 categories: [Recovery]
-tags      : [gale]
-keywords  : [Redmi 13C x POCO C65]
+tags      : [blue]
+keywords  : [Xiaomi Redmi A3 | POCO C61]
 author : 
 ---
 
-Download Orangefox Latest version for Xiaomi Redmi 13C x POCO C65.
+Download Orangefox Latest version for Xiaomi Redmi A3 | POCO C61 Blue.
 
 ## Changelog
-- Synced with latest Orangefox source
-- Updated SilverCore Kernel to latest version
-- Added system_ext support
-- Dropped support for Snapdragon Camera
-- Shipped with Graphene Camera
-- Tweaked powerhint
-- Disabled Vsync for CPU rendered apps
+- Use HintManager for HWUI
+- Extend audio offload buffer to 256kb
+- Rebased required(optional) kernel
+- Disabled and debloated qcacld-3.0 debug
+- Updated Miuicamera
 
 ## Download Link
 [Fastboot](https://sourceforge.net/projects/sheshu/files/sky/OrangeFox/OrangeFox-Unofficial-sky_22_10_2023.img/download)

@@ -1,19 +1,22 @@
 ---
 type   : cusrom
-title  : Download Derpfest OS Android 14 Xiaomi Redmi 13C x POCO C65
-slug   : derpfest-a14-Gale
-date   : 2024-05-01T09:17:35+07:00
+title  : Download Derpfest OS Android 14 Xiaomi Redmi A3 | POCO C61
+slug   : derpfest-a14-blue
+date   : 2024-05-31T09:17:35+07:00
 categories: [rom]
-tags      : [gale]
-keywords  : [Redmi 13C x POCO C65]
+tags      : [blue]
+keywords  : [Xiaomi Redmi A3 | POCO C61]
 ---
 
-Download Custom Rom Derpfest OS Android 14 Xiaomi Redmi 13C x POCO C65 Gale.
+Download Custom Rom Derpfest OS Android 14 Xiaomi Redmi A3 | POCO C61.
 
 ## Changelog
-- Initial stable build based on Android 14.1
-- Updated SilverCore Kernel to latest version
-- Added some new audio equalizer presets and new earphone types
+- Build Lineage Health HAL (charging control)
+- Increase handset volume
+- Invert the microphones (Previously the top microphone was used as the main one and this was not good during calls)
+- Update Audio HIDL to 7.1
+- Use Audio HAL OSS now
+- Initial Android 14 release
 
 ## Download Link
 [ROM](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)
