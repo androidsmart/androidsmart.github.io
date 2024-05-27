@@ -1,10 +1,10 @@
 ---
 type   : cusrom
-title  :  Download ROM AICP Android 12.1 POCO X3 NFC
+title  : Download ROM AICP Android 12.1 POCO X3 NFC
 slug   : aicp-surya-12
 date   : 2024-03-02T09:17:35+07:00
 categories: [rom]
-tags      : [pocox3]
+tags      : [surya]
 keywords  : [poco x3]
 author : isaiahscape
 ---
