@@ -5,7 +5,7 @@ slug   : derpfest-a14-blue
 date   : 2024-05-31T09:17:35+07:00
 categories: [rom]
 tags      : [blue]
-keywords  : [Xiaomi Redmi A3 | POCO C61)
+keywords  : [Xiaomi Redmi A3 | POCO C61]
 ---
 
 Download Custom Rom Derpfest OS Android 14 Xiaomi Redmi A3 | POCO C61.
