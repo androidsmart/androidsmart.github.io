@@ -1,14 +1,14 @@
 ---
 type   : cusrom
-title  : Download Derpfest OS Android 14 Samsung Galaxy A15 SM-A155F
-slug   : derpfest-a14-SM-A155F
+title  : Download Derpfest OS Android 14 Samsung Galaxy A15 5G
+slug   : derpfest-a14-SM-A156E
 date   : 2024-06-02T09:17:35+07:00
 categories: [rom]
-tags      : [SM-A155F]
-keywords  : [Samsung Galaxy A15]
+tags      : [SM-A156E]
+keywords  : [Samsung Galaxy A15 5G]
 ---
 
-Download Custom Rom Derpfest OS Android 14 Samsung Galaxy A15 SM-A155F.
+Download Custom Rom Derpfest OS Android 14 Samsung Galaxy A15 5G SM-A156E.
 
 ## Changelog
 - blobs from gauguin_CN V13.0.10.0.SJSCNXM release-keys.

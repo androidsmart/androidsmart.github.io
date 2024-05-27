@@ -11,18 +11,15 @@ keywords  : [Samsung Galaxy A15]
 Download Custom Rom Derpfest OS Android 14 Samsung Galaxy A15 SM-A155F.
 
 ## Changelog
-- blobs from gauguin_CN V13.0.10.0.SJSCNXM release-keys.
-- Updated perf blobs from LA.UM.9.12.r1-14400-SMxx50.QSSI12.0.
-- Drop OEM changes in gps.conf.
-- Drop useless overlays.
-- Drop IOP.
-- Disable SF client composition cache.
-- Fixed AOSP USB v2 audio HAL.
-- Recovery is now made permissive.
-- Switched to legacy sepolicy_vndr.
-- Switched to common Xiaomi light HAL.
-- Bump vendor security patch level.
-- Update device build fingerprints.
+- Updated Optimus kernel to v11.32
+- Show refresh rate controls
+- Fixed error alioth,aliothin using prebuilt recovery
+- Align fp indicator with power button
+- Display correct charging speed
+- Allow all filesystems for USB-OTG
+- WiFi improvements
+- Audio improvements
+- Imported some blobs and config from MIUI 13
 
 ## Download Link
 [ROM](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)

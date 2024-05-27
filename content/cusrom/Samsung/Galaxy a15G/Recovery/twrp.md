@@ -1,15 +1,15 @@
 ---
 type   : cusrom
-title  : Download TWRP Recovery For Samsung Galaxy A15 SM-A155F
+title  : Download TWRP Recovery For Samsung Galaxy A15 5G
 date   : 2024-06-02T09:17:35+07:00
-slug   : twrp-SM-A155F
+slug   : twrp-SM-A156E
 categories: [Recovery]
-tags      : [SM-A155F]
-keywords  : [Samsung Galaxy A15]
+tags      : [SM-A156E]
+keywords  : [Samsung Galaxy A15 5G]
 author :
 ---
 
-Download Custom Recovery TWRP Latest version for Samsung Galaxy A15 SM-A155F.
+Download Custom Recovery TWRP Latest version for Samsung Galaxy A15 5G SM-A156E.
 
 ## Changelog
 - Bring back dropped media and audio configs [Temporary].

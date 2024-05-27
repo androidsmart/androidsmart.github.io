@@ -1,14 +1,14 @@
 ---
 type   : cusrom
-title  : Download EvolutionX Android 14 Samsung Galaxy A15 SM-A155F
-slug   : evolutionx-a14-SM-A155F
+title  : Download EvolutionX Android 14 Samsung Galaxy A15 5G
+slug   : evolutionx-a14-SM-A156E
 date   : 2024-06-02T09:17:35+07:00
 categories: [rom]
-tags      : [SM-A155F]
-keywords  : [Samsung Galaxy A15]
+tags      : [SM-A156E]
+keywords  : [Samsung Galaxy A15 5G]
 ---
 
-Download Custom Rom EvolutionX OS Android 14 Samsung Galaxy A15 SM-A155F.
+Download Custom Rom EvolutionX OS Android 14 Samsung Galaxy A15 5G SM-A156E.
 
 ## Changelog
 - Rebased kernel
