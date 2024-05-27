@@ -32,6 +32,12 @@ The Redmi 12, celebrated for its balanced performance and affordability, can exp
 
 **A New Chapter Begins:** With LineageOS 21, your Redmi 12 is not just a smartphone; it's a canvas for self-expression, a tool for productivity, and a testament to the power of open-source collaboration. Welcome to a new chapter in your mobile journey, one filled with possibilities and personalized experiences.
 
+## Changelog
+- Compile the kernel without GCC
+- Replace libutils-v32 with a shim
+- Update blobs from *HWA1/*HWA3
+- Update kernel to Linux 4.14.310
+- Use linaro BSP
 
 
 ## Download Link

@@ -4,9 +4,8 @@ title  : How to Unlock Bootloader And Install Twrp on Redmi Note 13 Pro
 slug   : ubl-redmi-13-pro
 date   : 2024-03-04T09:17:35+07:00
 categories: [tutorial]
-tags      : [ubl, twrp]
 keywords  : [Unlock bootloader Redmi 13 pro]
-author : wahyu6070
+author :
 ---
 
 

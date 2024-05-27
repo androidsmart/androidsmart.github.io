@@ -11,12 +11,12 @@ keywords  : [Xiaomi 12]
 Download Custom Rom Derpfest OS Android 14 Xiaomi Redmi 12.
 
 ## Changelog
-- Build Lineage Health HAL (charging control)
-- Increase handset volume
-- Invert the microphones (Previously the top microphone was used as the main one and this was not good during calls)
-- Update Audio HIDL to 7.1
-- Use Audio HAL OSS now
-- Initial Android 14 release
+- Add manually missing apn configs (4G/LTE and SMS fixed)
+- Disable VSync for CPU rendered apps
+- Enable zygote critical window
+- Switch to SkiaGL as HWUI renderer
+- Update kernel to Linux 4.14.305
+- Initial official release
 
 ## Download Link
 [ROM](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)

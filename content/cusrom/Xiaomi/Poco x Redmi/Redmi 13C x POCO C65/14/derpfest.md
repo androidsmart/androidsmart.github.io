@@ -1,15 +1,14 @@
 ---
 type   : cusrom
-title  : Download TWRP Recovery For Xiaomi Redmi 12 Fire
+title  : Download Derpfest OS Android 14 Xiaomi Redmi A3 | POCO C61
+slug   : derpfest-a14-blue
 date   : 2024-05-31T09:17:35+07:00
-slug   : twrp-fire
-categories: [Recovery]
-tags      : [fire]
-keywords  : [Xiaomi Redmi 12 Fire]
-author :
+categories: [rom]
+tags      : [blue]
+keywords  : [Xiaomi Redmi A3 | POCO C61]
 ---
 
-Download Custom Recovery TWRP Latest version for Xiaomi Redmi 12 Fire
+Download Custom Rom Derpfest OS Android 14 Xiaomi Redmi A3 | POCO C61.
 
 ## Changelog
 - Build Lineage Health HAL (charging control)
@@ -20,5 +19,5 @@ Download Custom Recovery TWRP Latest version for Xiaomi Redmi 12 Fire
 - Initial Android 14 release
 
 ## Download Link
-[Download](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)
+[ROM](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)
 
