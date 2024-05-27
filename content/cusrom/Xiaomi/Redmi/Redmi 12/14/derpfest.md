@@ -1,14 +1,14 @@
 ---
 type   : cusrom
-title  : Download Derpfest OS Android 14 Xiaomi Redmi A3 | POCO C61
-slug   : derpfest-a14-blue
+title  : Download Derpfest OS Android 14 Xiaomi Redmi 12
+slug   : derpfest-a14-fire
 date   : 2024-05-31T09:17:35+07:00
 categories: [rom]
-tags      : [blue]
-keywords  : [Xiaomi Redmi A3 | POCO C61]
+tags      : [fire]
+keywords  : [Xiaomi 12]
 ---
 
-Download Custom Rom Derpfest OS Android 14 Xiaomi Redmi A3 | POCO C61.
+Download Custom Rom Derpfest OS Android 14 Xiaomi Redmi 12.
 
 ## Changelog
 - Build Lineage Health HAL (charging control)

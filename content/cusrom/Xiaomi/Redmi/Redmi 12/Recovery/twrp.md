@@ -1,15 +1,15 @@
 ---
 type   : cusrom
-title  : Download TWRP Recovery For Xiaomi Redmi A3 | POCO C61
+title  : Download TWRP Recovery For Xiaomi Redmi 12 Fire
 date   : 2024-05-31T09:17:35+07:00
-slug   : twrp-blue
+slug   : twrp-fire
 categories: [Recovery]
-tags      : [blue]
-keywords  : [Xiaomi Redmi A3 | POCO C61]
+tags      : [fire]
+keywords  : [Xiaomi Redmi 12 Fire]
 author :
 ---
 
-Download Custom Recovery TWRP Latest version for Xiaomi Redmi A3 | POCO C61
+Download Custom Recovery TWRP Latest version for Xiaomi Redmi 12 Fire
 
 ## Changelog
 - Configure aux cameras for Aperture

@@ -8,7 +8,7 @@ tags      : [blue]
 keywords  : [redmi A3 x POCO C61]
 ---
 
-Download Custom Rom Lineage 21 OS Android 14 Xiaomi Redmi 12 5G and Poco M6 pro Sky.
+Download Custom Rom Lineage 21 OS Android 14 Xiaomi Redmi 12 Fire.
 
 LineageOS 21: A Deep Dive into Revitalizing Your Redmi A3 or Poco C61
 

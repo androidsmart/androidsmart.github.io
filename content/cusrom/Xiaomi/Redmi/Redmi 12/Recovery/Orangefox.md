@@ -1,15 +1,15 @@
 ---
 type   : cusrom
-title  : Download OrangeFox Recovery For Redmi A3 | POCO C61
+title  : Download OrangeFox Recovery For Redmi 12
 date   : 2024-05-31T09:17:35+07:00
-slug   : orangefox-blue
+slug   : orangefox-fire
 categories: [Recovery]
 tags      : [blue]
-keywords  : [Xiaomi Redmi A3 | POCO C61]
+keywords  : [Xiaomi Redmi 12]
 author : 
 ---
 
-Download Orangefox Latest version for Xiaomi Redmi A3 | POCO C61 Blue.
+Download Orangefox Latest version for Xiaomi Redmi 12 Fire.
 
 ## Changelog
 - Use HintManager for HWUI

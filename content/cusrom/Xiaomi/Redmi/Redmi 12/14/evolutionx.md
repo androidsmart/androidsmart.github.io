@@ -1,14 +1,14 @@
 ---
 type   : cusrom
-title  : Download EvolutionX Android 14 Xiaomi Redmi A3 | POCO C61
-slug   : evolutionx-a14-blue
+title  : Download EvolutionX Android 14 Xiaomi Redmi 12 Fire
+slug   : evolutionx-a14-fire
 date   : 2024-05-31T09:17:35+07:00
 categories: [rom]
-tags      : [blue]
-keywords  : [Xiaomi Redmi A3 | POCO C61]
+tags      : [fire]
+keywords  : [Xiaomi Redmi 12]
 ---
 
-Download Custom Rom EvolutionX OS Android 14 Xiaomi Redmi A3 | POCO C61 Blue.
+Download Custom Rom EvolutionX OS Android 14 Xiaomi Redmi 12 Fire.
 
 ## Changelog
 - Added proper support for battery info
