@@ -19,7 +19,7 @@ Download Custom ROM Hyper OS EU  Android 14 POCO X3 NFC Surya
 - CHANGE THE KERNEL, THE STOCK HEATS UP AND CHARGES SLOW
 - THE FIRST START VA LAG STABILIZES WITH USE JUST LIKE THE BATTERY IF YOU CHANGE THE KERNEL
 
-##;BUGS
+## BUGS
 Video recording does not work and NFC will have to be tested
 
 ## Credits
@@ -28,5 +28,5 @@ Video recording does not work and NFC will have to be tested
 - Nahum By Banner
 
 ## Download Link
-[Download ROM](https://drive.google.com/file/d/1fSLxss2iKXr1IpfQIbCo4ZxzZ4VLFx9b/view)
+[Hyper CN Port](https://devuploads.com/97u85uyeiqel)
 
