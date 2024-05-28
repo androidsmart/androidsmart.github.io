@@ -1,14 +1,14 @@
 ---
 type   : cusrom
-title  : Download Lineage OS 21 Android 14 Infinix GT 20 Pro 5G
-slug   : lineage-a14-GT20Pro
-date   : 2024-06-03T09:17:35+07:00
+title  : Download Lineage OS 21 Android 14 Infinix Smart 8 Pro
+slug   : lineage-a14-smart8pro
+date   : 2024-06-04T09:17:35+07:00
 categories: [rom]
-tags      : [GT20Pro]
-keywords  : [Infinix GT 20 Pro 5G]
+tags      : [smart8pro]
+keywords  : [Infinix Smart 8 Pro]
 ---
 
-Download Custom Rom Lineage 21 OS Android 14 Infinix GT 20 Pro 5G GT20Pro.
+Download Custom Rom Lineage 21 OS Android 14 Infinix Smart 8 Pro
 
 LineageOS 21: A Deep Dive into Revitalizing Your Infinix GT 20 Pro 5G
 
@@ -33,11 +33,10 @@ The Infinix GT 20 Pro 5G, celebrated for its balanced performance and affordabil
 **A New Chapter Begins:** With LineageOS 21, your Infinix GT 20 Pro 5G is not just a smartphone; it's a canvas for self-expression, a tool for productivity, and a testament to the power of open-source collaboration. Welcome to a new chapter in your mobile journey, one filled with possibilities and personalized experiences.
 
 ## Changelog
-- Dropped hw_acc effect from audio configs
-- Add back LTM display configs
-- Switch to AOSP NXP NFC HAL
-- Suppressed warnings related to NeuralNetwork HAL
-- Label missing wakeup nodes
+- Synced with latest PixelOS source
+- Cleanup more OPPO mess
+- Drop non-required configstore@1.1.policy
+- Address denials
 
 
 ## Download Link
