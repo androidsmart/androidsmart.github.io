@@ -1,7 +1,7 @@
 ---
 type   : cusrom
-title  : Download Rom Voltage OS Android 14 Redmi Note 7 Lavender
-date   : 2024-03-09T09:17:35+07:00
+title  : Download Voltage OS Android 14 Redmi Note 7 Lavender
+date   : 2024-05-28T09:17:35+07:00
 slug   : voltage-a14-lavender
 categories: [rom]
 tags      : [lavender]
@@ -12,37 +12,27 @@ author : wahyu6070
 Download Custom Rom Voltage OS android 14 Xiaomi redmi note 7 Lavender
 
 ## Device Changelog
+- Add Moto dolby Atmos
+- Change ipa trigger level to early-boot
+- Copy Google media configs from frameworks/av
+- Build Codec2 Packages on vendor
+- Import android.hardware.media.c2 to FCM
+- device: Build missing C2 media codecs
+- Disable speaker protection feature in audio HAL
+- proprietary: update blobs from Zebra and Qcom
+- Tune LMKD parameters for multitasking.
+- Tune Powerhint | Clean up kernel cmdline
+- Force enable UFFD_GC
+- universal dex preopt optimization
+- Configure cpusets for dex2oat
+- Optimize ART | Update dexpreopt configuration
+- props: Re-configure sf phase offset
 
 ### Note
-- If you have any issue please tag me in my group
-- I will try to fix it in next month's update or hotfix
-- Use Latest Gcam, if Older Versions are crashing
-- Use Minimal Gapps for Vanilla Builds like Nik Core
-
-### Device Changelog - 04/12/23 :-
-- fstab: Drop AvB completely
-- update libstdc++ for Android U
-- Stop shipping 32-bit Zygote
-- Treat retrofit devices as launching
-- update partition size for Android U
-- Switch default display color mode to Saturated
-- remove vendor.qti.gnss 1.2, 2.0 from manifest
-- kernel: Panic to recovery, not bootloader
-- Switch to Wifi service AIDL
-- Build android.frameworks.sensorservice@1.0.vendor
-- Disable sparse image build on all type of fs
-- powerhint: Nuke GPUIdleTimer
-- Setup permission for powerHAL
-- Remove cpuset foreground boost
-- compatibility_matrix: update target level to 4
-- fingerprint: use libhidlbase-v32 for goodix
-- Enable Optimized Power Management
-- Rename property to disable MTE in system_server
-- prop: Enable apk fs-verity
-- Use FUSE passthrough mode by default
-- fine tune performance.xml
-- gps: Fix misleading indentation
-- Ship with prebuilt libprotobuf-cpp-*-3.9.1
+- May Security Patch | Vanilla
+- UserBuild | Selinux - Enforcing
+- Thanks @wHo_EM_i  for base trees
+- Thanks @im_the_strongest and @LeTsBaKeCaKe @meed0ff for Testing 
 
 ## How To Install
 Instruction to flash newer ROMs with Retrofit Dynamic Partitions:
@@ -89,4 +79,6 @@ Download ->  [Twrp-Recovery-Dynamic](https://sourceforge.net/projects/lc-dev/fil
 
 ## Download Link
 [Download ROM](https://www.pling.com/p/1889410/)
+
+[link 2](https://www.pling.com/p/2094256/)
 
