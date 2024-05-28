@@ -12,10 +12,14 @@ author :
 Download Orangefox Latest version for Samsung Galaxy S24 SM-S9210.
 
 ## Changelog
-- Resolved issue preventing users from flashing custom kernels in PixelOS recovery.
-- Addressed problem hindering device shutdown.
-- Restored max readahead size to 128KB.
-- Rectified Power Off Charging anomaly.
+- Switched to Vulkan UI renderer
+- A few more Dirac fixes
+- Enable support for Bluetooth hearing aids
+- Thermal settings's app list improvement
+- Updated media volume steps
+- Removed updateable apex
+- Upstreamed kernel to v4.14.266
+- Other misc. changes
 
 ## Download Link
 [Fastboot](https://sourceforge.net/projects/sheshu/files/sky/OrangeFox/OrangeFox-Unofficial-sky_22_10_2023.img/download)

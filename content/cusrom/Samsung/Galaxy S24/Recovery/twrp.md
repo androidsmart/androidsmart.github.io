@@ -12,10 +12,13 @@ author :
 Download Custom Recovery TWRP Latest version for Samsung Galaxy S24 SM-S9210.
 
 ## Changelog
-- Bring back dropped media and audio configs [Temporary].
-- Disabled APEX Compression in order to fix kernel panics.
-- Drop Xiaomi CIT censor service because of no debatable improvements seen in ALS correction.
-- Probing of NQ-NCI driver has been stopped when the HWC prop is detected as INDIA.
+- Added the saturated color mode
+- Enabled combined signal icons in the status bar
+- Enabled auto brightness for Ambient display
+- Set SOC manufacturer and chipset properties
+- Improved fingerprint animation when you unlock the device
+- Improved app launch speeds
+- Improved vibrations
 
 ## Download Link
 [Download](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)

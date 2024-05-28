@@ -11,15 +11,12 @@ keywords  : [Samsung Galaxy S24 Plus]
 Download Custom Rom Derpfest OS Android 14 Samsung Galaxy S24 Plus S926B
 
 ## Changelog
-- Updated Optimus kernel to v11.32
-- Show refresh rate controls
-- Fixed error alioth,aliothin using prebuilt recovery
-- Align fp indicator with power button
-- Display correct charging speed
-- Allow all filesystems for USB-OTG
-- WiFi improvements
-- Audio improvements
-- Imported some blobs and config from MIUI 13
+- Merged latest linux-stable v4.14.271
+- Merged latest CAF tag LA.UM.9.1.r1-11700-SMxxx0.0
+- Updated blobs from MIUI V13.0.4.0.SKFMIXM
+- Reverted Vulkan changes (Should fix some GCams not working and a few frame drops)
+- Fixed the front camera cutout protection
+- Added the saturated color mode
 
 ## Download Link
 [ROM](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)

@@ -12,10 +12,14 @@ author :
 Download Orangefox Latest version for Samsung Galaxy S24 Ultra SM-S928B
 
 ## Changelog
-- Resolved issue preventing users from flashing custom kernels in PixelOS recovery.
-- Addressed problem hindering device shutdown.
-- Restored max readahead size to 128KB.
-- Rectified Power Off Charging anomaly.
+- Optimize native executables for Cortex-A76 CPU
+- Switch to dot product CPU variant
+- Improved vibrations
+- Nuked Vulkan (due to some heating/drain)
+- Fixed picture adjustment pin LiveDisplay (Do NOT change kernel if you want LiveDisplay to function properly)
+- Fixed the remaining stuff in miuicamera like clone mode (thanks to Adarsh) P.S. slow-mo is still dead
+- Updated VantomKernel and PlayGround clang
+- Other misc. changes
 
 ## Download Link
 [Fastboot](https://sourceforge.net/projects/sheshu/files/sky/OrangeFox/OrangeFox-Unofficial-sky_22_10_2023.img/download)

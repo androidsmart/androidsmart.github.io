@@ -11,15 +11,14 @@ keywords  : [Samsung Galaxy S24 Ultra]
 Download Custom Rom EvolutionX OS Android 14 Samsung Galaxy S24 Ultra SM-S928B
 
 ## Changelog
-- Improved night display temperature
-- Implement quicktap
-- Fix statusbar burn in protection
-- Improved ui smoothness
-- Some audio changes
-- Implement IORap
-- ART optimization
-- Imported rounded corners overlays from gourami
-- And more fixes and improvements under the hood
+- Fixed the charging issues a few people had (disconnecting)
+- Changes to power_profile.xml for better battery usage information and estimates
+- Increased ZRAM to 3GB
+- Improved memory management
+- Labeled more wakeup nodes
+- Resolved more denials
+- Updated kernel and compiled using the latest playground clang
+- More misc. changes and fixes
 
 ## Download Link
 [ROM](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)
