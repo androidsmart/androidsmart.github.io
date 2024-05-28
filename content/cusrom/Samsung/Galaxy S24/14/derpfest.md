@@ -2,7 +2,7 @@
 type   : cusrom
 title  : Download Derpfest OS Android 14 Samsung Galaxy S24
 slug   : derpfest-a14-SM-S9210
-date   : 2024-06-02T09:17:35+07:00
+date   : 2024-06-03T09:17:35+07:00
 categories: [rom]
 tags      : [SM-S9210]
 keywords  : [Samsung Galaxy S24]

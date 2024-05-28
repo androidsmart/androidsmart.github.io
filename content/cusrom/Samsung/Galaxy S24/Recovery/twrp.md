@@ -1,7 +1,7 @@
 ---
 type   : cusrom
 title  : Download TWRP Recovery For Samsung Galaxy S24
-date   : 2024-06-02T09:17:35+07:00
+date   : 2024-06-03T09:17:35+07:00
 slug   : twrp-SM-S9210
 categories: [Recovery]
 tags      : [SM-S9210]
