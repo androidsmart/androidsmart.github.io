@@ -2,7 +2,7 @@
 type   : cusrom
 title  : Download Lineage OS 21 Android 14 Infinix Note 40 Pro Plus
 slug   : lineage-a14-note40proplus
-date   : 2024-06-04T09:17:35+07:00
+date   : 2024-05-26T09:17:35+07:00
 categories: [rom]
 tags      : [note40proplus]
 keywords  : [Infinix Note 40 Pro Plus]

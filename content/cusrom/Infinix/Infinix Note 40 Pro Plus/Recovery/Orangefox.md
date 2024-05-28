@@ -1,7 +1,7 @@
 ---
 type   : cusrom
 title  : Download OrangeFox Recovery For Infinix Note 40 Pro Plus
-date   : 2024-06-04T09:17:35+07:00
+date   : 2024-05-26T09:17:35+07:00
 slug   : orangefox-note40proplus
 categories: [Recovery]
 tags      : [note40proplus]
