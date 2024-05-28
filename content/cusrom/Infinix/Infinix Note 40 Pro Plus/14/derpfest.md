@@ -11,11 +11,17 @@ keywords  : [Infinix Note 40 Pro Plus]
 Download Custom Rom Derpfest OS Android 14 Infinix Note 40 Pro Plus
 
 ## Changelog
-- Merged April Security Patch
-- Prefer hwcodecs for thumbnails
-- Drop deprecated SystemUI overlays
-- Upstreamed kernel
-- Reduced partition reserved sizes to fix flashing issues
+- Switched to OSS DTBO
+- Reduced Debugging
+- Added Aperture camera with AUX
+- Kernel upstreamed to 4.14.303
+- Disable client composition cache
+- Enable GL comp backpressure
+- Enable zygote critical window
+- Disable per_app_memcg
+- Show AOSP volume panel on the left side by default
+- Show 4G instead of LTE by default
+- Fixed Performance Regressions
 
 ## Download Link
 [ROM](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)

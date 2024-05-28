@@ -12,21 +12,14 @@ author :
 Download Custom Recovery TWRP Latest version for Infinix Note 40 Pro Plus
 
 ## Changelog
-- Adjust zram write back policy
-- Added zram parameter
-- Drop HWUI_COMPILE_FOR_PERF
-- Drop Factory blobs
-- Kernel upstreamed
-- Add permissions for broadcast receiver
-- Include ffmpeg media codecs
-- Set vm swappiness to 60
-- Set zram to 55% as per Stock
-- Adjust ZRAM write back policy
-- Set vm direct_swappiness to 50
-- Remove unneeded TARGET_ENABLE_MEDIADRM_64
-- Address Denials
-- Remove GSI Keys
-- Disable MTK IO and touch boost (makes the heat and throttle)
+- Security Patch : 05th June 2023
+- Synced with PixelOS source
+- Switched to User Build
+- Fixed Neverallows
+- Switched to newer sepolicy
+- Cleanup af
+- Dropped 4G CA / 4G+ for now
+- Misc Fixes
 
 ## Download Link
 [Download](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)

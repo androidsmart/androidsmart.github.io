@@ -12,15 +12,13 @@ author :
 Download Orangefox Latest version for Infinix Note 40 Pro Plus
 
 ## Changelog
-- Synced with latest PixelOS source
-- Upstreamed Kernel
-- Update VSYNC phase offsets from RMX2020 A11
-- Update Vibrator from Nokia Wolverine
-- Addressed Denials
-- Adapt for A12L QPR3 statusbar height API
-- Silence spammy logtags
-- Add in MTK APP TOUCH hints to INTERACTION hint
-- Add GPU scheduling mode change command
+- Force device to treat 170M as sRGB in SF
+- Perform latemount for userdata
+- Disable user data checkpoint
+- Set encryptable=userdata for external SD
+- Shut more logspams
+- Update Vibrator hal
+- Purge lsc_nvram logspam
 
 ## Download Link
 [Fastboot](https://sourceforge.net/projects/sheshu/files/sky/OrangeFox/OrangeFox-Unofficial-sky_22_10_2023.img/download)
