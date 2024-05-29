@@ -1,11 +1,11 @@
 ---
 type   : cusrom
-title  : LineageOS 21 Android 14 Mi 11i - Redmi K40 Pro - Redmi K40 Pro+ - Mi 11X
+title  : LineageOS 21 Android 14 Mi 11i | Redmi K40 Pro | Redmi K40 Pro+ | Mi 11X
 slug   : lineage-a14-haydn
 date   : 2024-06-05T09:17:35+07:00
 categories: [rom]
 tags      : [haydn]
-keywords  : [Mi 11i - Redmi K40 Pro - Redmi K40 Pro+ - Mi 11X]
+keywords  : [Mi 11i | Redmi K40 Pro | Redmi K40 Pro+ | Mi 11X]
 ---
 
 Download Custom Rom LineageOS 21 Android 14 For Xiaomi  Mi 11i - Redmi K40 Pro - Redmi K40 Pro+ - Mi 11X
