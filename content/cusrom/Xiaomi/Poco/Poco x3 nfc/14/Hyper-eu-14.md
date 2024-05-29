@@ -30,3 +30,4 @@ Video recording does not work and NFC will have to be tested
 ## Download Link
 [Hyper CN Port](https://devuploads.com/97u85uyeiqel)
 
+[Hyper EU Port](https://t.me/wahyu6070files/83)
