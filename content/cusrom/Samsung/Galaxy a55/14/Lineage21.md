@@ -28,4 +28,6 @@ Installing LineageOS 21 on the Samsung Galaxy A55 can rejuvenate your device, pr
 
 
 ## Download Link
-[ROM](https://www.toprevenuegate.com/ye2syfhyx3?key=2f8831f2ecc5f5151d73d5a47264f074)
+[coming soon](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)
+
+

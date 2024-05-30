@@ -25,5 +25,6 @@ Download Orangefox Latest version for Samsung Galaxy A55 S5E8845.
 - Improve overall performance
 
 ## Download Link
-[Download](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)
+[coming soon](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)
+
 
