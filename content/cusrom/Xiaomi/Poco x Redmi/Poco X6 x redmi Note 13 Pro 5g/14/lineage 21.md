@@ -1,7 +1,7 @@
 ---
 type   : cusrom
 title  : Lineage OS 21 Android 14 Redmi Note 13 Pro 5G |  POCO X6 5G
-date   : 2024-05-04T09:17:35+07:00
+date   : 2024-03-14T09:17:35+07:00
 slug   : lineage21-a14-garnet
 categories: [rom]
 tags      : [garnet]
