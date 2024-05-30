@@ -1,14 +1,14 @@
 ---
 type   : cusrom
-title  : Download Superior OS Android 14 Poco X6 garnet
+title  : Download Superior OS Android 14 Poco X6 5G | Redmi Note 13 Pro 5G
 slug   : superior-a14-garnet
 date   : 2024-05-21T09:17:35+07:00
 categories: [rom]
 tags      : [garnet]
-keywords  : [poco x6]
+keywords  : [Poco X6 5G | Redmi Note 13 Pro 5G]
 ---
 
-Download Custom Rom Superior OS Android 14 Xiaomi Poco x6 garnet.
+Download Custom Rom Superior OS Android 14 Xiaomi Poco X6 5G | Redmi Note 13 Pro 5G.
 
 ## Changelog
 - Added Charging controls.

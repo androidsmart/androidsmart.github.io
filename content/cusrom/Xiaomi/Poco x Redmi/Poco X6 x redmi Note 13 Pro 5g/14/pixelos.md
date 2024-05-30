@@ -1,15 +1,15 @@
 ---
 type   : cusrom
-title  : pixel OS Android 14 Redmi Note 13 Pro Garnet
+title  : pixel OS Android 14 Poco X6 5G | Redmi Note 13 Pro 5G
 date   : 2024-05-04T09:17:35+07:00
 slug   : pixelos-a14-garnet
 categories: [rom]
 tags      : [garnet]
-keywords  : [redmi note 13 pro]
-author : wahyu6070
+keywords  : [Poco X6 5G | Redmi Note 13 Pro 5G]
+author : 
 ---
 
-Download Custom Rom Pixel OS android 14 Xiaomi redmi note 13 pro Garnet.
+Download Custom Rom Pixel OS android 14 Xiaomi Poco X6 5G | Redmi Note 13 Pro 5G.
 
 
 ## Changelog
