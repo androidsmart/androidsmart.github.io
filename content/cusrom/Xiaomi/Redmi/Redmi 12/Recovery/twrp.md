@@ -20,5 +20,5 @@ Download Custom Recovery TWRP Latest version for Xiaomi Redmi 12 Fire
 - Initial Android 14 release
 
 ## Download Link
-[Download](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)
+[Coming Soon](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)
 

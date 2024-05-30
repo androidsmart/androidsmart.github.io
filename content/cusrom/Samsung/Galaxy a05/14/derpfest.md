@@ -18,5 +18,5 @@ Download Custom Rom Derpfest OS Android 14 Samsung Galaxy A05 SM-A055F.
 - Dropped QS RefreshRate
 
 ## Download Link
-[ROM](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)
+[coming soon](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)
 
