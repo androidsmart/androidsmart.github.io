@@ -1,15 +1,15 @@
 ---
 type   : cusrom
-title  : Lineage OS 21 Android 14 Redmi Note 13 Pro Garnet
+title  : Lineage OS 21 Android 14 Redmi Note 13 Pro 5G |  POCO X6 5G
 date   : 2024-05-04T09:17:35+07:00
 slug   : lineage21-a14-garnet
 categories: [rom]
 tags      : [garnet]
-keywords  : [redmi note 13 pro]
-author : wahyu6070
+keywords  : [redmi note 13 pro 5G | POCO X6 5G]
+author :
 ---
 
-Download Custom Rom Lineage OS 21 android 14 Xiaomi redmi note 13 pro Garnet.
+Download Custom Rom Lineage OS 21 android 14 Xiaomi redmi note 13 pro 5g | poco X6 5G Garnet.
 
 ## LineageOS 21 on Redmi Note 13 Pro (Garnet): What You Need to Know
 

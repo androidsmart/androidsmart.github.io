@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : LineageOS 20 Android 13 Redmi Note 13 Pro
+title  : LineageOS 20 Android 13 Redmi Note 13 Pro 5g
 date   : 2024-04-17T09:17:35+07:00
 slug   : los20-a14-garnet
 categories: [rom]

@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Paper OS Android 14 Redmi Note 13 Pro
+title  : Paper OS Android 14 Poco X6 5G | Redmi Note 13 Pro 5G
 date   : 2024-04-17T09:17:35+07:00
 slug   : paper-a14-garnet
 categories: [rom]

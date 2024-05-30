@@ -1,11 +1,11 @@
 ---
 type   : cusrom
-title  : Crdroid OS Android 14 Redmi Note 13 Pro
+title  : Crdroid OS Android 14 Redmi Note 13 Pro 5G | POCO X6
 date   : 2024-05-04T09:17:35+07:00
 slug   : crdroid-a14-garnet
 categories: [rom]
 tags      : [garnet]
-keywords  : [redmi note 13 pro]
+keywords  : [redmi note 13 pro 5G]
 author : wahyu6070
 ---
 

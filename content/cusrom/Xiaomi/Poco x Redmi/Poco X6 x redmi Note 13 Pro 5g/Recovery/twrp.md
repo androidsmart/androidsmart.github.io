@@ -1,12 +1,12 @@
 ---
 type   : cusrom
-title  : Download Twrp Latest Version Redmi Note 10 Pro / Poco x6 Garnet
+title  : Download Twrp Recovery Redmi Note 13 Pro 5G | Poco x6 5G
 date   : 2024-03-11T09:17:35+07:00
 slug   : twrp-garnet
 categories: [Recovery]
 tags      : [garnet]
-keywords  : [Twrp]
-author : wahyu6070
+keywords  : [Redmi Note 13 Pro 5 | POCO X6 5G]
+author : 
 ---
 
 Download Custom Recovery Twrp Latest version for Xiaomi redmi note 10 pro or Poco x6 Garnet
