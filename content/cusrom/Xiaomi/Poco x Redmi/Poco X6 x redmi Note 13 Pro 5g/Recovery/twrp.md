@@ -9,8 +9,7 @@ keywords  : [Redmi Note 13 Pro 5 | POCO X6 5G]
 author : 
 ---
 
-Download Custom Recovery Twrp Latest version for Xiaomi redmi note 10 pro or Poco x6 Garnet
-
+Download Custom Recovery Twrp Latest version for Xiaomi Poco X6 5G | Redmi Note 13 Pro 5G Garnet.
 
 ## Changelog
 - Set default value night display color temperature
