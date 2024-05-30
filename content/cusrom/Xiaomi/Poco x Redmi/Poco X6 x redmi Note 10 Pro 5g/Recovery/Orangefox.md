@@ -1,12 +1,12 @@
 ---
 type   : cusrom
-title  : Download OrangeFox Latest Version redmi note 10 pro / Poco x6 Garnet
+title  : Download OrangeFox Recovery Redmi Note 10 pro / Poco x6 Garnet
 date   : 2024-03-11T09:17:35+07:00
 slug   : orangefox-garnet
 categories: [Recovery]
 tags      : [garnet]
-keywords  : [Twrp]
-author : wahyu6070
+keywords  : [Redmi Note 10 Pro | Garnet]
+author : 
 ---
 
 Download Custom recovery Orangefox Latest version for Xiaomi redmi note 10 or Poco x6 Garnet
@@ -28,5 +28,6 @@ Download Custom recovery Orangefox Latest version for Xiaomi redmi note 10 or Po
 
 
 ## Download Link
-[Download](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)
+[Download](https://orangefox.download/device/garnet)
 
+[Installation](https://xdaforums.com/t/recovery-official-xiaomi-redmi-note-13-pro-5g-poco-x6-5g-orangefox-recovery-project-r11-1-a13-a14.4673885/)
