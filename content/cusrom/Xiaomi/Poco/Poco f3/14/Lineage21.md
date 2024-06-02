@@ -35,6 +35,6 @@ LineageOS is a free, open-source operating system (OS) based on Android. It's kn
 
 
 ## Download Link
-[Official](https://download.lineageos.org/devices/alioth](https://download.lineageos.org/devices/alioth)
+[Official](https://t.me/wahyu6070files/209?single)
 
 [by pixeldroid](https://xdaforums.com/t/closed-rom-unofficial-alioth-14-lineageos-21-0-for-poco-f3-mi-11x-redmi-k40.4667399/#post-89461593)

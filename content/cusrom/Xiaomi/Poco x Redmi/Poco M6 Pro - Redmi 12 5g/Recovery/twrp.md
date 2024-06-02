@@ -21,5 +21,5 @@ All Thanks to @pjgowtham for his work on device source on custom recovery
 By: @sheshuv
 
 ## Download Link
-[Download](https://sourceforge.net/projects/sheshu/files/sky/TWRP/twrp-3.7.0_12-0_LOCAL-20231025-sky-14-support.img/download)
+[Download](https://sourceforge.net/projects/sheshu/files/sky/TWRP/)
 

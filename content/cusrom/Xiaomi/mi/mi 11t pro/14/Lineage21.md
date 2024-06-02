@@ -39,3 +39,13 @@ Enjoy the fresh experience of LineageOS 21 on your Xiaomi 11T Pro!
 
 ## Download Link
 [ROM](https://sourceforge.net/projects/special-builds-by-swiitchoff/files/LineageOS/A14/)
+
+### by knixx
+[Vanill](https://drive.google.com/file/d/1ZoQDMy3CYSUKZi51W_Kn9Ec45nwj69BW/view?usp=sharing)
+
+[Gapps](https://drive.google.com/file/d/1fDiH2DcuMynjT0AzDZU2s3JX2H30CJ6i/view?usp=sharing)
+
+### By the strech
+[ROM](https://sourceforge.net/projects/thestrechh/files/vili/lineage-21/)
+
+

@@ -6,7 +6,7 @@ slug   : PitchBlack-sky
 categories: [Recovery]
 tags      : [sky]
 keywords  : [picthblack]
-author : wahyu6070
+author :
 ---
 
 Download PitchBlack Latest version for Xiaomi Redmi 12 5G and Poco M6 pro Sky.
@@ -28,4 +28,6 @@ By: @sheshuv
 [img](https://sourceforge.net/projects/sheshu/files/sky/PBRP/PBRP-sky-4.0-20231202-0725-UNOFFICIAL.img/download)
 
 [Zip](https://sourceforge.net/projects/sheshu/files/sky/PBRP/PBRP-sky-4.0-20231202-0725-UNOFFICIAL.zip/download)
+
+[Fastboot]([Fastboot](https://github.com/sheshuv/Action-TWRP-Builder/releases/)
 
