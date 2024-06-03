@@ -31,18 +31,10 @@ By Pulkit Agarwal
 
 ## Download Link
 ## Official
-[ROM](https://devuploads.com/12563sc4sir5)
+[Rom](https://t.me/wahyu6070files/275)
 
-[boot.img](https://devuploads.com/zc4s4ijx6zso)
 
-[dtbo.img](https://devuploads.com/1jt3zr1c7pli)
-
-[recovery.img](https://devuploads.com/v5iwr8unesv6)
-
-[super_empty.img](https://devuploads.com/017o7nqnrg2m)
-
-[vbmeta.img](https://devuploads.com/l84zb8fjqdlq)
-
+[Mirror]
 
 ### Unofficial
 [Download ROM](https://downloads.pulkit077.workers.dev/0:/Downloads/lineage-21.0-20240209-UNOFFICIAL-sweet.zip)
