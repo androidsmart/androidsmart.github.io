@@ -24,6 +24,10 @@ Download Custom Rom Cherish OS android 14 Xiaomi redmi note 13 pro 5G Garnet.
 @grewal for resources
 
 ## Download Link
+### Official
+[Rom](https://www.pling.com/p/2155108/)
+
+### Unofficial
 [ROM](https://sourceforge.net/projects/garnet-builds/files/CherishOS/20240501/)
 
 [Firmware](https://sourceforge.net/projects/garnetrandom/files/FW/Global/fw_garnet_miui_GARNETGlobal_OS1.0.6.0.UNRMIXM_047bdb5ebf_14.0.zip/download)

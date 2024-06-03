@@ -20,4 +20,10 @@ Download Custom Rom EvolutionX OS Android 14 Xiaomi Poco X6 5G | Redmi Note 13 P
 - Many under the hood improvements.
 
 ## Download Link
-[ROM](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)
+[ROM](https://sourceforge.net/projects/garnet-playground/files/)
+
+[Firmware](https://sourceforge.net/projects/garnetrandom/files/FW/)
+
+[Install](https://telegra.ph/Step-Flashing-05-07)
+
+

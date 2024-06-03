@@ -12,16 +12,26 @@ author :
 Download Custom Rom Pixel OS android 14 Xiaomi Poco X6 5G | Redmi Note 13 Pro 5G.
 
 
-## Changelog
-- FP fixed on fts touch for somes users
-- Offline charging Fixed 
+## Changelogs
+- May Security patch
+- Fixed offline charging
+- Enabled VoLTE
+- Updated CPU Architectures
+- Drop QtiTelephony.apk
+- Adjusted AOD keyguard padding
+- Fixed advance reboot always on
+- Improved stability 
 
-## Note 
-- Use Hyper Os fw/A14
+## Notes
+- Use Hyper OS FW/A14
+- Clean flash recommended. 
+- Dirty flash works fine form my previous PixelOS build.
 
 ## Credits
-@grewal for resources
-@AlCoptan99 for fix offline charging
+- @grewal for resources
+- @AlCoptan99 for Support
+
+By @DarckWizard | Donate 
 
 ## Download Link
 ### unofficial

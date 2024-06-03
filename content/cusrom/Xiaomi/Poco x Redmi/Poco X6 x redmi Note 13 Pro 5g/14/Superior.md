@@ -18,4 +18,10 @@ Download Custom Rom Superior OS Android 14 Xiaomi Poco X6 5G | Redmi Note 13 Pro
 - Fixed Overlays in Battery settings.
 
 ## Download Link
-[ROM](https://payoffyes.com/fbz37smn33?key=a6ae3c4640a1737a2a572d122c10794c)
+[ROM](https://sourceforge.net/projects/protect-hikari-paradoxes/files/)
+
+[Firmware](https://sourceforge.net/projects/garnetrandom/files/FW/Global/fw_garnet_miui_GARNETGlobal_OS1.0.6.0.UNRMIXM_047bdb5ebf_14.0.zip/download)
+
+[installation](https://graph.org/Lineage-OS-flashing-instructions-for-garnet-04-20)
+
+
