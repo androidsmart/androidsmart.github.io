@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : LineageOS 21 Android Redmi 3X - Redmi 4 - Redmi 4X - Redmi Note 5A Prime - Redmi Y1 Prime
+title  : LineageOS 21 Android 14 Redmi 3X - Redmi 4 - Redmi 4X - Redmi Note 5A Prime - Redmi Y1 Prime
 slug   : lineage-a14-mi8937
 date   : 2024-06-07T09:17:35+07:00
 categories: [rom]
@@ -44,6 +44,6 @@ For a visual understanding of LineageOS 21 on the Redmi 4X,  consider checking o
 LineageOS 21 presents a compelling way to experience the latest Android features and extend the lifespan of your Redmi 4X.  However, it's an endeavor best suited for users comfortable with tinkering and  willing to accept the inherent risks.  If you're new to flashing ROMs, it's wise to do your research and  proceed with caution. Make a full backup of your data and meticulously follow the installation instructions to minimize the risk of complications.
 
 ## Download Link
-[ROM](https://t.me/wahyu6070files/238?single)
+[ROM](https://t.me/wahyu6070files/254?single)
 
 
