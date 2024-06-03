@@ -44,4 +44,4 @@ To install Lineage OS 20.0 on your Asus Zenfone Max Pro M1, follow these steps:
 Lineage OS 20.0 breathes new life into the Asus Zenfone Max Pro M1 with updated features and improved performance. For detailed installation instructions and support.
 
 ## Download Link
-[Download ROM](https://t.me/wahyu6070files/42?single)
+[Download ROM](https://t.me/wahyu6070files/303?single)
