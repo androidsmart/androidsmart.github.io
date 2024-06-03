@@ -2,7 +2,7 @@
 type   : cusrom
 title  : LineageOS 21 Android Redmi 3X - Redmi 4 - Redmi 4X - Redmi Note 5A Prime - Redmi Y1 Prime
 slug   : lineage-a14-mi8937
-date   : 2024-06-07pT09:17:35+07:00
+date   : 2024-06-07T09:17:35+07:00
 categories: [rom]
 tags      : [mi8937]
 keywords  : [Redmi 3X - Redmi 4 - Redmi 4X - Redmi Note 5A Prime - Redmi Y1 Prime]
