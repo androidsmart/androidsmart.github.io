@@ -2,7 +2,7 @@
 type   : cusrom
 title  : Download Lineage OS 20 Android 13 Galaxy S9+
 slug   : lineage20-a13-star2lte
-date   : 2024-06-11T09:17:35+07:00
+date   : 2024-06-12T09:17:35+07:00
 categories: [rom]
 tags      : [star2lte]
 keywords  : [Galaxy S9+]

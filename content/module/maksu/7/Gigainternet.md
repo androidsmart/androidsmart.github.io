@@ -2,7 +2,7 @@
 type   : module
 title  : Gigainternet Magisk and kernelsu modules
 slug : Gigainternet
-date   : 2024-06-11T09:17:35+07:00
+date   : 2024-06-12T09:17:35+07:00
 categories: [module]
 keywords  : [gigainternet]
 author : 
