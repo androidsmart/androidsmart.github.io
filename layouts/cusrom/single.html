@@ -40,7 +40,7 @@
 {{ $Z := where site.RegularPages "Section" "eq" "cusrom" }}
 {{ $T :=  where $Z "Params.tags" "intersect" $P }}
 
-{{ range $T | first 200}}
+{{ range $T | first 50}}
 
 	{{ if eq .Params.tags $P }}
 	<div class="p1"><a class="game_link" href="{{ .RelPermalink }}">{{ .Title }}</a></div>
