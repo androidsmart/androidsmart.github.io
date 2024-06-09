@@ -1,38 +1,47 @@
 ---
 type   : cusrom
-title  : Nusatara Project LTS Android 10 Asus Zenfone Max Pro M1
-date   : 2023-12-01T09:17:35+07:00
-slug   : Nusantara project android 10
+title  : Nusatara Project LTS OS Android 10 Asus Zenfone Max Pro M1
+date   : 2024-06-13T09:17:35+07:00
+slug   : Nusantara-a10-x00t
 categories: [rom]
-tags      : [magisk, custom]
-keywords  : [magisk module, mi 13t, module gaming, Kernelsu]
-author : wahyu6070
+tags      : [X00T]
+keywords  : [Asus Zenfone Max Pro M1]
+author : 
 ---
 
+**Revitalizing the Asus Zenfone Max Pro M1 with Nusantara Project's Android 10 Custom ROM**
 
+The Asus Zenfone Max Pro M1 (X00T), a budget-friendly smartphone launched in 2018, has been given a new lease on life thanks to the Nusantara Project's custom ROM based on Android 10. This community-driven initiative has successfully addressed the device's stagnation in the official Android update cycle, bringing a plethora of enhancements and modern features to the beloved device.
 
-Nusantara Project is a custom ROM that is based on the Android Open Source Project (AOSP). It is designed to provide a stable and smooth user experience while also offering a wide range of customization options. The ROM is developed by a team of developers who are dedicated to providing regular updates and bug fixes.
+## Key Improvements and Features
 
-## Features
-Nusantara Project 1.1 comes with a host of features that are designed to enhance the user experience. Some of the key features of the ROM include:
+- **Upgraded Operating System:** The Nusantara Project's custom ROM replaces the original Android 8.1 Oreo with Android 10, introducing gesture navigation, system-wide dark mode, enhanced privacy controls, and numerous customization options.
+- **Optimized Performance:** The ROM is meticulously tailored for the Zenfone Max Pro M1's hardware, resulting in smoother operation, faster app launches, and improved battery life compared to the stock software.
+- **Community-Driven Enhancements:** The Nusantara Project ROM goes beyond the standard Android 10 features, offering a range of custom modifications, themes, icon packs, and performance tweaks. The active community provides invaluable support and resources for users.
 
-- **Darkonah kernel**: The ROM comes with the Darkonah kernel, which is non-OC and provides better performance and stability.
-- **Upstreamed kernel**: The kernel has been upstreamed to 4.4.236, which provides better compatibility with the latest apps and games.
-- **Improved audio**: The ROM comes with improved audio quality, which provides a better listening experience.
-- **Improved GPS**: The ROM comes with improved GPS performance, which provides better location accuracy.
-- **Updated to coral September build fingerprint**: The ROM has been updated to the latest coral September build fingerprint, which provides better security.
-- **Added Musicolet**: The ROM comes with Musicolet, which is a powerful music player that provides a wide range of features.
-- **Added Kimcy Screenrecorder**: The ROM comes with Kimcy Screenrecorder, which is a powerful screen recorder that provides a wide range of features.
+## Benefits for Zenfone Max Pro M1 Users
 
-## Installation
-Here are the steps to install Nusantara Project 1.1 on your Asus Zenfone Max Pro M1:
+The Nusantara Project's custom ROM enables Zenfone Max Pro M1 users to:
 
-1. Download the Nusantara Project 1.1 ROM and NikGapps from the links provided in ⁴.
-2. Reboot your phone into recovery mode.
-3. Wipe your data, cache, and dalvik cache.
-4. Install the Nusantara Project 1.1 ROM and NikGapps.
-5. Reboot your phone.
+- **Extend Device Lifespan:** Keep their aging device relevant and functional for years to come.
+- **Experience Modern Android Features:** Enjoy the latest Android 10 features and functionalities.
+- **Enhance Performance and User Experience:** Achieve smoother operation, faster app launches, and improved battery life.
+- **Personalize Their Device:** Customize the appearance and functionality of their device with various options.
+- **Engage with an Active Community:** Access support, feedback, and troubleshooting resources from a dedicated community.
 
 ## Conclusion
-Nusantara Project 1.1 is a stable and feature-rich custom ROM that is designed to provide a smooth and stable user experience. The ROM comes with a host of features that are designed to enhance the user experience, including improved audio, improved GPS, and a powerful music player. If you are looking for a custom ROM for your Asus Zenfone Max Pro M1, then Nusantara Project 1.1 is definitely worth checking out.
+
+The Nusantara Project's success in bringing Android 10 to the Zenfone Max Pro M1 exemplifies the power of community-driven development and the enduring appeal of this budget-friendly smartphone. This custom ROM revitalizes the device, offering an enhanced user experience and a prolonged lifespan, making it a testament to the potential of older devices when supported by dedicated communities and innovative software solutions.
+
+## Additional Resources
+
+- **Nusantara Project website:** [https://nusantararom.org/device/x00t/](https://nusantararom.org/device/x00t/)
+- **Nusantara Project YouTube channels and forums:** Search for "Nusantara Project Zenfone Max Pro M1" on YouTube and relevant forums.
+
+Disclaimer: Installing custom ROMs involves technical knowledge and potential risks. Proceed with caution and ensure you understand the process before attempting installation.
+
+
+## Link
+[ROM](https://www.pling.com/p/1422376)
+
 
