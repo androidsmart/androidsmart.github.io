@@ -2,7 +2,7 @@
 type   : cusrom
 title  : Download Lineage OS 21 Android 14  Samsung Galaxy Tab S6 Lite (WIFI)
 slug   : lineage20-a14-gta4xlwifi
-date   : 2024-06-12T09:17:35+07:00
+date   : 2024-06-13T09:17:35+07:00
 categories: [rom]
 tags      : [gta4xlwifi]
 keywords  : [Galaxy Tab S6 Lite (WIFI)]

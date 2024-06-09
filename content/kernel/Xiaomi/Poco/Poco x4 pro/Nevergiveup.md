@@ -5,7 +5,7 @@ date   : 2024-05-09T09:17:35+07:00
 slug   : Nevergiveup-veux
 categories: [kernel]
 tags      : [veux]
-keywords  : [arise]
+keywords  : [POCO X4 Pro]
 ---
 
 Download Custom Kernel NeverGiveUP For POCO X4 Pro Veux
