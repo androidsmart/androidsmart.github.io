@@ -1,40 +1,51 @@
 ---
 type   : cusrom
-title  : Download Rom Lineage OS 21 Android 14 Google ADT-3
+title  : Download Rom Lineage OS 21 Android 14 Sony Xperia 10 (kirin)
 date   : 2024-06-08T09:17:35+07:00
-slug   : lineage21-a14-deadpool
+slug   : lineage21-a14-kirin
 categories: [rom]
-tags      : [deadpool]
-keywords  : [Google ADT-3]
+tags      : [kirin]
+keywords  : [Sony Xperia 10 (kirin)]
 author : 
 ---
 
-Download Custom Rom Lineage 21 android 14 Google ADT-3 (Deadpool)
+Download Custom Rom Lineage 21 android 14 Sony Xperia 10 (kirin)
 
-LineageOS 21, based on Android 14, has officially arrived for the Google ADT-3, promising a fresh and revitalized experience for your Android TV device. This custom ROM offers a multitude of benefits that go beyond the stock Android TV experience, including improved performance, expanded customization options, and up-to-date security patches.
+LineageOS 21 on Sony Xperia 10: A Comprehensive Overview
 
-## What Does LineageOS 21 Bring to the Table?
+LineageOS 21 is a popular custom ROM based on Android 11, known for its stability, performance, and customization options. The Sony Xperia 10, a mid-range phone released in 2019, can benefit significantly from this ROM, breathing new life into the device.
 
-* **Enhanced Performance:** LineageOS 21 is optimized for the Amlogic S905Y2 chipset in the ADT-3, resulting in a smoother and more responsive interface. You can expect faster app loading times, smoother navigation, and overall better performance for your daily streaming and entertainment needs.
-* **Customization Galore:** One of the hallmarks of LineageOS is its emphasis on customization. LineageOS 21 on the ADT-3 allows you to personalize the look and feel of your Android TV interface with themes, icon packs, and other tweaks. You can also add custom features and functionality to tailor the experience to your preferences.
-* **Up-to-Date Security:** LineageOS takes security seriously and regularly releases updates to patch vulnerabilities and protect your device from potential threats. With LineageOS 21, you can rest assured that your ADT-3 is running on a secure and up-to-date platform.
-* **A Stock Android Experience:** LineageOS 21 offers a clean and bloatware-free Android experience, without the unnecessary apps and customizations that often come with manufacturer skins. This can lead to a more streamlined and efficient user experience.
+## What is LineageOS 21?
 
-## How to Install LineageOS 21 on Your Google ADT-3
+LineageOS is a free and open-source operating system for various smartphones and tablets. It is based on the Android mobile platform and offers a pure Android experience with additional features and customization options.
 
-The installation process involves unlocking the bootloader, installing a custom recovery like TWRP, and then flashing the LineageOS 21 ROM. Detailed instructions and resources can be found on the official LineageOS wiki and XDA forums:
+## Why Choose LineageOS 21 for Sony Xperia 10?
 
-* **LineageOS Wiki for Google ADT-3:** [https://wiki.lineageos.org/devices/deadpool/](https://wiki.lineageos.org/devices/deadpool/)
-* **XDA Forums LineageOS 21 for ADT-3:** [https://xdaforums.com/t/official-lineageos-21-for-amlogic-gxl-gxm-g12-sm1-ne-family-devices.4649881/](https://xdaforums.com/t/official-lineageos-21-for-amlogic-gxl-gxm-g12-sm1-ne-family-devices.4649881/)
+1. **Improved Performance:** LineageOS 21 is optimized for performance and can significantly improve the speed and responsiveness of the Xperia 10.
+2. **Longer Battery Life:** The ROM is known for its battery efficiency, potentially extending the Xperia 10's battery life.
+3. **Regular Updates:** LineageOS offers regular security updates and bug fixes, keeping your device secure and up-to-date.
+4. **Customizability:** With LineageOS, you have full control over your device's appearance and functionality.
+5. **Privacy and Security:** LineageOS prioritizes privacy and security, with features like Privacy Guard and App Permissions Manager.
 
-## Important Considerations
+## Installing LineageOS 21 on Sony Xperia 10
 
-Before proceeding with the installation, it's crucial to note that installing custom ROMs like LineageOS can void your device's warranty. Additionally, it's a process that requires technical knowledge and should only be attempted by experienced users. Be sure to back up your data and carefully follow the instructions to avoid any issues.
+The installation process requires an unlocked bootloader and a custom recovery like TWRP. It is important to back up your data before proceeding.
 
-## Conclusion
+1. **Download:** Download the LineageOS 21 ROM and GApps package for your Xperia 10.
+2. **Boot into Recovery:** Reboot your phone into recovery mode (TWRP).
+3. **Wipe:** Wipe data, cache, and dalvik cache.
+4. **Install:** Install the LineageOS 21 ROM and GApps package.
+5. **Reboot:** Reboot your device.
 
-LineageOS 21 brings a breath of fresh air to the Google ADT-3, offering a wealth of enhancements and customization options that can elevate your Android TV experience. If you're looking to unlock the full potential of your ADT-3, LineageOS 21 is definitely worth considering.
+**Disclaimer:** Installing custom ROMs is a risky process and may void your warranty. Proceed with caution and follow the instructions carefully.
+
+## Current Status and Future of LineageOS 21 on Xperia 10
+
+As of June 10, 2024, LineageOS 21 for the Sony Xperia 10 is still under development. The official LineageOS wiki page for the Xperia 10 (codenamed kirin) indicates that it supports LineageOS 20 and 19.1 but not 21 yet. However, unofficial builds or future official support for LineageOS 21 may become available. 
+
+Keep an eye on the LineageOS community forums and the Xperia 10 XDA forums for updates and further developments regarding LineageOS 21 on the Sony Xperia 10.
+
 
 ## Download Link
-[Download ROM](https://t.me/wahyu6070files/325?single)
+[Download ROM](https://t.me/wahyu6070files/678?single)
 

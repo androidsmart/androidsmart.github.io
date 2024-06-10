@@ -1,7 +1,7 @@
 ---
 type   : cusrom
 title  : Download Derpfest OS Android 14 One Plus 8 Pro
-date   : 2024-06-10T09:17:35+07:00
+date   : 2024-06-13T09:17:35+07:00
 slug   : derpfest-a14-instantnoodlep
 categories: [rom]
 tags      : [instantnoodlep]
@@ -9,7 +9,7 @@ keywords  : [Oneplus 8 pro]
 author :
 ---
 
-Download Custom Rom Project Blaze android 14 OnePlus 8 Pro instantnoodlep
+Download Custom Rom Project Derpfest android 14 OnePlus 8 Pro instantnoodlep
 
 ## Warning
 - It is required to sideload ROM from recovery
