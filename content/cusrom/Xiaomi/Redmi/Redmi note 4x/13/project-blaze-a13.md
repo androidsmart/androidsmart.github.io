@@ -6,77 +6,49 @@ slug   : Projectblaze-a13-mido
 categories: [rom]
 tags      : [mido]
 keywords  : [redmi note 4x]
-author : wahyu6070
+author : 
 ---
 
 Download Custom Rom Project Blaze android 13 for xiaomi redmi note 4x.
 
 
-## Changelog
-### Changelogs 3.0
-- Brought many Pixel features like quick tap and now playing, fully functional from android 13
-- Redesigned Settings UI
-- Redesigned About Phone 
-- Icon Pack Styles
-- Status Bar customizations
-- Added Face Unlock
-- Added Black Theme
-- Added option to enable AOD on charging only
-- Added smart pixels
-- Added xdroid-OSS inspired settings base layout
-- Added toggle for smart 5G
-- Imported vibration patterns from OOS
-- Added Ambient Music Ticker
-- Added Monet Engine
-- Added screen off fod
-- Added Smart Pause
-- Added OnePlus camera and MIUI camera support
+Project Blaze for Redmi Note 4/4X: Breathing New Life into a Classic
 
-### Changelogs 2.10-DAWN
-- Merged september security patch
-- Rebased all hals and components from LineageOS
-- Added our own wallpaper stub & exclusive Blaze wallpapers
-- [BUGFIX] Fixed an issue where systemUI reboots after clicking devices icon while connected with Bluetooth
-- Added back 90FPS option in BGMI
-- Added option for Android P system animation
-- Added Lockscreen fonts support
-- Added toggle for QS [ Android 13 & Android 11 QS switch & vice-versa]
-- Added QS customizations 
-- Added animation for QS tiles
-- Added options for resizeable QS header space
-- Added option to always show the time in media player 
-- Fixed some logspams
-- Fixed some random A.S.I crash
-- Implemented Power Menu blur & sub-menus blur
-- Added Light themes QS and power menu
-- Imported IOS 16 lockscreen clocks
-- Added face illustration settings
-- Added lottie animations in settings
-- [BUGFIX] Fix total ram calculation for some devices
-- Import illustrations from motorola
-- Launcher3: Disable wallpaper zoom and scroll by default
-- [BUGFIX] Fixed an issue where launcher crashes while clicking to meminfoview
+The Redmi Note 4/4X, while a classic device in the Xiaomi lineup, might feel outdated with its older Android version. Enter Project Blaze, a custom ROM project that aims to revitalize these devices with a fresh and modern Android experience.
 
-### Changelogs 2.9
-- Merged august security patch
-- Added back Android 11 QS Style
-- Added back QS tile shapes customisations
-- Added monet customisations
-- Added support for smart pixels
-- Added 9 more  and ios battery style
-- Added custom frame rate recorder
-- Added power/reboot menu opacity
-- Added back settings dashboard lottie animation
-- Introduced data switch qs, network preference qs
-- AppLock: Fix hidden apps reset after reboot 
-- Redesigned and improved volume panel
-- Fixed a button crash on volume panel which leads to SystemUI restart 
-- Added bluetooth and wifi timeout feature
-- Updated screenshot sound from nothing ui
-- Added  feature for smart 5g
-- Rebased source vendor
-- Fixed some devices not booting issue like Alioth
-- Rebased source build repos
+**What is Project Blaze?**
+
+Project Blaze is an unofficial custom ROM based on the latest Android version, specifically tailored for the Redmi Note 4/4X (codename mido). It brings a host of new features, performance enhancements, and visual overhauls to these aging devices.
+
+**Why Choose Project Blaze for Redmi Note 4/4X?**
+
+1. **Updated Android Experience:** Project Blaze offers the latest Android version, complete with new features and UI changes. This brings your old Redmi Note 4/4X back to life with a modern and refreshed look and feel.
+
+2. **Performance Boost:** Optimized for the Redmi Note 4/4X hardware, Project Blaze delivers noticeable performance improvements. You can expect smoother animations, faster app launches, and improved overall responsiveness.
+
+3. **Customization:** Project Blaze offers a wide range of customization options, allowing you to tailor the look and feel of your device to your liking. You can change themes, icons, fonts, and even tweak system settings.
+
+4. **New Features:**  Enjoy new features not found in the stock ROM, such as various UI customizations, additional quick settings toggles, and other enhancements.
+
+5. **Active Community:** Project Blaze has an active community of developers and users who are continuously working to improve the ROM and provide support.
+
+**Things to Consider Before Installing**
+
+* **Installation Process:** Installing Project Blaze requires unlocking the bootloader, installing a custom recovery (like TWRP), and flashing the ROM. This process requires some technical knowledge, so proceed with caution.
+
+* **Bugs and Issues:** As an unofficial project, Project Blaze might have some bugs or stability issues, especially in the early releases. However, the developers are constantly working to address these issues.
+
+* **Warranty:** Installing Project Blaze will void your device's warranty. Be aware of this before proceeding.
+
+**Where to Find Project Blaze?**
+
+You can find Project Blaze ROMs and installation instructions on the official Project Blaze website or various online forums like XDA Developers. 
+
+**Conclusion**
+
+Project Blaze offers a fantastic opportunity to revitalize your aging Redmi Note 4/4X with the latest Android experience. If you're comfortable with the installation process and willing to embrace the potential for minor bugs, Project Blaze can breathe new life into your device and provide you with a fresh, customizable, and optimized user experience.
+
+**Disclaimer:** Flashing a custom ROM carries inherent risks. Proceed with caution and ensure you understand the process before attempting installation.
 
 
 ## Download Link
