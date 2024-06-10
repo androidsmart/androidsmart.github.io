@@ -27,7 +27,7 @@
 
 
 <h2>Kernel</h2>
-{{ range first (where .Site.RegularPages "Section" "kernel") }}
+{{ range (where .Site.RegularPages "Section" "kernel") }}
 <div><a class="game_link" href="{{ .RelPermalink }}">{{ .Title }}</a>
 <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}"> {{ .Date.Format "Jan 2, 2006" }}</time>
 
@@ -35,21 +35,21 @@
 {{ end }}
 
 <h2>Module</h2>
-{{ range first (where .Site.RegularPages "Section" "module") }}
+{{ range (where .Site.RegularPages "Section" "module") }}
 <div><a class="game_link" href="{{ .RelPermalink }}">{{ .Title }}</a>
 <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}"> {{ .Date.Format "Jan 2, 2006" }}</time>
 </div>
 {{ end }}
 
 <h2>Tutorial</h2>
-{{ range first (where .Site.RegularPages "Section" "tutorial") }}
+{{ range (where .Site.RegularPages "Section" "tutorial") }}
 <div><a class="game_link" href="{{ .RelPermalink }}">{{ .Title }}</a>
 <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}"> {{ .Date.Format "Jan 2, 2006" }}</time>
 </div>
 {{ end }}
 
 <h2>Etc</h2>
-{{ range first (where .Site.RegularPages "Section" "etc") }}
+{{ range (where .Site.RegularPages "Section" "etc") }}
 <div><a class="game_link" href="{{ .RelPermalink }}">{{ .Title }}</a>
 <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}"> {{ .Date.Format "Jan 2, 2006" }}</time>
 </div>
