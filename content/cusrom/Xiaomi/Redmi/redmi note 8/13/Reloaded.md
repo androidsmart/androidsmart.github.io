@@ -6,7 +6,7 @@ slug   : reloaded-a13-ginkgo
 categories: [rom]
 tags      : [ginkgo]
 keywords  : [redmi note 8]
-author : wahyu6070
+author : 
 ---
 
 Download Custom Rom Reloaded OS android 13 Xiaomi redmi note 8 ginkgo.
@@ -25,5 +25,9 @@ Download Custom Rom Reloaded OS android 13 Xiaomi redmi note 8 ginkgo.
 
 
 ## Download Link
+## Official
+[ROM)(https://sourceforge.net/project/reloaded-caf/ginkgo)
+
+## Unofficial
 [ROM](https://sourceforge.net/projects/gogreenxiaomi/files/ginkgo/Rom-Reloaded/Reloaded-13.1-ginkgo-UNOFFICIAL-20231229-GAPPS.zip/download)
 
