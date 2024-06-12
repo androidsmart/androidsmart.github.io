@@ -1,12 +1,12 @@
 ---
 type   : cusrom
-title  : Twrp Poco F1
+title  : Download TWRP Recovery Poco F1
 date   : 2024-03-06T09:17:35+07:00
 slug   : twrp-beryllium
 categories: [recovery]
-tags      : [twrp]
+tags      : [beryllium]
 keywords  : [poco F1]
-author : wahyu6070
+author :
 ---
 
 Download Custom Recovery Twrp Latest version for poco f1 beryllium.

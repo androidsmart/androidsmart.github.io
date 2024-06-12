@@ -4,7 +4,7 @@ title  : Download OrangeFox Poco F1
 date   : 2024-03-06T09:17:35+07:00
 slug   : orangefox-beryllium
 categories: [recovery]
-tags      : [orangefox]
+tags      : [beryllium]
 keywords  : [poco F1]
 author : wahyu6070
 ---
