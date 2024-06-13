@@ -6,7 +6,7 @@ slug   : lineage20-a13-topaz
 categories: [rom]
 tags      : [topaz]
 keywords  : [redmi note 12]
-author : wahyu6070
+author : 
 ---
 
 Download Custom Rom LineAge20 OS android 13 Xiaomi redmi note 12 topaz.

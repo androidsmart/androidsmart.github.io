@@ -6,7 +6,7 @@ slug   : cdroid-a14-topaz
 categories: [rom]
 tags      : [topaz]
 keywords  : [redmi note 12]
-author : wahyu6070
+author : 
 ---
 
 Download Custom Rom Crdroid OS android 14 Xiaomi redmi note 12 topaz.
@@ -43,4 +43,8 @@ Download Custom Rom Crdroid OS android 14 Xiaomi redmi note 12 topaz.
 
 
 ## Download Link
+### Official
+[ROM](https://sourceforge.net/projects/crdroid/files/topaz/10.x/)
+
+### Unofficial
 [ROM](https://drive.google.com/file/d/19yw2J3MuTDRdju3cdmwfsqrABCLlYBNY/view?usp=sharing)

@@ -1,9 +1,11 @@
 ---
 type   : cusrom
-title  : Lineage 20 OS Android 13 Poco M3 Pro
+title  : Lineage 20 OS Android 13 Redmi Note 10 5G - Redmi Note 11SE - Redmi Note 10T 5G - POCO M3 Pro 5G
 date   : 2024-05-06T09:17:35+07:00
 slug   : los20-a13-camellia
 categories: [rom]
+tags      : [camellia]
+keywords  : [Redmi Note 10 5G - Redmi Note 11SE - Redmi Note 10T 5G - POCO M3 Pro 5G]
 device : poco m3 pro
 codename : camellia
 ---
