@@ -30,5 +30,6 @@ Notes:
 
 
 ## Download Link
-[Download ROM](https://sourceforge.net/projects/lavenderbr/files/spes/aospa-uvite-unofficial-spes-20240506.zip/download)
+[Download ROM](https://sourceforge.net/projects/crdroid/files/spes/10.x/)
 
+[Xda](https://forum.xda-developers.com/t/rom-official-12-1-13-0-crdroidandroid-8-x-9-x-spes-spesn.4440747/)

@@ -1,53 +1,61 @@
 ---
 type   : cusrom
-title  : Download Lineage OS 21 Android 14 Xiaomi MI 5
-slug   : lineage21-a14-gemini
-date   : 2024-06-05T09:17:35+07:00
+title  : Download Lineage 21 OS Android 14 Xiaomi MI 8
+slug   : lineage-a14-dipper
+date   : 2024-06-16T09:17:35+07:00
 categories: [rom]
-tags      : [gemini]
-keywords  : [xiaomi MI 5]
-author : wahyu6070
+tags      : [dipper]
+keywords  : [xiaomi MI 8]
+author : 
 ---
 
-Download Custom Rom Lineage OS 21 Android 14 For Xiaomi MI 5 Gemini
+Download Custom Rom Lineage 21 OS Android 14 For Xiaomi MI 6 (Dipper)
 
-## LineageOS 21 Injects New Life into the Aging Xiaomi Mi 5
+**LineageOS 21 Brings Android 14 to the Xiaomi Mi 6**
 
-The Xiaomi Mi 5, codenamed "gemini" in the LineageOS world, can experience a resurgence with LineageOS 21, the latest edition of this beloved custom ROM. This update infuses your trusty Mi 5 with a wave of improvements and customization options, making it feel young again.
+The Xiaomi Mi 6, a phone released in 2017, is receiving a new lease on life thanks to the dedicated developers at LineageOS. LineageOS 21, based on Android 14, is now available for the Mi 6, providing users with a modern and up-to-date software experience.
 
-## Official Breathing New Life into the Mi 5
+**What is LineageOS?**
 
-While official LineageOS 21 support for the Mi 5 is still under development, the community has been providing unofficial nightly builds since February 18th, 2024.  This means you can bring your Mi 5 up to speed with the latest features, but remember, nightly builds are works in progress and may contain bugs. 
+LineageOS is a free and open-source operating system for smartphones and tablets, based on the Android mobile platform. It is a continuation of the popular CyanogenMod project, which was discontinued in 2016. LineageOS is known for its stability, performance, and customizability.
 
-## What Makes LineageOS 21 Special for the Mi 5?
+**What's New in LineageOS 21?**
 
-LineageOS 21 is built upon Android 12, which unlocks a treasure trove of exciting features. Here are some that will particularly enhance your Mi 5 experience:
+LineageOS 21 brings all the latest features of Android 14 to the Mi 6, including:
 
-* **Material You design language:**  Embrace a more personalized and visually cohesive experience.  Material You dynamically adapts the colors of your system UI to match your wallpaper, creating a more unified aesthetic. 
-* **Privacy Dashboard and Indicators:**  LineageOS 21 empowers you to take control of your privacy.  The Privacy Dashboard offers a centralized view of which apps are accessing your microphone, camera, and location, allowing you to make informed decisions about app permissions.  Additionally, privacy indicators appear in the status bar whenever your microphone or camera is in use.
-* **Notification Snooze and Sections:**   Silence the notification barrage with more granular control.  Android 12 lets you snooze notifications for a set time, giving you a breather before you have to deal with them.  It also introduces notification sections, which automatically group notifications by app or category, making your notification bar less cluttered and easier to manage.
-* **Performance Optimizations:**  LineageOS 21 incorporates performance optimizations under the hood to keep your Mi 5 running smoothly.  These optimizations can range from memory management tweaks to background process limitations, all aimed at giving your device a noticeable performance boost.
+* **New UI design:** Android 14 features a refreshed user interface with updated icons, fonts, and animations.
+* **Improved privacy controls:** LineageOS 21 gives users more control over their data and privacy, with new features like app-specific permissions and a privacy dashboard.
+* **Performance enhancements:** LineageOS 21 is optimized for performance, so you can expect a smooth and responsive experience on your Mi 6.
+* **Security updates:** LineageOS 21 includes the latest security patches from Google, so your device is protected from the latest threats.
 
-## Beyond Android 12: LineageOS-Specific Goodness
+**How to Install LineageOS 21 on Mi 6**
 
-On top of the fantastic Android 12 features, LineageOS 21 adds its own flavor with a bunch of LineageOS-specific customizations:
+Installing LineageOS 21 on your Mi 6 requires unlocking the bootloader, installing a custom recovery like TWRP, and then flashing the LineageOS 21 ROM. This process is not recommended for beginners, as it can potentially brick your device if not done correctly.
 
-* **Theming Engine:**  Take complete control over the look and feel of your Mi 5.  LineageOS offers a powerful theming engine that allows you to change fonts, icon packs, accent colors, and system animations, letting you personalize your device to an unmatched degree.
-* **Advanced Power User Options:**  Unlock the true potential of your Mi 5 with a plethora of hidden settings and toggles.  LineaOS caters to power users by providing access to features like status bar customization, granular network controls, and deeper performance tuning options.
-* **Open Source Alternatives:**  Replace the stock operating system apps with open-source alternatives that offer enhanced privacy or more features.  LineaOS allows you to swap out apps like the camera app, web browser, or launcher for open-source options that better suit your needs.
+If you are comfortable with the risks involved, you can find detailed instructions on the XDA Developers forum: 
+[https://xdaforums.com/t/rom-unofficial-14-0-lineageos-21-for-xiaomi-6-sagit.4647830/](https://xdaforums.com/t/rom-unofficial-14-0-lineageos-21-for-xiaomi-6-sagit.4647830/)
 
-## Is LineageOS 21 Right for Your Mi 5?
+**Benefits of Installing LineageOS 21**
 
-If you're looking to experience the latest features and extensive customization possibilities on your Mi 5, and you're comfortable flashing custom ROMs, then LineageOS 21 is a compelling choice. However, it's important to remember that nightly builds can be unstable, so proceed with caution.
+Installing LineageOS 21 on your Mi 6 has several benefits:
 
-## Before Diving In: Important Considerations
+* **Extended device lifespan:** LineageOS 21 allows you to keep your Mi 6 running the latest software, even after official support has ended.
+* **Improved performance and battery life:** LineageOS 21 is often faster and more efficient than the stock ROM, resulting in better performance and battery life.
+* **Customization options:** LineageOS 21 offers a wide range of customization options, so you can personalize your device to your liking.
+* **Community support:** LineageOS has a large and active community of developers and users, so you can get help and support if you run into any problems.
 
-* **Nightly Build Instability:**  As mentioned before, nightly builds are essentially testing grounds for developers and may contain bugs that can impact your device's performance or stability.  Issues like random crashes, unexpected app behavior, or battery drain are all possibilities.
-* **Warranty Voiding:**  Installing a custom ROM like LineageOS 21 will void your Mi 5's warranty.  If your device has any hardware issues after installing the ROM, you'll likely be responsible for repairs.
-* **Backup is Crucial:**  Before embarking on the LineageOS 21 installation journey, creating a complete backup of your data is absolutely essential.  This ensures you don't lose any important photos, contacts, or messages in case something goes wrong during the installation process.
+**Overall**
 
+If you are a Mi 6 user who wants to keep your device running the latest software and enjoy the benefits of LineageOS, then installing LineageOS 21 is a great option. However, it is important to be aware of the risks involved before proceeding.
+
+## Changelog
+- Sync the latest source
+- Remove A2DP input module in audio policy configuration
+- Disable AAudio MMAP
 
 ## Download Link
-[ROM](https://t.me/wahyu6070files/133?single)
+[ROM](https://sourceforge.net/projects/crdroid/files/sagit/10.x/)
+
+[Xda](https://xdaforums.com/t/rom-official-14-0-crdroid-for-xiaomi-6-sagit.4669433)
 
 
