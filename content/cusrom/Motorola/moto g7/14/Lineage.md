@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Download Lineage OS 21 Android 14 Motorola moto G7 Play
+title  : Download Lineage OS 21 Android 14 Motorola moto G7
 date   : 2024-06-15T09:17:35+07:00
 slug   : lineage-a14-river
 categories: [rom]

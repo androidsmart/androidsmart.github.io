@@ -5,7 +5,7 @@ date   : 2024-06-09T09:17:35+07:00
 slug   : lineage21-a14-lynx
 categories: [rom]
 tags      : [lynx]
-keywords  : [Google Pixel 7]
+keywords  : [Google Pixel 7a]
 author : 
 ---
 

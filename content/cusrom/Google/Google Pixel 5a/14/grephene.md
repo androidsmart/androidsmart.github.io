@@ -6,7 +6,7 @@ slug   : graphene-a14-barbet
 categories: [rom]
 tags      : [barbet]
 keywords  : [Google Pixel 5a]
-author : wahyu6070
+author : 
 ---
 
 Download Custom Rom Graphene OS android 14 Google Pixel 5a barbet.
