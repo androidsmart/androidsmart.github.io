@@ -9,7 +9,7 @@ keywords  : [Motorola moto g7 play]
 author : 
 ---
 
-Download Custom Rom Lineage OS 21 android 14 Motorola Motorola moto g7 play (channel)
+Download Custom Rom Lineage OS 21 android 14 Motorola moto g7 play (channel)
 
 LineageOS 21 Brings Android 14 to Motorola Moto G7 Play
 

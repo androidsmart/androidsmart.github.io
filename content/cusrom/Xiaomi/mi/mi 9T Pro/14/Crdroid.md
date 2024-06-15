@@ -6,7 +6,7 @@ date   : 2024-05-24T09:17:35+07:00
 categories: [rom]
 tags      : [raphael]
 keywords  : [xiaomi 9T Pro]
-author : wahyu6070
+author : 
 ---
 
 Download Custom Rom Crdroid OS Android 14 For Xiaomi 9T Pro Raphael.

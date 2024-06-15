@@ -1,7 +1,7 @@
 ---
 type   : cusrom
 title  : Download Lineage OS 21 Android 14 Samsung Galaxy A72
-slug   : derpfest-a14-A72q
+slug   : lineage-a14-A72q
 date   : 2024-06-10T09:17:35+07:00
 categories: [rom]
 tags      : [a72q]
