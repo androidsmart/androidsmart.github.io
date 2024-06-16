@@ -6,10 +6,10 @@ slug   : crdroid-a14-begonia
 categories: [rom]
 tags      : [begonia]
 keywords  : [redmi note 8 pro]
-author : wahyu6070
+author :
 ---
 
-Download Custom Rom Crdroid v10 android 14 Xiaomi redmi note 8 pro begonia.
+Download Custom Rom Crdroid OS android 14 Xiaomi redmi note 8 pro begonia.
 
 
 ## Changelog
