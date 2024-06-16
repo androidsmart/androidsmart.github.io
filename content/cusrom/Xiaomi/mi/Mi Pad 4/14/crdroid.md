@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Download Lineage OS 21 Android 14 Xiaomi Mi Pad 4
+title  : Download Crdroid OS Android 14 Xiaomi Mi Pad 4
 slug   : crdroid-a14-clover
 date   : 2024-06-16T09:17:35+07:00
 categories: [rom]
