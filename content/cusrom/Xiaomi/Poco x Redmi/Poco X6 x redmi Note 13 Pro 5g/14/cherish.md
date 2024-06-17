@@ -1,15 +1,15 @@
 ---
 type   : cusrom
-title  : Cherish OS Android 14 Redmi Note 13 Pro 5G
+title  : Cherish OS Android 14 Redmi Note 13 Pro 5G | POCO X6 5G
 date   : 2024-05-04T09:17:35+07:00
 slug   : cherish-a14-garnet
 categories: [rom]
 tags      : [garnet]
-keywords  : [redmi note 13 pro 5G]
-author : wahyu6070
+keywords  : [redmi note 13 pro 5G - POCO X6]
+author :
 ---
 
-Download Custom Rom Cherish OS android 14 Xiaomi redmi note 13 pro 5G Garnet.
+Download Custom Rom Cherish OS android 14 Xiaomi redmi note 13 pro 5G | POCO X6 Garnet.
 
 
 ## Changelog
