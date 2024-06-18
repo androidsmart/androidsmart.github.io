@@ -1,7 +1,7 @@
 ---
 type   : cusrom
 title  : Download Crdroid OS Android 13 Samsung Galaxy S10e
-slug   : crdroid-a10-ebeyond0lte
+slug   : crdroid-a13-ebeyond0lte
 date   : 2024-06-11T09:17:35+07:00
 categories: [rom]
 tags      : [ebeyond0lte]

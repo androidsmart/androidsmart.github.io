@@ -1,7 +1,7 @@
 ---
 type   : cusrom
 title  : Download Lineage OS 20 Android 13 Samsung Galaxy S10e
-slug   : lineage20-a10-ebeyond0lte
+slug   : lineage20-a13-ebeyond0lte
 date   : 2024-06-11T09:17:35+07:00
 categories: [rom]
 tags      : [ebeyond0lte]

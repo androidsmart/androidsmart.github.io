@@ -55,4 +55,5 @@ crDroid Android 14 is a fantastic option for Galaxy Tab S6 Lite (WIFI) users who
 
 [Xda](https://forum.xda-developers.com/t/rom-unofficial-gta4xl-gta4xlwifi-13-0-crdroidandroid-v9-7-tab-s6-lite.4610281/)
 
-[Firmware](https://lineage.linux4.de/fw_update/gta4xl.html(
+[Firmware](https://lineage.linux4.de/fw_update/gta4xl.html)
+
