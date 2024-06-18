@@ -60,4 +60,9 @@ customJS = []
 # Custom remote JS files
 customRemoteJS = []
 
-
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  brand = "brand"
+  
+  
