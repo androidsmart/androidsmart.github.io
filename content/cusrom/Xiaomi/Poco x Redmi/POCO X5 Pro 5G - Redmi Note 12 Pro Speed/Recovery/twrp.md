@@ -1,15 +1,15 @@
 ---
 type   : cusrom
-title  : Download Twrp Latest Version Redmi Poco x5 Pro
+title  : Download TWRP Recovery POCO X5 Pro 5G / Redmi Note 12 Pro Speed
 date   : 2024-05-27T09:17:35+07:00
 slug   : twrp-redwood
 categories: [Recovery]
 tags      : [redwood]
-keywords  : [Poco X5 Pro]
-author : wahyu6070
+keywords  : [POCO X5 Pro 5G / Redmi Note 12 Pro Speed]
+author : 
 ---
 
-Download Twrp Latest version for Xiaomi Poco x5 Pro
+Download Twrp Latest version for Xiaomi POCO X5 Pro 5G / Redmi Note 12 Pro Speed.
 
 
 ## Changelog

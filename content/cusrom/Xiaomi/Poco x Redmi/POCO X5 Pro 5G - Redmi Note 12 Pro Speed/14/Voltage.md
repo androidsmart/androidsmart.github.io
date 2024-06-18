@@ -1,16 +1,15 @@
 ---
 type   : cusrom
-title  : Download Voltage OS Android 14 Poco X5 Pro Redwood
+title  : Download Voltage OS Android 14 Xiaomi POCO X5 Pro 5G / Redmi Note 12 Pro Speed
 slug   : Voltage-a14-redwood
 date   : 2024-05-13T09:17:35+07:00
 categories: [rom]
 tags      : [redwood]
-keywords  : [poco x5 pro]
+keywords  : [POCO X5 Pro 5G / Redmi Note 12 Pro Speed]
 ---
 
-Download Custom Rom Voltage OS Android 14 Xiaomi Poco x6 Pro Redwood.
+Download Custom Rom Voltage OS Android 14 Xiaomi POCO X5 Pro 5G / Redmi Note 12 Pro Speed
 
-This support Redmi 12 Pro SE
 
 ## Changelog
 - Based on April Security Patch (QPR2)

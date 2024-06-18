@@ -1,17 +1,15 @@
 ---
 type   : cusrom
-title  : Download Acient OS Android 13 Poco X5 Pro Redwood
+title  : Download Acient OS Android 13 POCO X5 Pro 5G / Redmi Note 12 Pro Speed
 slug   : Acient-a13-redwood
 date   : 2024-05-27T09:17:35+07:00
 categories: [rom]
 tags      : [redwood]
-keywords  : [poco x5 pro]
-author : Kartik_Ane_Nenu
+keywords  : [POCO X5 Pro 5G / Redmi Note 12 Pro Speed]
+author : 
 ---
 
-Download Custom Rom Acient OS Android 14 Xiaomi Poco x5 Pro Redwood.
-
-This support Redmi 12 Pro SE
+Download Custom Rom Acient OS Android 14 Xiaomi POCO X5 Pro 5G / Redmi Note 12 Pro Speed.
 
 
 ## Changelogs

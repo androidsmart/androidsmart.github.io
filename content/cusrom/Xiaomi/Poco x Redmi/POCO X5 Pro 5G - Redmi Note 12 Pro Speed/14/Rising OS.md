@@ -1,16 +1,14 @@
 ---
 type   : cusrom
-title  : Download Rising OS Android 14 Poco X5 Pro Redwood
+title  : Download Rising OS Android 14 POCO X5 Pro 5G / Redmi Note 12 Pro Speed
 slug   : lineage21-a14-redwood
 date   : 2024-05-13T09:17:35+07:00
 categories: [rom]
 tags      : [redwood]
-keywords  : [poco x5 pro]
+keywords  : [POCO X5 Pro 5G / Redmi Note 12 Pro Speed]
 ---
 
-Download Custom Rom Rising OS Android 14 Xiaomi Poco x6 Pro Redwood.
-
-This support Redmi 12 Pro SE
+Download Custom Rom Rising OS Android 14 Xiaomi POCO X5 Pro 5G / Redmi Note 12 Pro Speed
 
 ## Changelog
 - Fixed NFC issue

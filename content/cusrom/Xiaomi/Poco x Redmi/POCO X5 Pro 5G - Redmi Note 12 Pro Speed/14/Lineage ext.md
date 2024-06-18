@@ -1,14 +1,14 @@
 ---
 type   : cusrom
-title  : Download LineageOS Ext Android 14 Poco X5 Pro Redwood
+title  : Download LineageOS Ext Android 14 POCO X5 Pro 5G - Redmi Note 12 Pro Speed
 slug   : lineageext-a14-redwood
 date   : 2024-05-13T09:17:35+07:00
 categories: [rom]
 tags      : [redwood]
-keywords  : [poco x5 pro]
+keywords  : [POCO X5 Pro 5G/Redmi Note 12 Pro Speed]
 ---
 
-Download Custom Rom LineageOS Ext Android 14 Xiaomi Poco x5 Pro Redwood.
+Download Custom Rom LineageOS Ext Android 14 Xiaomi POCO X5 Pro 5G/Redmi Note 12 Pro Speed (redwood).
 
 This support Redmi 12 Pro SE
 

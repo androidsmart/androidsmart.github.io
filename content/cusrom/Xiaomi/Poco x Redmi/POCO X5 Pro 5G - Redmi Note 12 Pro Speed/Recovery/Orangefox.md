@@ -1,15 +1,15 @@
 ---
 type   : cusrom
-title  : Download OrangeFox Latest Version Poco x5 Pro Redwood
+title  : Download OrangeFox Recovery POCO X5 Pro 5G / Redmi Note 12 Pro Speed
 date   : 2024-05-27T09:17:35+07:00
 slug   : orangefox-redwood
 categories: [Recovery]
 tags      : [redwood]
-keywords  : [Poco X5 Pro]
+keywords  : [POCO X5 Pro 5G / Redmi Note 12 Pro Speed]
 author : TheStrechh
 ---
 
-Download Orangefox Latest version for Xiaomi Poco x5 Pro Redwood
+Download Orangefox Latest version for Xiaomi POCO X5 Pro 5G / Redmi Note 12 Pro Speed
 
 ## Changelog
 1. Initial release

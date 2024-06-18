@@ -1,14 +1,14 @@
 ---
 type   : cusrom
-title  : Download Crdroid OS Android 14 Poco X5 Pro Redwood
+title  : Download Crdroid OS Android 14 POCO X5 Pro 5G/Redmi Note 12 Pro Speed
 slug   : crdroid-a14-redwood
 date   : 2024-06-13T09:17:35+07:00
 categories: [rom]
 tags      : [redwood]
-keywords  : [poco x5 pro]
+keywords  : [POCO X5 Pro 5G - Redmi Note 12 Pro Speed]
 ---
 
-Download Custom Rom Crdroid OS Android 14 Xiaomi Poco x5 Pro Redwood.
+Download Custom Rom Crdroid OS Android 14 Xiaomi POCO X5 Pro 5G/Redmi Note 12 Pro Speed.
 
 **crDroid Android 14 Elevates Poco X5 Pro 5G Experience**
 

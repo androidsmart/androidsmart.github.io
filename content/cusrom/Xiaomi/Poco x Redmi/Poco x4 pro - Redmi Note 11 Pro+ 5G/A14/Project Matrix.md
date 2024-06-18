@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Download Project Matrixx Os Android 14 Poco X4 Pro Veux
+title  : Download Project Matrixx Os Android 14 Xiaomi Poco x4 pro - Redmi Note 11 Pro+ 5G
 slug   : projectmatrixx-a14-veux
 date   : 2024-05-09T09:17:35+07:00
 categories: [rom]
@@ -9,7 +9,7 @@ keywords  : [poco x4 pro]
 author : Mrtopia
 ---
 
-Download Custom ROM Project Matrixx Android 14 for Poco X4 Pro (veux)
+Download Custom ROM Project Matrixx Android 14 for Poco x4 pro - Redmi Note 11 Pro+ 5G (veux).
 
 ## Changelog
 - Source changes - Click Here
@@ -35,9 +35,21 @@ Download Custom ROM Project Matrixx Android 14 for Poco X4 Pro (veux)
 - Alex and  Cexary for kernel source.
 - CRUECY for Dolby.
 
+## Changelog
+- Fixed Proximity sensor issue.
+- Fixed MIUI Camera crash.
+- Comes with latest positron kernel.
+- Many under the hood improvements.
+
 By ֆຖ❆ຟ
 
 ## Download Link
+### Official
+[Rom](https://sourceforge.net/projects/projectmatrixx/files/Android-14/veux/)
+
+[Source](https://www.projectmatrixx.org/downloads/veux)
+
+### Unofficial by snow
 [ROM](https://www.pling.com/p/2106486/)
 
 [Boot - Vendor Boot](https://t.me/isnowflakes_veux/6?single)
