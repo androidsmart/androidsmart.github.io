@@ -22,4 +22,11 @@ By @agathasenpai5
 
 
 ## Download Link
+### Official
+[TWRP](https://dl.twrp.me/tapas)
+
+[Install](https://twrp.me/xiaomi/redminote12_4g.html)
+
+
+### unofficial
 [Download](https://t.me/gudanggaramnikmat/2)
