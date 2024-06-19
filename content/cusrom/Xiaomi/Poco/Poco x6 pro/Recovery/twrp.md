@@ -1,15 +1,15 @@
 ---
 type   : cusrom
-title  : Download Twrp Recovery Redmi Poco x6 Pro duchamp
+title  : Download Twrp Recovery Poco x6 Pro duchamp
 date   : 2024-03-10T09:17:35+07:00
 slug   : twrp-duchamp
 categories: [Recovery]
 tags      : [duchamp]
 keywords  : [Twrp]
-author : wahyu6070
+author : 
 ---
 
-Download Twrp Latest version for Xiaomi Poco x6 Pro
+Download Cusrom Recovery TWRP Latest version for Xiaomi Poco x6 Pro
 
 ## Changelog
 - Updated DT2W node

@@ -5,8 +5,8 @@ date   : 2024-03-10T09:17:35+07:00
 slug   : PitchBlack-Duchamp
 categories: [Recovery]
 tags      : [duchamp]
-keywords  : [Twrp]
-author : wahyu6070
+keywords  : [POCO X6 PRO]
+author : 
 ---
 
 Download PitchBlack Latest version for Xiaomi Poco X6 Pro Duchamp

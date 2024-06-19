@@ -76,7 +76,7 @@ Let me know if you have any other questions.
 
 
 ## Download Link
-[ROM](https://dl.twrp.me/mi439(
+[ROM](https://dl.twrp.me/mi439)
 
 
 [Source](https://twrp.me/xiaomi/xiaomi-mi439.html)
