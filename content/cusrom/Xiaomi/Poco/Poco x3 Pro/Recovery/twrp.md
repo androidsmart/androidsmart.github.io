@@ -39,6 +39,11 @@ Before doing the following you should be sure that your bootloader is unlocked.
 
 
 ## Download Link
+### Unofficial
 [Download](https://www.pling.com/p/2107386/)
 
 [How To Install](https://telegra.ph/Instructions-for-install-TWRP-redwood-11-20)
+
+### official
+[Download](https://twrp.me/xiaomi/xiaomipocox3pro.html)
+
