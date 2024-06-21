@@ -5,8 +5,8 @@ date   : 2024-03-12T09:17:35+07:00
 slug   : orangefox-ginkgo
 categories: [Recovery]
 tags      : [ginkgo]
-keywords  : [Twrp]
-author : wahyu6070
+keywords  : [Redmi Note 8]
+author : 
 ---
 
 Download Custom Recovery Orangefox Latest version for Xiaomi Redmi Note 8 Ginkgo

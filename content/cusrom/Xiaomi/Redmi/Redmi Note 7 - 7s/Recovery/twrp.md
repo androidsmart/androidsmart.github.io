@@ -1,12 +1,12 @@
 ---
 type   : cusrom
-title  : Download Twrp Latest Version Redmi Note 7 Lavender
-date   : 2024-03-09T09:17:35+07:00
+title  : Download TWRP Recovery Redmi Note 7 Lavender
+date   : 2024-06-21T09:17:35+07:00
 slug   : twrp-lavender
 categories: [Recovery]
 tags      : [lavender]
-keywords  : [Twrp]
-author : wahyu6070
+keywords  : [Redmi Note 7]
+author :
 ---
 
 Download Twrp Latest version for Xiaomi Redmi Note 7 Lavender.
@@ -23,4 +23,9 @@ Download Twrp Latest version for Xiaomi Redmi Note 7 Lavender.
 By @pix106
 
 ## Download Link
+
+### Unofficial
 [Download](https://www.androidfilehost.com/?fid=4279422670115734835)
+
+### Official
+[download](https://twrp.me/xiaomi/xiaomiredminote7.html)

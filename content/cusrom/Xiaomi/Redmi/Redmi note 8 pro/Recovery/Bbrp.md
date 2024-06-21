@@ -4,9 +4,9 @@ title  : Download PBRP Latest Version Redmi Note 8 pro Begonia
 date   : 2024-03-08T09:17:35+07:00
 slug   : pbrp-begonia
 categories: [Recovery]
-tags      : [Begonia]
-keywords  : [Twro]
-author : wahyu6070
+tags      : [begonia]
+keywords  : [redmi Note 8 Pro]
+author : 
 ---
 
 Download PBRP Latest version for Xiaomi Redmi Note 8 Pro Begonia

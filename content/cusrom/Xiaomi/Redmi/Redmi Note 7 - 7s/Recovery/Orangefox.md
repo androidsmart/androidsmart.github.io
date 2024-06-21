@@ -4,9 +4,9 @@ title  : Download OrangeFox Latest Version Redmi Note 7 Lavender
 date   : 2024-03-09T09:17:35+07:00
 slug   : orangefox-Lavender
 categories: [Recovery]
-tags      : [Lavender]
-keywords  : [Twro]
-author : wahyu6070
+tags      : [lavender]
+keywords  : [Redmi Note 7]
+author :
 ---
 
 Download Orangefox Latest version for Xiaomi Redmi Note 7 Lavender

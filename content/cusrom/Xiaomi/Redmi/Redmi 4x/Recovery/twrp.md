@@ -1,12 +1,12 @@
 ---
 type   : cusrom
-title  : Download Twrp Latest Version Redmi 4x santoni
+title  : Download TWRP Rexovery Redmi 4x santoni
 date   : 2024-03-08T09:17:35+07:00
 slug   : twrp-santoni
 categories: [recovery]
 tags      : [santoni]
-keywords  : [Twrp]
-author : wahyu6070
+keywords  : [Redmi Note 3 Pro]
+author : 
 ---
 
 Download Custom Recovery Twrp Latest version for Xiaomi Redmi 4x santoni

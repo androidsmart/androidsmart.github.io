@@ -1,12 +1,12 @@
 ---
 type   : cusrom
-title  : Download Twrp Latest Version Redmi Note 8 Ginkgo
+title  : Download TWRP Recovery Redmi Note 8 Ginkgo
 date   : 2024-03-08T09:17:35+07:00
 slug   : twrp-Ginkgo
 categories: [Recovery]
 tags      : [ginkgo]
-keywords  : [Twrp]
-author : wahyu6070
+keywords  : [Redmi Note 8]
+author :
 ---
 
 Download Custom Recovery Twrp Latest version for Xiaomi Redmi Note 8 ginkgo
@@ -22,4 +22,7 @@ Download Custom Recovery Twrp Latest version for Xiaomi Redmi Note 8 ginkgo
 - recovery settings save fix after format data - faoliveira78
 
 ## Download Link
-[Download](https://www.pling.com/p/2117793/)
+[Download](https://dl.twrp.me/ginkgo)
+
+[Source](https://twrp.me/xiaomi/xiaomiredminote8.html)
+

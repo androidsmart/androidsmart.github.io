@@ -5,8 +5,8 @@ date   : 2024-03-12T09:17:35+07:00
 slug   : PitchBlack-ginkgo
 categories: [Recovery]
 tags      : [tulip]
-keywords  : [Twrp]
-author : wahyu6070
+keywords  : [Redmi Note 8]
+author : 
 ---
 
 Download custom recovery PitchBlack Latest version for Xiaomi Redmi Note 8 Ginkgo
