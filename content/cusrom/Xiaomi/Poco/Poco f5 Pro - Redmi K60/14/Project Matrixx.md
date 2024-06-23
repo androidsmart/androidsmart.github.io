@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Download Project Matrixx OS Android 14 Poco F6 Pro - Redmi K60
+title  : Download Project Matrixx OS Android 14 Poco F5 Pro - Redmi K60
 date   : 2024-06-17T09:17:35+07:00
 slug   : matrixx-a14-modrian
 categories: [rom]

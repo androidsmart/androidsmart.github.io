@@ -33,7 +33,7 @@ Download Custom ROM EvolutionX Android 14 for Poco X4 Pro (veux)
 By @Jaswal_Ashish11
 
 ## Download Link
-[ROM](https://evolution-x.org/device/veux)
+[ROM](https://sourceforge.net/projects/evolution-x/files/veux/14/)
 
 [Recovery](https://sourceforge.net/projects/evolution-x/files/veux/Recovery/)
 
