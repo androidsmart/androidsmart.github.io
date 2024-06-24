@@ -2,7 +2,7 @@
 type   : cusrom
 title  : Download Project Matrixx OS Android 14 Realme C3
 date   : 2024-06-17T09:17:35+07:00
-slug   : matrixx-a13-RMX2020
+slug   : matrixx-a14-RMX2020
 categories: [rom]
 tags      : [RMX2020]
 keywords  : [realme C3]
