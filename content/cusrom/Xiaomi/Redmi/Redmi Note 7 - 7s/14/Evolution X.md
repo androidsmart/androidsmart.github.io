@@ -6,7 +6,7 @@ slug   : evolutionx-a14-lavender
 categories: [rom]
 tags      : [lavender]
 keywords  : [redmi note 7]
-author : wahyu6070
+author :
 ---
 
 Download Custom Rom EvolutionX android 14 Xiaomi redmi note 7 Lavender
@@ -40,8 +40,6 @@ Notes:
 2. Also You can use OrangeFox 4.19 supported Recovery
 
 ## Download Link
-[Download ROM](https://evolution-x.org/device/lavender)
-
-
+[Download ROM](https://sourceforge.net/projects/evolution-x/files/lavender/14/)
 
 
