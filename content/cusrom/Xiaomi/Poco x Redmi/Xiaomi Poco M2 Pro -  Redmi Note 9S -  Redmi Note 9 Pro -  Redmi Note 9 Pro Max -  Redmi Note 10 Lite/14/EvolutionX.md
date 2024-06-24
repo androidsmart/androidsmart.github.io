@@ -6,7 +6,7 @@ slug   : evolutionx-a14-miatol
 categories: [rom]
 tags      : [miatol]
 keywords  : [redmi note 9 pro]
-author : wahyu6070
+author :
 ---
 
 Download Custom Rom EvolutionX android 14 Xiaomi redmi note 9 pro miatol.
@@ -21,6 +21,6 @@ Download Custom Rom EvolutionX android 14 Xiaomi redmi note 9 pro miatol.
 - Play Integrity passes by default (As of 01/03/2024).
 
 ## Download Link
-[Download ROM](https://evolution-x.org/device/miatoll)
+[Download ROM](https://sourceforge.net/projects/evolution-x/files/miatoll/14/)
 
 

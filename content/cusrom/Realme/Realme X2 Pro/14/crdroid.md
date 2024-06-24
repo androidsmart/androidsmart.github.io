@@ -2,7 +2,7 @@
 type   : cusrom
 title  : Download Crdroid Android 14 Realme X2 Pro
 date   : 2024-06-16T09:17:35+07:00
-slug   : samurai-a14-samurai
+slug   : crdroid-a14-samurai
 categories: [rom]
 tags      : [samurai]
 keywords  : [realme X2 Pro]
