@@ -1,15 +1,15 @@
 ---
 type   : cusrom
-title  : Download Crdroid OS Android 14 Realme GT Mater Edition
+title  : Download Crdroid OS Android 14 Realme GT Master Edition
 date   : 2024-06-17T09:17:35+07:00
 slug   : crdroid-a14-lunaa
 categories: [rom]
 tags      : [lunaa]
-keywords  : [Realme GT Mater Edition]
+keywords  : [Realme GT Master Edition]
 author :
 ---
 
-Download Custom rom Crdroid OS android 14 Realme GT Mater Edition (lunaa).
+Download Custom rom Crdroid OS android 14 Realme GT Master Edition (lunaa).
 
 ## crDroid Android 14 for Realme GT Master Edition: A Deep Dive
 

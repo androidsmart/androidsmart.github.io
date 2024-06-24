@@ -6,7 +6,7 @@ slug   : evolutionx-a14-ginkgo
 categories: [rom]
 tags      : [ginkgo]
 keywords  : [redmi note 8]
-author : wahyu6070
+author :
 ---
 
 Download Custom Rom EvoluionX android 14 Xiaomi redmi note 8 ginkgo.
@@ -34,6 +34,11 @@ Download Custom Rom EvoluionX android 14 Xiaomi redmi note 8 ginkgo.
 
 
 ## Download Link
+### Official
+[ROM](https://sourceforge.net/projects/evolution-x/files/ginkgo/14/)
+
+
+### Unofficial
 [ROM](https://www.pling.com/p/2119948/)
 
 
