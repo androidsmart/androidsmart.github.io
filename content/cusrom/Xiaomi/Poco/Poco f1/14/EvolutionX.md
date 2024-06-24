@@ -40,5 +40,9 @@ Download Custom Rom Evolutionx android 14 poco f1 official beryllium.
 
 
 ## Download Link
+### Official
+[ROM](https://sourceforge.net/projects/evolution-x/files/beryllium/14/)
+
+### Unofficial
 [Download ROM](https://www.pling.com/p/2119948/)
 

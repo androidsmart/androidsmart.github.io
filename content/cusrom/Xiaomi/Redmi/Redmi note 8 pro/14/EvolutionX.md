@@ -64,7 +64,7 @@ By @shhhamik
 3 Wipe Cache/Dalvic > Reboot System.
 
 ## Download Link
-[Download ROM](https://evolution-x.org/device/begonia)
+[Download ROM](https://sourceforge.net/projects/evolution-x/files/begonia/14/)
 
 [Mirror](https://t.me/shamiksroms/47)
 

@@ -1,14 +1,14 @@
 ---
 type   : cusrom
-title  : LineageOS 20 Android 13 Mi 10T x Mi 10T x MI 10T Pro x Redmi K30S Ultra x Redmi K30S Ultra
-slug   : lineage20-a13-appolon
+title  : LineageOS 20 Android 13 Mi 10T x MI 10T Pro x Redmi K30S Ultra
+slug   : lineage20-a13-apollo
 date   : 2024-06-05T09:17:35+07:00
 categories: [rom]
-tags      : [appolon]
-keywords  : [Mi 10T x Mi 10T x MI 10T Pro x Redmi K30S Ultra x Redmi K30S Ultra]
+tags      : [apollo]
+keywords  : [ MI 10T Pro x Redmi K30S Ultra]
 ---
 
-Download Custom Rom Afterlife Android 14 For Xiaomi 9T Pro Raphael.
+Download Custom Rom Lineage OS Android 14 For Xiaomi Mi 10T x MI 10T Pro x Redmi K30S Ultra (apollo)
 
 Looking to upgrade your Xiaomi Mi 10T or Mi 10T x MI 10T Pro x Redmi K30S Ultra to the latest Android experience without bloatware? LineageOS 20 offers a smooth, secure, and customizable option. 
 
