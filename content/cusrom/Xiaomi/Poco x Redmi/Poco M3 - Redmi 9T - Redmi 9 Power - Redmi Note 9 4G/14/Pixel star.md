@@ -4,6 +4,7 @@ title  : Pixel Star OS Android 14 Poco M3 Citrus
 date   : 2024-04-19T09:17:35+07:00
 slug   : pixelstar-a14-citrus
 categories: [rom]
+tags : [tags]
 device : poco m3
 codename : citrus
 ---
