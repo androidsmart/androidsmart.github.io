@@ -40,7 +40,9 @@ Download Custom Rom Project Elixir android 14 Xiaomi redmi note 9 pro miatol.
 - miscellaneous optimization
 
 ## Download Link
-[Download ROM](https://projectelixiros.com/device/miatoll)
+[ROM](https://www.pling.com/p/1628174/)
+
+[Source](https://projectelixiros.com/device/miatoll)
 
 [How To Install](https://github.com/ProjectElixir-Devices/Wiki/blob/UNO/miatoll.md?plain=1)
 

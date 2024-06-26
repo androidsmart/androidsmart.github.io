@@ -34,5 +34,6 @@ Download Custom Rom Project Elixir android 14 Xiaomi redmi note 10 pro Sweet.
 - Use only OFOX 11.1_6 EROFS Recovery
 
 ## Download Link
-[Download ROM](https://projectelixiros.com/download)
+[Download ROM](https://www.pling.com/p/1630430/)
 
+[Source](https://projectelixiros.com/device/sweet)

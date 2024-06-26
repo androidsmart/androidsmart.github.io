@@ -6,7 +6,7 @@ slug   : projectelixir-a14-begonia
 categories: [rom]
 tags      : [begonia]
 keywords  : [redmi note 8 pro]
-author : wahyu6070
+author : 
 ---
 
 Download Custom Rom Project Elixir android 14 Xiaomi redmi note 8 pro begonia.
@@ -53,5 +53,8 @@ By @Saikrishna1504
 
 ## Download Link
 [Download ROM](https://www.pling.com/p/1790714/)
+
+[Source](https://projectelixiros.com/device/begonia)
+
 
 
