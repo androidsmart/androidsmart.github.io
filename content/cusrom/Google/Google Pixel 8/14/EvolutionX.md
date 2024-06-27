@@ -4,7 +4,7 @@ title  : Download EvolutionX OS Android 14 Google Pixel 8
 date   : 2024-06-23T09:17:35+07:00
 slug   : evolutionX-a14-shiba
 categories: [rom]
-tags      : [lynx]
+tags      : [shiba]
 keywords  : [Google Pixel 8]
 author : 
 ---
