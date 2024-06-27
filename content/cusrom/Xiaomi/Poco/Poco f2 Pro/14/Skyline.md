@@ -1,14 +1,14 @@
 ---
 type   : cusrom
-title  : Download SkylineUI Os Android 14 Poco F2 LMI
+title  : Download SkylineUI Os Android 14 Poco F2 Pro LMI
 date   : 2024-05-13T09:17:35+07:00
 slug   : skyline-a14-lmi
 categories: [rom]
 tags      : [lmi]
-keywords  : [poco F2]
+keywords  : [poco F2 Pro]
 ---
 
-Download Custom rom Skyline Os android 14 poco f2 LMI
+Download Custom rom Skyline Os android 14 poco f2 Pro LMI
 
 ## Changelog
 - Initial Official A14 build

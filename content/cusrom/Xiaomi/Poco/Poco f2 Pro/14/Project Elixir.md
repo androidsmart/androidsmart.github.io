@@ -1,14 +1,14 @@
 ---
 type   : cusrom
-title  : Download Project Elixir Os Android 14 Poco F2 LMI
+title  : Download Project Elixir Os Android 14 Poco F2 Pro LMI
 date   : 2024-05-13T09:17:35+07:00
 slug   : projectelixir-a14-lmi
 categories: [rom]
 tags      : [lmi]
-keywords  : [poco F2]
+keywords  : [poco F2 Pro]
 ---
 
-Download Custom rom Project Elixir Os android 14 poco f2 LMI
+Download Custom rom Project Elixir Os android 14 poco f2 Pro LMI
 
 ## Changelogs
 - Use FW MIUI v14.0.5.0 SJKCNXM
@@ -34,3 +34,7 @@ Download Custom rom Project Elixir Os android 14 poco f2 LMI
 
 ## Download Link
 [ROM](https://sourceforge.net/projects/zendroidbuild/files/Android_14)
+
+[Source](https://projectelixiros.com/device/RedmiK30Pro)
+
+[ROM Official](https://www.pling.com/p/1830777/)
