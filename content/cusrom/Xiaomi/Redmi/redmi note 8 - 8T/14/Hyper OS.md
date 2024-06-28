@@ -68,5 +68,5 @@ You can find more information and download links for HyperOS Android 14 on XDA D
 - The rest will find out for themselves
 
 ## Download Link
-[ROM](https://t.me/project_mint)
+[ROM](https://t.me/wahyu6070files/982)
 
