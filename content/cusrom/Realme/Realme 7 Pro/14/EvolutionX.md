@@ -2,9 +2,9 @@
 type   : cusrom
 title  : Download EvolutionX Android 14 Realme 7 Pro
 date   : 2024-06-24T09:17:35+07:00
-slug   : evolutionX-a14- RMX2170
+slug   : evolutionX-a14-RMX2170
 categories: [rom]
-tags      : [ RMX2170]
+tags      : [RMX2170]
 keywords  : [realme 7 Pro]
 author : 
 ---
