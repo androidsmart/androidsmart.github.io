@@ -1,15 +1,15 @@
 ---
 type   : cusrom
-title  : Download Pixel Experience Android 14 Redmi Note 12
+title  : Download Pixel Experience Android 14 Redmi Note 12 4G
 date   : 2024-05-16T09:17:35+07:00
 slug   : pe-a14-topaz
 categories: [rom]
 tags      : [topaz]
-keywords  : [redmi note 12]
-author : wahyu6070
+keywords  : [redmi note 12 4G]
+author : 
 ---
 
-Download Custom Rom Pixel Experience OS android 14 Xiaomi redmi note 12 topaz.
+Download Custom Rom Pixel Experience OS android 14 Xiaomi redmi note 12 4G (topaz).
 
 
 ## Changelogs

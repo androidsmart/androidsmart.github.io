@@ -5,11 +5,11 @@ date   : 2024-06-23T09:17:35+07:00
 slug   : evolutionx-a14-topaz
 categories: [rom]
 tags      : [topaz]
-keywords  : [redmi note 12]
+keywords  : [redmi note 12 4G]
 author : 
 ---
 
-Download Custom Rom EvolutionX OS android 14 Xiaomi redmi note 12 topaz.
+Download Custom Rom EvolutionX OS android 14 Xiaomi redmi note 12 4G (topaz).
 
 Evolution X Android 14 on Xiaomi Redmi Note 12 4G: A Mixed Bag of Performance and Customization
 

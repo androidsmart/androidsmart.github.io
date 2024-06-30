@@ -1,15 +1,15 @@
 ---
 type   : cusrom
-title  : Download Crdroid OS Android 14 Redmi Note 12
+title  : Download Crdroid OS Android 14 Redmi Note 12 4G
 date   : 2024-05-16T09:17:35+07:00
 slug   : cdroid-a14-topaz
 categories: [rom]
 tags      : [topaz]
-keywords  : [redmi note 12]
+keywords  : [redmi note 12 4G]
 author : 
 ---
 
-Download Custom Rom Crdroid OS android 14 Xiaomi redmi note 12 topaz.
+Download Custom Rom Crdroid OS android 14 Xiaomi redmi note 12 4G (topaz).
 
 
 ## Changelogs
