@@ -1,0 +1,14 @@
+{{ define "taxonomies" }}
+  <h1>{{ .Title }}</h1>
+
+  <ul>
+    {{ range .Site.Taxonomies.category.Alphabetical }}
+      {{ if not .Parent }}
+        <li>
+          <a href="{{ .Page.Permalink }}">{{ .Name }}</a>
+          {{ partial "subcategories.html" . }}
+        </li>
+      {{ end }}
+    {{ end }}
+  </ul>
+{{ end }}

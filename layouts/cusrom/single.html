@@ -1,0 +1,73 @@
+{{ partial "meta/main.html" . }}
+<head>
+{{ partial "head.html" . }}
+{{ partial "adspop.html" . }}
+</head>
+<body>
+{{ partial "navbar.html" . }}
+
+
+<main class="container">
+<header>
+<h1>{{ .Title }}</h1>
+{{ if eq .Params.name_rom "lineage" }}
+  <img style=" padding-bottom: 40px;" src="/img/rom/lineage.webp" class="img-fluid" alt="custom rom lineage">
+{{ else if eq .Params.name_rom "voltage" }}
+  <img style=" padding-bottom: 40px;" src="/img/rom/voltage.webp" class="img-fluid" alt="custom rom lineage">
+{{ end }}
+</header>
+
+<article>
+
+{{ .Content }}
+
+</article>
+</main>
+
+<div class="container">
+<h2>Device Info</h2>
+{{ range .Params.categories }}
+ <div class="p1"> Type : {{ . }}</div>
+{{ end }}
+
+
+
+{{ range .Params.keywords }}
+<div class="p1"> Device : {{ . }}</div>
+{{ end }}
+{{ range .Params.tags }}
+<div class="p1"> Codename : {{ . }}</div>
+{{ end }}
+
+{{ if .Params.author }}
+
+<div class="p1"> Maintainer ROM : <a href="https://t.me/{{ .Params.author }}">{{ .Params.author }}</a></div>
+
+{{ end }}
+
+{{ if .Params.source }}
+<div class="p1"> Source : <a href="{{ .Params.source }}">{{ .Params.source }}</a></div>
+{{ end }}
+
+{{ range .Params.keywords }}
+<h2> New Release Custom Rom For {{ . }}</h2>
+{{ end }}
+
+{{ $P := .Params.tags }}
+{{ $Z := where site.RegularPages "Section" "eq" "cusrom" }}
+{{ $T :=  where $Z "Params.tags" "intersect" $P }}
+
+{{ range $T | first 50}}
+
+	{{ if eq .Params.tags $P }}
+	<div class="p1"><a class="game_link" href="{{ .RelPermalink }}">{{ .Title }}</a></div>
+	{{ end }}
+
+{{ end }}
+
+
+
+{{ partial "footer.html" }}
+{{ partial "js.html" . }} 
+</body>
+</html>

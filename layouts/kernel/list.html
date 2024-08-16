@@ -1,0 +1,32 @@
+{{ define "kernel" }}
+<main class="container">
+    {{ range .Pages }}
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+        <div class="col p-4 d-flex flex-column position-static">
+          <h3 class="mb-0"> <a class="post-link" href="{{ .Permalink }}">{{ .Params.list_brand }}</a></h3>
+          
+          <p class="card-text mb-auto">
+          	{{ if .Description }}
+          	{{ .Description }}
+          	{{ else }}
+          	{{ .Summary }}
+          	{{ end }}
+          	</p>
+          <a href="{{ .Permalink }}
+          " class="icon-link gap-1 icon-link-hover stretched-link">
+            Continue reading
+           
+          </a>
+        </div>
+        
+      </div>
+
+    {{ end }}
+</main>
+
+{{ end }}
+
+
+
+
+

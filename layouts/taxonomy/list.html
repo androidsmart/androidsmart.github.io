@@ -1,0 +1,13 @@
+{{ define "taxonomies" }}
+<main class="container">
+  
+    {{ range .Pages }}
+    
+    	<ul>
+    		<li><a href="{{ .Permalink }}">{{ .Title }} {{ .Params.type }}</a></li>
+        </ul>
+    {{ end }}
+    
+</main>
+
+{{ end }}

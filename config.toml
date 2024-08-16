@@ -1,0 +1,73 @@
+baseurl = "https://androidsmart.github.io"
+title = "Android Smart - All Root Needs"
+contentdir    = "content"
+layoutdir     = "layouts"
+publishdir    = "public"
+languageCode = "en"
+resourceDir = "../resources"
+DefaultContentLanguage = "en"
+Paginate     = 20
+markup.highlight.noClasses=false
+PygmentsCodeFences = true
+PygmentsStyle      = "monokai"
+
+
+keywords = [
+    "Android", "Custom Rom", "Magisk",
+    "magisk module", "ksu", "kernelsu", "kernel", "android experience", 
+    "Tutorial Android", "android news", "best magisk module"
+  ]
+
+  
+[pagination]
+  disableAliases = false
+  pagerSize = 10
+  path = 'tags'
+  
+  
+buildFuture = true
+
+[author]
+     name = "bjorka6868"
+     
+[sitemap]
+  changefreq = "always"
+  priority = 0.8
+  filename = "sitemap.xml"
+[permalinks]
+  news     = ":section/:year/:month/:slug"
+  download   = "/d/:year:month/:slug"
+  cusrom     = "/cusrom/:year:month/:slug"
+  kernel     = "/kernel/:year:month/:slug"
+  module     = "/module/:year:month/:slug"
+  tutorial   = "/tutorial/:year:month/:slug"
+  etc        = "/etc/:year:month/:slug"
+  
+[params]
+  text_color = ""
+  author = ""
+  favicon = ""
+  site_logo = ""
+  description = "Android Smart news about Android | Custom Rom | Kernel | Tutorial | Magisk Module | kernelsu"
+  recent_posts_number = 3
+
+colorScheme = "auto"
+# Hide the toggle button, along with the associated vertical divider
+hideColorSchemeToggle = false
+# Series see also post count
+maxSeeAlsoItems = 5
+# Custom CSS
+customCSS = []
+# Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
+customSCSS = []
+
+# Custom JS
+customJS = []
+
+# Custom remote JS files
+customRemoteJS = []
+
+  
+[taxonomies]
+category = "categories"
+tag = "tags"

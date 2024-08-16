@@ -1,0 +1,134 @@
+{{ define "main" }}
+<main>
+<div class="container"	>
+	<h1>Android Smart User</h1>
+<p>Welcome to Android Smart, this page contains articles about custom Roms, kernels, Magisk modules, KSU modules and several Android tutorials.</p>
+<!-- <img class="IMG_HOME" alt="android news homepage" src="img/ss1.png"> -->
+
+<h2>Menu</h2>
+<div class="menu_home"><a href="https://androidsmart.github.io/cusrom">Custom ROM</a></div>
+<div class="menu_home"><a href="https://androidsmart.github.io/kernel">Kernel</a></div>
+<div class="menu_home"><a href="https://androidsmart.github.io/module">Module</a></div>
+<div class="menu_home"><a href="https://androidsmart.github.io/etc">Etc</a></div>
+<div class="menu_home"><a href="https://androidsmart.github.io/tutorial">Tutorial</a></div>
+
+
+<img src="/img/c.jpg" style="width: 50%; padding: 20px;" class="img-fluid MID" alt="android smart">
+
+
+<p>Android's open-source nature makes it a playground for tech enthusiasts. Rooting and custom ROMs offer exciting ways to transform your device, but proceed with caution, as they come with risks.</p>
+
+<h2>What is Rooting?</h2>
+
+<p>Rooting grants you "superuser" (or "su") access to your Android system. This means:</p>
+<ul>
+    <li><strong>Complete Control:</strong> Modify system files, remove pre-installed apps ("bloatware"), change system settings usually locked by the manufacturer.</li>
+    <li><strong>Advanced Apps:</strong> Install apps that require root access, like ad blockers, firewall apps, or those that let you tweak CPU settings for performance or battery life.</li>
+</ul>
+<p><strong>Caution:</strong> Rooting voids your warranty and can potentially "brick" your device if not done correctly. Always research your specific device and follow trusted guides.</p>
+
+<h2>Custom ROMs: A Fresh Start</h2>
+<p>Custom ROMs replace your device's entire operating system with a modified version. They can offer:</p>
+<ul>
+    <li><strong>Updated Android Versions:</strong> Even if your manufacturer no longer supports updates for your device.</li>
+    <li><strong>Feature Enhancements:</strong> New features, better customization options, and performance optimizations.</li>
+    <li><strong>Different Interfaces:</strong> A completely new look and feel for your device.</li>
+</ul>
+<p><strong>Popular Custom ROMs:</strong> LineageOS, Pixel Experience, Paranoid Android.</p>
+
+<h2>Flashing Custom ROMs: Magisk & TWRP</h2>
+<ul>
+    <li><strong>TWRP (Team Win Recovery Project):</strong> A custom recovery environment that allows you to back up your system, flash ROMs, and perform other modifications.</li>
+    <li><strong>Magisk:</strong> A powerful tool that allows "systemless" rooting (doesn't modify system files directly), making it easier to install banking apps and receive OTA (over-the-air) updates.</li>
+</ul>
+
+<h2>Custom Kernels: Fine-Tune Performance</h2>
+<p>Kernels are the core of the operating system, managing how your device interacts with hardware. Custom kernels can:</p>
+<ul>
+    <li><strong>Overclock/Undervolt:</strong> Increase or decrease CPU speed for performance or battery savings.</li>
+    <li><strong>Tweak CPU Governors:</strong> Change how the CPU manages its speed based on demand.</li>
+    <li><strong>Adjust GPU Settings:</strong> Enhance graphics performance.</li>
+</ul>
+<p><strong>Warning:</strong> Kernel modifications can be risky. Always research and use kernels specifically made for your device.</p>
+
+<h2>Installing Custom ROMs & Kernels:</h2>
+<ol>
+    <li><strong>Unlock Bootloader:</strong> Necessary for most modifications. Check your device manufacturer's instructions.</li>
+    <li><strong>Install Custom Recovery (TWRP):</strong> Usually done via ADB (Android Debug Bridge) commands.</li>
+    <li><strong>Back Up Your System:</strong> Crucial in case anything goes wrong.</li>
+    <li><strong>Flash the ROM or Kernel:</strong> Follow the instructions for your chosen ROM/kernel.</li>
+    <li>(Optional) Install Magisk: If you want systemless root.</li>
+</ol>
+
+<h2>Before You Start:</h2>
+<ul>
+    <li><strong>Research Thoroughly:</strong> Understand the risks and the specific process for your device.</li>
+    <li><strong>Back Up Everything:</strong> Photos, contacts, important files—you don't want to lose them!</li>
+    <li><strong>Use Reliable Sources:</strong> Download ROMs, kernels, and tools from trusted developers and communities.</li>
+</ul>
+
+<h2>Is Rooting and Using Custom ROMs for You?</h2>
+<p>Consider these questions:</p>
+<ul>
+    <li><strong>Tech Savviness:</strong> Are you comfortable with technical procedures and potential troubleshooting?</li>
+    <li><strong>Warranty:</strong> Are you okay with voiding your device's warranty?</li>
+    <li><strong>Need for Customization:</strong> Do you want features or control not offered by the stock system?</li>
+    <li><strong>Risk Tolerance:</strong> Can you handle the possibility of bricking your device if something goes wrong?</li>
+</ul>
+<p><strong>If you're unsure, start with small tweaks and research extensively before taking major steps.</strong></p>
+
+
+
+<h2>New Release</h2>
+
+<ol>
+{{ range sort .Site.RegularPages | first 50 }}
+
+<li><a class="game_link" href="{{ .RelPermalink }}">{{ .Title }}</a>
+<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}"> {{ .Date.Format "Jan 2, 2006" }}</time>
+
+</li>
+{{ end }}
+</ol>
+
+<h2>Custom Rom</h2>
+{{ range (where .Site.RegularPages "Section" "cusrom") }}
+<div class="p1"><a class="game_link" href="{{ .RelPermalink }}">{{ .Title }}</a>
+<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}"> {{ .Date.Format "Jan 2, 2006" }}</time>
+</div>
+{{ end }}
+
+
+<h2>Kernel</h2>
+{{ range (where .Site.RegularPages "Section" "kernel") }}
+<div><a class="game_link" href="{{ .RelPermalink }}">{{ .Title }}</a>
+<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}"> {{ .Date.Format "Jan 2, 2006" }}</time>
+
+</div>
+{{ end }}
+
+<h2>Module</h2>
+{{ range first 20 (where .Site.RegularPages "Section" "module") }}
+<div><a class="game_link" href="{{ .RelPermalink }}">{{ .Title }}</a>
+<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}"> {{ .Date.Format "Jan 2, 2006" }}</time>
+</div>
+{{ end }}
+
+<h2>Tutorial</h2>
+{{ range first 20 (where .Site.RegularPages "Section" "tutorial") }}
+<div><a class="game_link" href="{{ .RelPermalink }}">{{ .Title }}</a>
+<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}"> {{ .Date.Format "Jan 2, 2006" }}</time>
+</div>
+{{ end }}
+
+<h2>Etc</h2>
+{{ range first 20 (where .Site.RegularPages "Section" "etc") }}
+<div><a class="game_link" href="{{ .RelPermalink }}">{{ .Title }}</a>
+<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}"> {{ .Date.Format "Jan 2, 2006" }}</time>
+</div>
+{{ end }}
+</div>
+
+
+
+{{ end }}

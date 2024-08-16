@@ -1,0 +1,36 @@
+{{ partial "meta/main.html" . }}
+<head>
+{{ partial "head.html" . }}
+
+{{ partial "adspop.html" . }}
+</head>
+<body>
+{{ partial "navbar.html"  . }}
+<main class="container">
+<article>
+    
+<p>Name : {{ .Title }}</p>
+<p>Type : {{ .Params.categories }}</p>
+
+<h2 style="padding-top: 0px;">Download Link</h2>
+<p style="text-align: center;">Click 3x to download
+</p>
+
+<a href="{{ .Params.link }}">
+<img class="null" style="text-align: center; width: 150px; height: auto;" src="/img/download.png" alt="download">
+</a>
+
+<h2> Decription</h2>
+<p>
+{{- if .Description -}}
+	{{ .Description }}
+{{- else -}}
+	{{ .Summary }}
+{{ end }}
+</p>
+
+
+{{ partial "footer.html" . }}
+</main>
+</body>
+</html>
