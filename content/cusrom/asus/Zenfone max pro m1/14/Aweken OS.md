@@ -6,7 +6,7 @@ slug   : aweken-a14-x00t
 categories: [rom]
 tags      : [X00T]
 keywords  : [zenfone max pro m1]
-author : wahyu6070
+author : 
 ---
 
 Download Custom Rom Aweken OS android 14 Asus Zenfone Max Pro M1 X00T.

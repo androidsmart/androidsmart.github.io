@@ -6,7 +6,7 @@ slug   : crdroid-a10-violet
 categories: [rom]
 tags      : [violet]
 keywords  : [redmi note 7 pro]
-author : wahyu6070
+author : 
 ---
 
 Download Custom Rom Crdroid android 10 Xiaomi redmi note 7 pro Violet

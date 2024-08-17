@@ -6,7 +6,7 @@ slug   : lineage21-a13-violet
 categories: [rom]
 tags      : [violet]
 keywords  : [redmi note 7 pro]
-author : wahyu6070
+author : 
 ---
 
 The Xiaomi Redmi Note 7 Pro has been a popular choice among smartphone enthusiasts, and with the release of LineageOS 20, it's set to get even better. LineageOS 20, based on Android 13, brings a host of new features and improvements that are sure to enhance the user experience.

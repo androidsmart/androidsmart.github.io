@@ -6,7 +6,7 @@ slug   : lineage17-a10-X00T
 categories: [rom]
 tags      : [X00T]
 keywords  : [Asus Zenfone Max Pro M1]
-author : wahyu6070
+author : 
 ---
 
 Download Custom Rom LineAge17 OS Android 10 For Asus Zenfone Max Pro M1 (X00T)

@@ -6,7 +6,7 @@ slug   : Cherish-a14-violet
 categories: [rom]
 tags      : [violet]
 keywords  : [redmi note 7 pro]
-author : wahyu6070
+author : 
 ---
 
 Download Custom Rom Cherish android 14 Xiaomi redmi note 7 pro Violet

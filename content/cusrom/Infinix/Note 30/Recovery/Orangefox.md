@@ -6,7 +6,7 @@ slug   : orangefox-x6833b
 categories: [Recovery]
 tags      : [x6833b]
 keywords  : [orangefox]
-author : wahyu6070
+author : 
 ---
 
 Download Custom Recovery Orangefox Latest version for Infinix Note 30

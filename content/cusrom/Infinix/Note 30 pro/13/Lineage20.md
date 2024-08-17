@@ -6,7 +6,7 @@ slug   : lineage21-a13-x678b
 categories: [rom]
 tags      : [x678b]
 keywords  : [lineage]
-author : wahyu6070
+author : 
 ---
 
 Download Custom Rom Lineage 20 android 13 Infinix Note 30 Pro.

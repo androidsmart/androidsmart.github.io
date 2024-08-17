@@ -6,7 +6,7 @@ slug   : orangefox-x678b
 categories: [Recovery]
 tags      : [x678b]
 keywords  : [orangefox]
-author : wahyu6070
+author : 
 ---
 
 Download Custom Recovery Orangefox Latest version for Infinix Note 30 Pro

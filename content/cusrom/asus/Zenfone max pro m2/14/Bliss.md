@@ -6,7 +6,7 @@ slug   : bliss-a14-x01bd
 categories: [rom]
 tags      : [X01BD]
 keywords  : [zenfone max pro m2]
-author : wahyu6070
+author : 
 ---
 
 Download Custom Rom BlissRom OS android 14 Asus Zenfone Max Pro M2 X01BD.

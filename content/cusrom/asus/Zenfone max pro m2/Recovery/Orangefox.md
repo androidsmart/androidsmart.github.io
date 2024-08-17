@@ -6,7 +6,7 @@ slug   : orangefox-x01bd
 categories: [Recovery]
 tags      : [X01BD]
 keywords  : [Asus Zenfone Max pro M2]
-author : wahyu6070
+author : 
 ---
 
 Download Custom Recovery Orangefox Latest version for Asus Zenfone Max Pro M2 X01BD.

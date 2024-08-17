@@ -6,7 +6,7 @@ slug   : pbrp-x678b
 categories: [Recovery]
 tags      : [x678b]
 keywords  : [bprp]
-author : wahyu6070
+author : 
 ---
 
 Download PBRP Latest version for Infinix Note 30 Pro x678b

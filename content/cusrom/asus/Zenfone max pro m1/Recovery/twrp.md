@@ -6,7 +6,7 @@ slug   : twrp-X00T
 categories: [Recovery]
 tags      : [X00T]
 keywords  : [Twrp]
-author : wahyu6070
+author : 
 ---
 
 Download Custom Recovery Twrp Latest version for Asus Zenfone Max Pro M1 X00T

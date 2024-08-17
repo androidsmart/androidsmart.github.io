@@ -6,7 +6,7 @@ slug   : twrp-x678b
 categories: [Recovery]
 tags      : [x678b]
 keywords  : [Twrp]
-author : wahyu6070
+author : 
 ---
 
 Download Twrp Latest version for Infinix Note 30 Pro

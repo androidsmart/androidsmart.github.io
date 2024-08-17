@@ -6,7 +6,7 @@ slug   : afterlife-a14-whyred
 categories: [rom]
 tags      : [whyred]
 keywords  : [redmi note 5 pro]
-author : wahyu6070
+author : 
 ---
 
 Download Custom Rom After Life android 14 Xiaomi redmi note 5 pro whyred.

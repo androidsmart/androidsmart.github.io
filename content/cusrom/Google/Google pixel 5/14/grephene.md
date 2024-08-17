@@ -6,7 +6,7 @@ slug   : graphene-a14-redfin
 categories: [rom]
 tags      : [redfin]
 keywords  : [Google Pixel 5]
-author : wahyu6070
+author :
 ---
 
 Download Custom Rom Graphene OS android 14 Google Pixel 5 redfin.

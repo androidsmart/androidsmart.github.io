@@ -6,7 +6,7 @@ slug   : los20-a13-x00t
 categories: [rom]
 tags      : [X00T]
 keywords  : [zenfone max pro m1]
-author : wahyu6070
+author : 
 ---
 
 

@@ -6,7 +6,7 @@ slug   : afterlife-a14-violet
 categories: [rom]
 tags      : [violet]
 keywords  : [redmi note 7 pro]
-author : wahyu6070
+author : 
 ---
 
 Download Custom Rom Afterlife android 14 Xiaomi redmi note 7 pro Violet

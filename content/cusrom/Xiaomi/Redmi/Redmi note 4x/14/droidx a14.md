@@ -6,7 +6,7 @@ slug   : droidx-a14-mido
 categories: [rom]
 tags      : [mido]
 keywords  : [redmi note 4x]
-author : wahyu6070
+author : 
 ---
 
 Download Custom Rom DroidX android 14 for xiaomi redmi note 4x.
