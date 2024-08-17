@@ -6,7 +6,7 @@ date   : 2024-02-27T09:17:35+07:00
 categories: [tutorial]
 tags      : [ubl, twrp]
 keywords  : [Unlock bootloader poco x6]
-author : wahyu6070
+author : 
 ---
 
 Poco X6 is a smartphone model from Xiaomi that was released in January 2024. It features a 6.67-inch AMOLED display with a resolution of 2712 x 1220 pixels and a refresh rate of 120 Hz. It is powered by the Snapdragon 7s Gen 2 chipset, which is a 4 nm octa-core processor with a clock speed of up to 2.4 GHz.

@@ -6,7 +6,7 @@ date   : 2024-02-28T09:17:35+07:00
 categories: [tutorial]
 tags      : [ubl]
 keywords  : [Unlock bootloader poco c65]
-author : wahyu6070
+author :
 ---
 
 REDMI 13C/Poco C65 is a smartphone model from Xiaomi that was released in January 2024. Mediatek MT6769Z Helio G85 (12nm) CPU Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55).

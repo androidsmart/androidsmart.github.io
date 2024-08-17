@@ -6,10 +6,7 @@ slug   : pocox3pro
 categories: [magisk module]
 tags      : [ubl, module]
 keywords  : [How to UBL and Install TWRP on Poco X3 Pro]
-author : wahyu6070
-opengraph:
-toc    :
-excerpt:
+author : 
 ---
 
 

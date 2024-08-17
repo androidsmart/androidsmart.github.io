@@ -6,7 +6,7 @@ date   : 2024-02-27T09:17:35+07:00
 categories: [tutorial]
 tags      : [ubl, twrp]
 keywords  : [Unlock bootloader poco X6 pro]
-author : wahyu6070
+author :
 ---
 
 The POCO X6 Pro is a 5G smartphone that was released in January 2024. It has a 6.67-inch AMOLED display, a MediaTek Dimensity 8300 Ultra chipset, and a 64MP triple camera. It runs on Android 14 with HyperOS and has a 5000mAh battery with 67W charging. It also features a fingerprint sensor under the display, dual speakers, and a liquid cooling system.

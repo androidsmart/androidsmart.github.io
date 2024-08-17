@@ -6,7 +6,7 @@ slug   : havoc-a11-kenzo
 categories: [rom]
 tags      : [kenzo]
 keywords  : [redmi note 3 pro]
-author : wahyu6070
+author : 
 ---
 
 Download Custom Rom Havoc OS android 11 for xiaomi redmi note 3 Pro (kenzo)

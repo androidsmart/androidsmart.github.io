@@ -6,7 +6,7 @@ slug   : blaze-a13-sweet
 categories: [rom]
 tags      : [sweet]
 keywords  : [redmi note 10 pro]
-author : wahyu6070
+author : 
 ---
 
 Download Custom Rom Project Blaze OS android 13 Xiaomi redmi note 10 pro Sweet.

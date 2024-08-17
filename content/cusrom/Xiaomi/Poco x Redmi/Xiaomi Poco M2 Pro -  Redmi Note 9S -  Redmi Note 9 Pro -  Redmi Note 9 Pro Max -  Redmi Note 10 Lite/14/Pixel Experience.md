@@ -6,7 +6,7 @@ slug   : pe-a14-miatol
 categories: [rom]
 tags      : [miatol]
 keywords  : [redmi note 9 pro]
-author : wahyu6070
+author : 
 ---
 
 Download Custom Rom Pixel Experince android 14 Xiaomi redmi note 9 pro miatol.

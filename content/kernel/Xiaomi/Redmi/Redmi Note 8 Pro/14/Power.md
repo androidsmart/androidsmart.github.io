@@ -6,7 +6,7 @@ slug   : power-begonia
 categories: [kernel]
 tags      : [begonia]
 keywords  : [fussion kernel]
-author : wahyu6070
+author : 
 ---
 
 Download Custom kernel Power for redmi note 8 pro begonia

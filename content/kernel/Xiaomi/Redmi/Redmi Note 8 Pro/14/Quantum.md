@@ -6,7 +6,7 @@ slug   : quantum-begonia
 categories: [kernel]
 tags      : [begonia]
 keywords  : [fussion kernel]
-author : wahyu6070
+author : 
 ---
 
 Download Custom kernel Quantum for redmi note 8 pro begonia

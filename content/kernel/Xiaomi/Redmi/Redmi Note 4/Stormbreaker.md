@@ -6,7 +6,7 @@ slug   : stormbreaker-kernel-santoni
 categories: [kernel]
 tags      : [santoni]
 keywords  : [storm breaker kernel]
-author : wahyu6070
+author :
 ---
 
 ## Changelogs

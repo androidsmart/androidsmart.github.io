@@ -6,7 +6,7 @@ slug   : evolutionX-a14-sweet
 categories: [rom]
 tags      : [sweet]
 keywords  : [redmi note 10 pro]
-author : wahyu6070
+author : 
 ---
 
 Download Custom Rom EvolutionX android 14 Xiaomi redmi note 10 pro Sweet.

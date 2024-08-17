@@ -6,7 +6,7 @@ slug   : arrow-a13-sweet
 categories: [rom]
 tags      : [sweet]
 keywords  : [redmi note 10 pro]
-author : wahyu6070
+author : 
 ---
 
 Download Custom Arrow OS awaken android 13 Xiaomi redmi note 10 pro Sweet.

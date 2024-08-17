@@ -6,7 +6,7 @@ date   : 2024-03-25T09:17:35+07:00
 categories: [ubl]
 tags      : [ubl, twrp]
 keywords  : [Unlock bootloader poco F6]
-author : wahyu6070
+author :
 ---
 
 The Poco F6 is a 5G smartphone that was released in July 2024. It has a 6.67-inch AMOLED display, a Snapdragon 8s gen 3 chipset, and a 64MP triple camera. It runs on Android 14 with HyperOS and has a 5000mAh battery with 90W charging. It also features a fingerprint sensor under the display, dual speakers, and a liquid cooling system.

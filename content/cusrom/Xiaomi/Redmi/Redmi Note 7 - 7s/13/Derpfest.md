@@ -6,7 +6,7 @@ slug   : derpfest-a13-lavender
 categories: [rom]
 tags      : [lavender]
 keywords  : [redmi note 7]
-author : wahyu6070
+author : 
 ---
 
 Download Custom Rom Derpfest tango android 13 Xiaomi redmi note 7 Lavender

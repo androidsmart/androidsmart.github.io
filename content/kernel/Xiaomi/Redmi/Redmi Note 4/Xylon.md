@@ -6,7 +6,7 @@ slug   : xylon-kernel-santoni
 categories: [kernel]
 tags      : [santoni]
 keywords  : [xylon kernel]
-author : wahyu6070
+author :
 ---
 
 Download Custom Kernel Xylon Teen For Xiaomi redmi 4x santoni

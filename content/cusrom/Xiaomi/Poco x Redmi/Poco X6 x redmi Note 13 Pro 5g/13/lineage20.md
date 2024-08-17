@@ -6,7 +6,7 @@ slug   : los20-a14-garnet
 categories: [rom]
 tags      : [garnet]
 keywords  : [redmi note 13 pro]
-author : wahyu6070
+author : 
 ---
 
 Download Custom Rom Lineage 20 android 13 Xiaomi redmi note 13 pro Garnet.

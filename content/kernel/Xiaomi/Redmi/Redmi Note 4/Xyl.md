@@ -6,7 +6,7 @@ slug   : xyl-kernel-santoni
 categories: [kernel]
 tags      : [santoni]
 keywords  : [luuvy kernel]
-author : wahyu6070
+author : 
 ---
 
 ## Changelogs

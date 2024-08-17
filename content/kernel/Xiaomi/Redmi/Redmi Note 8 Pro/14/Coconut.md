@@ -6,7 +6,7 @@ slug   : coconut-begonia
 categories: [kernel]
 tags      : [begonia]
 keywords  : [coconut kernel]
-author : wahyu6070
+author :
 ---
 
 Download Custom kernel Coconut Kernel for redmi note 8 pro begonia

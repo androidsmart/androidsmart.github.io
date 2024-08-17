@@ -6,7 +6,7 @@ slug   : paranoid-a14-beryllium
 categories: [rom]
 tags      : [beryllium]
 keywords  : [poco F1]
-author : wahyu6070
+author : 
 ---
 
 Download Custom Rom Paranoid android 14 poco f1 Beryllium.

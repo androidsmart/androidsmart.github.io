@@ -6,7 +6,7 @@ slug   : paper-a14-garnet
 categories: [rom]
 tags      : [garnet]
 keywords  : [redmi note 13 pro]
-author : wahyu6070
+author : 
 ---
 
 Download Custom Rom Paper OS android 14 Xiaomi redmi note 13 pro Garnet.

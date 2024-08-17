@@ -6,7 +6,7 @@ slug   : pbrp-shennong
 categories: [Recovery]
 tags      : [shennong]
 keywords  : [Xiaomi 14 Pro]
-author : wahyu6070
+author : 
 ---
 
 Download Custom Recovery PBRP Latest version for Xiaomi 14 Pro shennong

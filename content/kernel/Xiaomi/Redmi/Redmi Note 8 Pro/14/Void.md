@@ -6,7 +6,7 @@ slug   : void-begonia
 categories: [kernel]
 tags      : [begonia]
 keywords  : [fussion kernel]
-author : wahyu6070
+author :
 ---
 
 Download Custom kernel Void Kernel for redmi note 8 pro begonia

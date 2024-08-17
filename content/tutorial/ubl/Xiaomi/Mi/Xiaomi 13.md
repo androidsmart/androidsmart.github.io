@@ -6,7 +6,7 @@ date   : 2024-05-27T09:17:35+07:00
 categories: [tutorial]
 tags      : [ubl]
 keywords  : [Unlock bootloader Xiaomi 13]
-author : wahyu6070
+author : 
 ---
 
 ## Unlocking the Bootloader and Installing TWRP on Xiaomi 13

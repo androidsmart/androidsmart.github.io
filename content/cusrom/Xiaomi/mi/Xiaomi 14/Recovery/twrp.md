@@ -6,7 +6,7 @@ slug   : twrp-houji
 categories: [Recovery]
 tags      : [houji]
 keywords  : [Xiaomi 14]
-author : wahyu6070
+author : 
 ---
 
 Download Custom Recovery Twrp Latest version for Xiaomi 14 houji

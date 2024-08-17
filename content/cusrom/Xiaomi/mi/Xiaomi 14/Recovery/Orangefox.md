@@ -6,7 +6,7 @@ slug   : orangefox-houji
 categories: [Recovery]
 tags      : [houji]
 keywords  : [Xiaomi 14]
-author : wahyu6070
+author : 
 ---
 
 Download Orangefox Latest version for Xiaomi 14 houji

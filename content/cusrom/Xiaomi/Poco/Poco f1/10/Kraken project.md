@@ -6,7 +6,7 @@ slug   : kreken-a10-beryllium
 categories: [rom]
 tags      : [pocof1]
 keywords  : [poco F1]
-author : wahyu6070
+author : 
 ---
 
 Download Custom rom The Kraken Project android 10 poco f1 beryllium.

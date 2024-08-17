@@ -6,7 +6,7 @@ slug   : orangefox-S5E8845
 categories: [Recovery]
 tags      : [S5E8845]
 keywords  : [samsung Galaxy a55]
-author : wahyu6070
+author : 
 ---
 
 Download Orangefox Latest version for Samsung Galaxy A55 S5E8845.

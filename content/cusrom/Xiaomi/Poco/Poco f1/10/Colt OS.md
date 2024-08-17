@@ -6,7 +6,7 @@ slug   : coltos-a10-beryllium
 categories: [rom]
 tags      : [beryllium]
 keywords  : [poco F1]
-author : wahyu6070
+author :
 ---
 
 Download Custom rom Colt OS android 10 poco f1 beryllium.
