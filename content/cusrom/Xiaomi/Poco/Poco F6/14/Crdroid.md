@@ -6,33 +6,30 @@ slug   : crdroid-a14-peridot
 categories: [rom]
 tags      : [peridot]
 keywords  : [poco F6]
-author : Vikas_2_0
+author : 
 ---
 
 
 Download Custom Rom Crdroid OS Android 14  For Poco f6 (peridot).
 
-## Changelog
-- Synced with latest crDroidAndroid 14.0 v10.x source code
-- Merged August 2024 security patches
-- Crdroid source side many fixes | new features added 
-- initial crdroid Build 
-
-## Notes
-- Report bug with proper log.
-- Vanilla builds 
-
-## Known Bugs
-- AOD is kinda broken.
-
-## Credits
-- Adarsh Grewal and Raghav for their Work.
-
-By @Vikas_2_0
-
+## Changelog's
+- Initial Release and signed build
+- Cts passes by Default
+- Added display colour saturation 
+- Added Smooth display refresh rate settings 
+- Fixed Network problems for JIO
+- Added props for VoNR
+- Crsource Rebased done 18/08/24
 
 ## Download Link
-### Unofficial
+### Official
+[ROM](https://sourceforge.net/projects/crdroid/files/peridot/10.x/)
+
+[Recovery](https://sourceforge.net/projects/crdroid/files/peridot/10.x/recovery/)
+
+[How To Install](https://crdroid.net/peridot/10/install)
+
+### Unofficial by Vikas_2_0
 [ROM](https://pixeldrain.com/u/jQumG79B)
 
 [Boot](https://pixeldrain.com/u/W4rg942j)
