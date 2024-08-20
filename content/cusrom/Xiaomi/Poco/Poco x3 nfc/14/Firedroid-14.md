@@ -6,7 +6,7 @@ date   : 2024-03-02T09:17:35+07:00
 categories: [rom]
 tags      : [surya]
 keywords  : [poco x3]
-author : wahyu6070
+author : 
 ---
 
 Download Custom Rom firedroid Android 12.1 POCO X3 NFC Surya
