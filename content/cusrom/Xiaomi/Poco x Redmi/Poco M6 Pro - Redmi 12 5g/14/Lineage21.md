@@ -39,7 +39,15 @@ Before proceeding with the installation, ensure you have a backup of your data. 
 Lineage 21 breathes new life into the Redmi 12 5G, offering a fresh, clean Android experience with the latest features. It's a testament to the vibrant developer community's commitment to keeping older devices up-to-date.
 
 ## Download Link
+### rom 1
 [ROM](https://downloads.pulkit077.workers.dev/0:/Downloads/lineage-21.0-20240220-UNOFFICIAL-sky.zip)
 
 [RECOVERY](https://mega.nz/file/6SI2habS#324jIx2vtqRARpXMis7nw-gyf_O2BkDggQ4NlcM75iY)
+
+### by lostark13
+[ROM](https://sourceforge.net/projects/redmi12-sky/files/)
+
+### by @ashwani_212
+[ROM](https://sourceforge.net/projects/ashwanihub/files/sky/)
+
 
