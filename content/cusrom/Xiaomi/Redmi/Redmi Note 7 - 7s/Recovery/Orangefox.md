@@ -22,5 +22,9 @@ Download Orangefox Latest version for Xiaomi Redmi Note 7 Lavender
 
 
 ## Download Link
+### Official
+[download](https://orangefox.download/release/)
+
+### Unofficial
 [Download](https://github.com/SDM-660-Zone/Lavender-Hub/raw/4.4/recovery/OrangeFox-Unofficial-lavender-A14-4.4-retro.zip)
 

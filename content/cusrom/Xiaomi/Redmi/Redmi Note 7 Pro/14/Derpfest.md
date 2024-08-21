@@ -29,6 +29,12 @@ Download Custom Rom Derpfest android 14 Xiaomi redmi note 7 pro Violet
 
 
 ## Download Link
+### Official
+[ROM](https://hyp.sh/SF-DerpFest-20240818)
+
+[Source](https://t.me/RedmiNote7ProChannel/2862)
+
+### unofficial
 [Download ROM](https://devuploads.com/d4d90g3pp98v)
 
 [Recovery](https://t.me/RedmiNote7ProChannel/2727)
