@@ -5,7 +5,61 @@
 </head>
 <body>
 {{ partial "navbar.html" . }}
-{{ partial "single.html" . }}
+
+
+<main class="container">
+<header>
+<h1>{{ .Title }}</h1>
+</header>
+
+<article>
+
+{{ .Content }}
+<div class="container">
+<h2>Device Info</h2>
+{{ range .Params.categories }}
+ <div class="p1"> Type : {{ . }}</div>
+{{ end }}
+
+
+
+{{ range .Params.keywords }}
+<div class="p1"> Device : {{ . }}</div>
+{{ end }}
+{{ range .Params.tags }}
+<div class="p1"> Codename : {{ . }}</div>
+{{ end }}
+
+{{ if .Params.by }}
+
+<div class="p1"> Module By : <a href="https://t.me/{{ .Params.by }}">{{ .Params.author }}</a></div>
+
+{{ end }}
+
+{{ if .Params.source }}
+<div class="p1"> Source : <a href="{{ .Params.source }}">{{ .Params.source }}</a></div>
+{{ end }}
+
+{{ range .Params.keywords }}
+<h2> New Release Custom Rom For {{ . }}</h2>
+{{ end }}
+
+{{ $P := .Params.tags }}
+{{ $Z := where site.RegularPages "Section" "eq" "module" }}
+{{ $T :=  where $Z "Params.tags" "intersect" $P }}
+
+{{ range $T | first 10}}
+
+	{{ if eq .Params.tags $P }}
+	<div class="p1"><a class="game_link" href="{{ .RelPermalink }}">{{ .Title }}</a></div>
+	{{ end }}
+
+{{ end }}
+
+</article>
+</main>
+
+
 {{ partial "footer.html" }}
 {{ partial "js.html" . }} 
 </body>
