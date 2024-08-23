@@ -21,18 +21,15 @@
  <div class="p1"> Type : {{ . }}</div>
 {{ end }}
 
+{{ if .Params.version }}
 
+<div class="p1"> Version : {{ .Params.version }}</div>
 
-{{ range .Params.keywords }}
-<div class="p1"> Device : {{ . }}</div>
-{{ end }}
-{{ range .Params.tags }}
-<div class="p1"> Codename : {{ . }}</div>
 {{ end }}
 
 {{ if .Params.by }}
 
-<div class="p1"> Module By : <a href="https://t.me/{{ .Params.by }}">{{ .Params.author }}</a></div>
+<div class="p1"> Module By : <a href="https://t.me/{{ .Params.by }}">{{ .Params.by }}</a></div>
 
 {{ end }}
 
@@ -40,9 +37,7 @@
 <div class="p1"> Source : <a href="{{ .Params.source }}">{{ .Params.source }}</a></div>
 {{ end }}
 
-{{ range .Params.keywords }}
-<h2> New Release Custom Rom For {{ . }}</h2>
-{{ end }}
+<h2> New Release Module List</h2>
 
 {{ $P := .Params.tags }}
 {{ $Z := where site.RegularPages "Section" "eq" "module" }}
