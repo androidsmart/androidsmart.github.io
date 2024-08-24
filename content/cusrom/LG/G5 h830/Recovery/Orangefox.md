@@ -1,16 +1,16 @@
 ---
 type   : cusrom
-title  : Download OrangeFox Recovery LG G5
+title  : Download OrangeFox Recovery LG G5 h830
 date   : 2024-08-24T09:17:35+07:00
-slug   : orangefox-rs988
+slug   : orangefox-h830
 categories: [Recovery]
-tags      : [rs988]
-keywords  : [LG]
+tags      : [h830]
+keywords  : [LG G5 h830]
 name_rom : orangefox
 author : ardasuzen
 ---
 
-Download Custom Recovery Orangefox for LG G5 (rs988).
+Download Custom Recovery Orangefox for LG G5 (h830).
 
 ## What is OrangeFox Recovery
 
@@ -67,5 +67,5 @@ OrangeFox Recovery is a valuable tool for LG G5 users looking to explore the wor
 
 
 ## Download Link
-[Download](https://orangefox.download/id-ID/device/rs988)
+[Download](https://orangefox.download/device/h830)
 
