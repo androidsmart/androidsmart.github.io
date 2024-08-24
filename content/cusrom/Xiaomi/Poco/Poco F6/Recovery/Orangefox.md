@@ -5,8 +5,9 @@ date   : 2024-03-25T09:17:35+07:00
 slug   : orangefox-peridot
 categories: [Recovery]
 tags      : [peridot]
-keywords  : [orangeofox]
-author : wahyu6070
+name_rom : orangefox
+keywords  : [orangefox]
+author :
 ---
 
 Download Orangefox Latest version for Xiaomi Poco F6 Peridot

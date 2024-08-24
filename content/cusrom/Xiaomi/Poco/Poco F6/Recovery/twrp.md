@@ -5,6 +5,7 @@ date   : 2024-03-25T09:17:35+07:00
 slug   : twrp-peridot
 categories: [Recovery]
 tags      : [peridot]
+name_rom : twrp
 keywords  : [POCO F6 Peridot]
 author :
 ---
