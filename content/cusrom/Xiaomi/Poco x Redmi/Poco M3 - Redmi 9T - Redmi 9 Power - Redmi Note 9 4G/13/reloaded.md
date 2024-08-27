@@ -1,8 +1,8 @@
 ---
 type   : cusrom
 title  : Download Reloaded CAF Android 13 Poco M3 / Redmi 9T / Redmi 9 Power / Redmi Note 9 4G
-date   : 2024-06-13T09:17:35+07:00
-slug   : reloaded-a13-Z01R
+date   : 2024-08-27T09:17:35+07:00
+slug   : reloaded-a13-crime
 categories: [rom]
 tags      : [crime]
 keywords  : [Poco M3 / Redmi 9T / Redmi 9 Power / Redmi Note 9 4G]
