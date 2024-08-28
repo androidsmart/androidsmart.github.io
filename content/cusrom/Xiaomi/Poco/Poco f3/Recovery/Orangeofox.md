@@ -66,4 +66,4 @@ OrangeFox Recovery is a valuable tool for any Poco F3 owner looking to take thei
 
 
 ## Download Link
-[Download](https://orangefox.download/id-ID/device/alioth)
+[Download](https://orangefox.download/device/alioth)
