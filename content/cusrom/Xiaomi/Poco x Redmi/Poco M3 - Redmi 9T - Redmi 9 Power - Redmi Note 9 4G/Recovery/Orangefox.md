@@ -5,7 +5,7 @@ date   : 2024-08-28T09:17:35+07:00
 slug   : orangefox-citrus
 categories: [Recovery]
 tags      : [citrus]
-keywords  : [Xiaomi POCO M3)
+keywords  : [Xiaomi POCO M3]
 name_rom : orangefox
 author : 
 ---
