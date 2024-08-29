@@ -5,7 +5,7 @@ date   : 2024-08-29T09:17:35+07:00
 slug   : orangefox-davinci
 categories: [Recovery]
 tags      : [davinci]
-keywords  : [Xiaomi mi 9T)
+keywords  : [Xiaomi mi 9T]
 name_rom : orangefox
 author : 
 ---

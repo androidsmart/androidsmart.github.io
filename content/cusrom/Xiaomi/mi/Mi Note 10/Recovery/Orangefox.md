@@ -5,7 +5,7 @@ date   : 2024-08-29T09:17:35+07:00
 slug   : orangefox-tucana
 categories: [Recovery]
 tags      : [tucana]
-keywords  : [Xiaomi Note 10)
+keywords  : [Xiaomi Note 10]
 name_rom : orangefox
 author : 
 ---

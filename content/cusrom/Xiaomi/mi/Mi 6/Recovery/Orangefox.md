@@ -5,7 +5,7 @@ date   : 2024-08-25T09:17:35+07:00
 slug   : orangefox-sagit
 categories: [Recovery]
 tags      : [sagit]
-keywords  : [Xiaomi mi 6)
+keywords  : [Xiaomi mi 6]
 name_rom : orangefox
 author : 
 ---
