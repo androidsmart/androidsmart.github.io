@@ -1,12 +1,12 @@
 ---
 type   : cusrom
-title  : Download OrangeFox Latest Version Redmi Note 12 topaz
+title  : Download OrangeFox Unofficial Recovery Redmi Note 12 topaz
 date   : 2024-05-15T09:17:35+07:00
 slug   : orangefox-topaz
 categories: [Recovery]
 tags      : [topaz]
 keywords  : [orangefox]
-author : wahyu6070
+author :
 ---
 
 Download Custom Recovery Orangefox Latest version for Xiaomi redmi note 12 topaz.

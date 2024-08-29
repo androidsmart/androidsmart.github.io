@@ -6,7 +6,7 @@ slug   : orangefox-vayu
 categories: [Recovery]
 tags      : [vayu]
 keywords  : [Orangefox]
-author : wahyu6070
+author : 
 ---
 
 Download Custom Recovery Orangefox Latest version for Xiaomi Poco x3 Pro Vayu.

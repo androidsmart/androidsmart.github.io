@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Download Alphadroid Os Android 14 Poco X4 Pro Veux
+title  : Download Alphadroid Os Android 14 Redmi Note 11E Pro - Redmi Note 11 Pro 5G - POCO X4 Pro 5G (veux)
 slug   : Alphadroid-a14-veux
 date   : 2024-05-09T09:17:35+07:00
 categories: [rom]

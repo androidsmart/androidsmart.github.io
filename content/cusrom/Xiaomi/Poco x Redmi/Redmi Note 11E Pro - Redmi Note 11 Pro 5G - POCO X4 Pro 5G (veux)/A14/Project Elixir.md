@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Download Project Elixir Os Android 14 Poco X4 Pro - Redmi note 11 Pro+ 5G
+title  : Download Project Elixir Os Android 14 Redmi Note 11E Pro - Redmi Note 11 Pro 5G - POCO X4 Pro 5G (veux)
 slug   : elixir-a14-veux
 date   : 2024-05-09T09:17:35+07:00
 categories: [rom]
