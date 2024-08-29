@@ -2,7 +2,7 @@
 type   : cusrom
 title  : Download Reloaded OS Android 10 Redmi 5A
 date   : 2024-06-13T09:17:35+07:00
-slug   : reload d-a10-riva
+slug   : reloaded-a10-riva
 categories: [rom]
 tags      : [riva]
 keywords  : [redmi 5a]

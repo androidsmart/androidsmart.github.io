@@ -6,7 +6,7 @@ slug   : orangefox-santoni
 categories: [Recovery]
 tags      : [santoni]
 keywords  : [Twrp]
-author : wahyu6070
+author :
 ---
 
 Download Custom Recovery Orangefox Latest version for Xiaomi Redmi 4x santoni
