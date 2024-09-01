@@ -6,6 +6,7 @@ slug   : lineageos-a14-sweet_k6a
 categories: [rom]
 tags      : [sweet_k6a]
 keywords  : [redmi note 12 Pro 4G]
+name_rom : lineage
 author : PulkitAgarwal
 ---
 
