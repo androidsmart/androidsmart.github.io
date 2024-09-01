@@ -8,6 +8,7 @@ tags      : [fire]
 keywords  : [Xiaomi Redmi 12]
 author : Norikhsan90
 source : https://t.me/R12ID_CH/14
+name_rom : orangefox
 ---
 
 Download Orangefox Latest version for Xiaomi Redmi 12 Fire.

@@ -7,6 +7,7 @@ categories: [Recovery]
 tags      : [fire]
 keywords  : [Xiaomi Redmi 12 Fire]
 author :
+name_rom : twrp
 ---
 
 Download Custom Recovery TWRP Latest version for Xiaomi Redmi 12 (Fire).
