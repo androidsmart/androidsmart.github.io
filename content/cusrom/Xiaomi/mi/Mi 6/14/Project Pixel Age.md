@@ -6,7 +6,7 @@ date   : 2024-08-307T09:17:35+07:00
 categories: [rom]
 tags      : [sagit]
 keywords  : [xiaomi mi 6]
-author : @deny2311
+author : deny2311
 ---
 
 Download Custom Rom ProjectPixelage OS Android 14 For Xiaomi MI 6 (sagit)
