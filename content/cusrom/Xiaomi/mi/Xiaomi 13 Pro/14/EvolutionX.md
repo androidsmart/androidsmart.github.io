@@ -7,7 +7,7 @@ categories: [rom]
 tags      : [nuwa]
 keywords  : [Xiaomi 13 Pro]
 source : 
-name_rom : evolutionX
+name_rom : evolutionx
 author : IPSBHANGU
 ---
 
