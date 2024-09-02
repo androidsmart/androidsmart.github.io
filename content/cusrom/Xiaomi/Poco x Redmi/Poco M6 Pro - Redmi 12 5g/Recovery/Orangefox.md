@@ -5,7 +5,7 @@ date   : 2024-03-12T09:17:35+07:00
 slug   : orangefox-sky
 categories: [Recovery]
 tags      : [sky]
-keywords  : [orangefox]
+keywords  : [Redmi 12 5G and Poco M6 pro]
 author :
 ---
 

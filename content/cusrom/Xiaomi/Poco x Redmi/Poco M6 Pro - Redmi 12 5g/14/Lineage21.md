@@ -5,7 +5,7 @@ slug   : lineage21-sky
 date   : 2024-03-12T09:17:35+07:00
 categories: [rom]
 tags      : [sky]
-keywords  : [poco m6 pro]
+keywords  : [Redmi 12 5G and Poco M6 pro]
 ---
 
 Download Custom Rom Lineage 21 OS Android 14 Xiaomi Redmi 12 5G and Poco M6 pro Sky.

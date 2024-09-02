@@ -5,8 +5,8 @@ date   : 2024-03-12T09:17:35+07:00
 slug   : twrp-sky
 categories: [Recovery]
 tags      : [sky]
-keywords  : [Twro]
-author : wahyu6070
+keywords  : [Redmi 12 5G and Poco M6 pro]
+author : 
 ---
 
 Download Twrp Latest version for Xiaomi Redmi 12 5G and Poco M6 pro Sky.

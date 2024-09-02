@@ -5,7 +5,7 @@ slug   : lineage20-a13-sky
 date   : 2024-03-12T09:17:35+07:00
 categories: [rom]
 tags      : [sky]
-keywords  : [poco m6 pro]
+keywords  : [Redmi 12 5G and Poco M6 pro]
 ---
 
 Download Custom Rom Lineage OS 20 Android 13 Xiaomi Redmi 12 5G and Poco M6 pro Sky.

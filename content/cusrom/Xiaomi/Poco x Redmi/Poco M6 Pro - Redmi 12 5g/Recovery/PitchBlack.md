@@ -5,7 +5,7 @@ date   : 2024-03-12T09:17:35+07:00
 slug   : PitchBlack-sky
 categories: [Recovery]
 tags      : [sky]
-keywords  : [picthblack]
+keywords  : [Redmi 12 5G and Poco M6 pro]
 author :
 ---
 
