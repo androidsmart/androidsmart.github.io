@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Download Project BlazenOS Android 14 Redmi Note 12 Pro 4G
+title  : Download Project Blaze OS Android 14 Redmi Note 12 Pro 4G
 date   : 2024-09-01T09:17:35+07:00
 slug   : blaze-a14-sweet_k6a
 categories: [rom]
