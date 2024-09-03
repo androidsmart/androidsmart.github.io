@@ -7,6 +7,7 @@ categories: [recovery]
 tags      : [chopin]
 keywords  : [Redmi Note 10 Pro 5G/Poco X3 Gt (chopin)]
 author : 
+name_rom : twrp
 ---
 
 Download Custom Rom TWRP Recovery for Redmi Note 10 Pro 5G/Poco X3 Gt (chopin)
