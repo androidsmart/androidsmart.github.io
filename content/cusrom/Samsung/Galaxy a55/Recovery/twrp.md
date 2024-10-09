@@ -5,6 +5,7 @@ date   : 2024-03-20T09:17:35+07:00
 slug   : twrp-S5E8845
 categories: [Recovery]
 tags      : [S5E8845]
+name_rom : twrp
 keywords  : [Samsung Galaxy A55]
 author :
 ---

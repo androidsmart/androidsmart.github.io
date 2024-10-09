@@ -4,6 +4,7 @@ title  : Download Lineage 21 OS Android 14 Samsung Galaxy A55 S5E8845
 slug   : lineage21-a14-S5E8845
 date   : 2024-03-20T09:17:35+07:00
 categories: [rom]
+name_rom : lineage
 tags      : [S5E8845]
 keywords  : [Samsung Galaxy a55]
 ---
