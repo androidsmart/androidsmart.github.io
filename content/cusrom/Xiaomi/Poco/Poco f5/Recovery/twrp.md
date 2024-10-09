@@ -6,7 +6,7 @@ slug   : twrp-marble
 categories: [Recovery]
 tags      : [marble]
 keywords  : [Twrp]
-author : wahyu6070
+author : 
 ---
 
 Download Recovery SKKK Twrp Latest version for Xiaomi POCO F5 Marble
