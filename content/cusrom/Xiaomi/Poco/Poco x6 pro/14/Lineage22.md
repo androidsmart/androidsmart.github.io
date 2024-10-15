@@ -1,16 +1,16 @@
 ---
 type   : cusrom
-title  : Download Rising OS Android 14 Poco X6 Pro Duchamp
-slug   : rising-a14-duchamp
+title  : Download Lineage OS Android 14 Poco X6 Pro Duchamp
+slug   : lineage-a14-duchamp
 date   : 2024-10-15T09:17:35+07:00
 categories: [rom]
 tags      : [duchamp]
-name_rom : rising
+name_rom : lineage
 keywords  : [poco x6 pro]
-author : sora1504
+author : rio113
 ---
 
-Download Custom Rom Rising OS Android 14 Xiaomi Poco x6 Pro (Duchamp).
+Download Custom Rom Lineage 22 OS Android 14 Xiaomi Poco x6 Pro (Duchamp).
 
 ## How To Install
 1) Download the vendor_boot.img and ROM
@@ -27,22 +27,29 @@ adb sideload ROM.zip
 
 
 ## Changelog
-- Initial build.
-- Signed rom.
-- Download gcam if you want camera (Aperture Camera isn't included)
+- Initial Android 14 release
 
-## Known Bugs
-- VoLTE/VoNR/VoWiFi.
-- Some games will not work properly.
-- SELinux is permissive.
-- Maybe more.
+## Bugs
+- VoLTE/VoNR/VoWiFi
+- Some games will not work properly
+- Maybe more
+
+## Notes
+- Flash from LineageOS recovery
+- OTA is included
 
 ## Credits
-- @rio113
+- bengris32
+- @minatiscape
+- @sarthakroy2002
+- @ziad_tamer_a
 - @Saikrishna1504
+- And all the donators' for making this possible.
+
 
 
 ## Download Link
-[ROM](https://sourceforge.net/projects/custom-builds/files/Duchamp-roms/RisingOS-5.2.1-FINAL-STABLE-EOL-20241007-CORE-COMMUNITY-duchamp-ota.zip/download)
+[ROM](https://github.com/mt6897-devs/OTA/releases/tag/1.0)
 
+[ROM GAPPS](https://sourceforge.net/projects/nikgapps/files/Releases/Android-14/13-Aug-2024/)
 

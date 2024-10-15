@@ -6,6 +6,7 @@ slug   : orangefox-duchamp
 categories: [Recovery]
 tags      : [duchamp]
 keywords  : [POCO X6 PRO]
+name_rom : orangefox
 author : 
 ---
 
