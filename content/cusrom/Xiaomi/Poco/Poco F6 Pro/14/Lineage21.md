@@ -6,6 +6,7 @@ slug   : lineage21-a14-vermeer
 categories: [rom]
 tags      : [vermeer]
 keywords  : [Poco f6 Pro]
+name_rom : lineage
 author : GioKas93
 ---
 
