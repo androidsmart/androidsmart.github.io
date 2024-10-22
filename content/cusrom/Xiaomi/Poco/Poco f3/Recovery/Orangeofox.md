@@ -5,6 +5,7 @@ date   : 2024-08-23T09:17:35+07:00
 slug   : orangefox-alioth
 categories: [Recovery]
 tags      : [alioth]
+name_rom : orangefox
 keywords  : [POCO F3]
 author : 
 ---
