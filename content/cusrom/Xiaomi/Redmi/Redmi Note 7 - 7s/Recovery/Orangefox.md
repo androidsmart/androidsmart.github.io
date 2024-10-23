@@ -6,6 +6,7 @@ slug   : orangefox-Lavender
 categories: [Recovery]
 tags      : [lavender]
 keywords  : [Redmi Note 7]
+name_name : orangefox
 author :
 ---
 

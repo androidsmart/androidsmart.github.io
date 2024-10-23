@@ -6,6 +6,7 @@ slug   : twrp-topaz
 categories: [Recovery]
 tags      : [lavender]
 keywords  : [topaz]
+name_rom : twrp
 author :
 ---
 

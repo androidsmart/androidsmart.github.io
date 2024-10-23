@@ -6,6 +6,7 @@ slug   : twrp-lavender
 categories: [Recovery]
 tags      : [lavender]
 keywords  : [Redmi Note 7]
+name_rom : twrp
 author :
 ---
 
