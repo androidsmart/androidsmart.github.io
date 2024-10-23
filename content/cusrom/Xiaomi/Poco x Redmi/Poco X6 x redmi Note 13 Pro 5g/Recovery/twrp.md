@@ -6,6 +6,7 @@ slug   : twrp-garnet
 categories: [Recovery]
 tags      : [garnet]
 keywords  : [Redmi Note 13 Pro 5 | POCO X6 5G]
+naem_rom : twrp
 author : 
 ---
 
