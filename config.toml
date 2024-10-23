@@ -6,7 +6,6 @@ publishdir    = "public"
 languageCode = "en"
 resourceDir = "../resources"
 DefaultContentLanguage = "en"
-Paginate     = 20
 markup.highlight.noClasses=false
 PygmentsCodeFences = true
 PygmentsStyle      = "monokai"
@@ -21,14 +20,13 @@ keywords = [
   
 [pagination]
   disableAliases = false
-  pagerSize = 10
+  pagerSize = 20
   path = 'tags'
   
   
 buildFuture = true
 
-[author]
-     name = "bjorka6868"
+author = "bjorka6868"
      
 [sitemap]
   changefreq = "always"
