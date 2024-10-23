@@ -16,7 +16,7 @@
           	{{ if .Description }}
           	{{ .Description }}
           	{{ else }}
-          	{{ .Summary | truncate 300 }}
+          	{{ .Summary | plainify | truncate 300 }}
           	{{ end }}
           	</p>
           <a href="{{ .Permalink }}

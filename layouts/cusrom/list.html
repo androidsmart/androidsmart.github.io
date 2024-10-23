@@ -18,7 +18,7 @@
           	{{ if .Description }}
           	{{ .Description }}
           	{{ else }}
-          	{{ .Summary }}
+          	{{ .Summary | plainify }}
           	{{ end }}
           	</p>
       
