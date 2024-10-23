@@ -2,7 +2,7 @@
 type   : cusrom
 title  : Download Crdroid OS Android 14 Xiaomi MI 6
 slug   : crdroid-a14-sagit
-date   : 2024-06-017T09:17:35+07:00
+date   : 2024-06-01T09:17:35+07:00
 categories: [rom]
 tags      : [sagit]
 keywords  : [xiaomi mi 6]

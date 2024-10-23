@@ -1,7 +1,7 @@
 ---
 type   : cusrom
 title  : Download EvolutionX OS Android 13 Asus Zenfone Max Pro M2
-date   : 2024-60-24T09:17:35+07:00
+date   : 2024-06-24T09:17:35+07:00
 slug   : evolutionX-a13-x01bd
 categories: [rom]
 tags      : [X01BD]

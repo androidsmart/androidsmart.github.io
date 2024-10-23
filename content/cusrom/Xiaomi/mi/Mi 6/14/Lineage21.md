@@ -2,7 +2,7 @@
 type   : cusrom
 title  : Download Lineage 21 OS Android 14 Xiaomi MI 6
 slug   : lineage21-a14-sagit
-date   : 2024-08-307T09:17:35+07:00
+date   : 2024-08-30T09:17:35+07:00
 categories: [rom]
 tags      : [sagit]
 keywords  : [xiaomi mi 6]

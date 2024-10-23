@@ -2,7 +2,7 @@
 type   : cusrom
 title  : Download Lineage 22 OS Android 15 Xiaomi MI 6
 slug   : lineage22-a15-sagit
-date   : 2024-10-137T09:17:35+07:00
+date   : 2024-10-13T09:17:35+07:00
 categories: [rom]
 tags      : [sagit]
 name_rom : lineage

@@ -1,7 +1,7 @@
 ---
 type   : cusrom
 title  : Download PBRP Recovery For Redmi 12 Fire
-date   : 2024-06-071T09:17:35+07:00
+date   : 2024-06-07T09:17:35+07:00
 slug   : pbrp-fire
 categories: [Recovery]
 tags      : [fire]
