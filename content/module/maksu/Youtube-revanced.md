@@ -42,3 +42,5 @@ YouTube ReVanced is here to revolutionize the way you enjoy YouTube content. Wit
 
 ## Link
 [Pling](https://www.pling.com/p/2158318/)
+
+[Magisk Module](https://github.com/j-hc/revanced-magisk-module/releases/tag/20220968)

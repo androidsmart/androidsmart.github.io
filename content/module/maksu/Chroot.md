@@ -113,7 +113,7 @@ like mt manger , termux , twrp , Android terminal emulator...
 
 
 ## Install chroot-distro
-[module](https://github.com/YasserNull/chroot-distro/releases/tag/module)
+[module](https://github.com/Magisk-Modules-Alt-Repo/chroot-distro/releases/latest)
 
 warning : required busybox for android ndk module 
 
