@@ -6,7 +6,7 @@ slug   : Android15
 categories: [android]
 tags      : [universal]
 keywords  : [Gallery]
-author : wahyu6070
+author : 
 ---
 
 Android 15 is the next major update to the Android mobile operating system. It's currently in development, with the first developer preview released in February 2024. Here's a quick rundown of what we know so far:

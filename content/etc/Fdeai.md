@@ -6,7 +6,7 @@ slug   : fde
 categories: [apps]
 tags      : [universal]
 keywords  : [apps]
-author : wahyu6070
+author :
 ---
 
 

@@ -6,7 +6,7 @@ slug   : quickpic-gallery
 categories: [apk]
 tags      : [universal]
 keywords  : [Gallery]
-author : wahyu6070
+author : 
 ---
 
 
