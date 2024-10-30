@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://androidsmart.github.io/sitemap.xml
+Sitemap: https://androidroot.github.io/sitemap.xml
 
