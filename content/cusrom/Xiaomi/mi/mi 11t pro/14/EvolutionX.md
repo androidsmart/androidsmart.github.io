@@ -5,6 +5,7 @@ slug   : evolutionX-a14-vili
 date   : 2024-03-19T09:17:35+07:00
 categories: [rom]
 tags      : [vili]
+name_rom : evolutionx
 keywords  : [xiaomi 11T Pro]
 ---
 

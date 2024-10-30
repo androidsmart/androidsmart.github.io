@@ -5,6 +5,7 @@ slug   : crdroid-a14-vili
 date   : 2024-03-19T09:17:35+07:00
 categories: [rom]
 tags      : [vili]
+name _rom : crdroid
 keywords  : [xiaomi 11T Pro]
 ---
 
