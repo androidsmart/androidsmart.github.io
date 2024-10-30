@@ -80,7 +80,7 @@ Rooting enables customizations at the system level, such as adjusting CPU perfor
 </ol>
 
 <h2>Custom Rom</h2>
-{{ range (where .Site.RegularPages "Section" "cusrom") }}
+{{ range first 1000 (where .Site.RegularPages "Section" "cusrom") }}
 <div class="p1"><a class="game_link" href="{{ .RelPermalink }}">{{ .Title }}</a>
 <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}"> {{ .Date.Format "Jan 2, 2006" }}</time>
 </div>
@@ -88,7 +88,7 @@ Rooting enables customizations at the system level, such as adjusting CPU perfor
 
 
 <h2>Kernel</h2>
-{{ range (where .Site.RegularPages "Section" "kernel") }}
+{{ range first 500 (where .Site.RegularPages "Section" "kernel") }}
 <div><a class="game_link" href="{{ .RelPermalink }}">{{ .Title }}</a>
 <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}"> {{ .Date.Format "Jan 2, 2006" }}</time>
 
