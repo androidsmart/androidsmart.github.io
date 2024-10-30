@@ -20,7 +20,7 @@ keywords = [
   
 [pagination]
   disableAliases = false
-  pagerSize = 20
+  pagerSize = 50
   path = 'tags'
   
   
