@@ -1,5 +1,5 @@
 baseurl = "https://androidroot.net"
-title = "Android Root - All Root Needs"
+title = "Android Root - Best system modification & Customization"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
@@ -43,10 +43,8 @@ author = "bjorka6868"
   
 [params]
   text_color = ""
-  author = ""
-  favicon = ""
-  site_logo = ""
-  description = "Android Smart news about Android | Custom Rom | Kernel | Tutorial | Magisk Module | kernelsu"
+  author = "bjorka6868"
+  description = "Rooting your Android device gives you complete control over its operating system. Access hidden features, remove bloatware, install custom ROMs, and boost performance."
   recent_posts_number = 3
 
 colorScheme = "auto"
@@ -54,16 +52,6 @@ colorScheme = "auto"
 hideColorSchemeToggle = false
 # Series see also post count
 maxSeeAlsoItems = 5
-# Custom CSS
-customCSS = []
-# Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
-customSCSS = []
-
-# Custom JS
-customJS = []
-
-# Custom remote JS files
-customRemoteJS = []
 
   
 [taxonomies]

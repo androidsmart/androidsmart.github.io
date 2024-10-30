@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Derpfest OS Android 14 Xiaomi 11T Pro Vili
+title  : Derpfest OS Android 15 Xiaomi 11T Pro Vili
 slug   : derpfest-a15-vili
 date   : 2024-10-30
 categories: [rom]
