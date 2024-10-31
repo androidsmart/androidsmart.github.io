@@ -6,6 +6,7 @@ slug   : hyperos-a14-munch
 categories: [rom]
 tags      : [munch]
 keywords  : [poco F4]
+name_rom : hyperos
 author : 
 ---
 
@@ -52,5 +53,7 @@ The arrival of HyperOS Android 14 on the POCO F4 marks a new chapter for Xiaomi'
 
 ### Unofficial
 [by @Jnt100](https://t.me/wahyu6070files/981)
+
+[By @agp2nd]
 
 [How To Install](http://telegra.ph/Hyper-MINT-V1020-ULMCNXM-Poco-F4-06-23)
