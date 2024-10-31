@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Download Hyper OS Android 14 Poco F4 (munch)
+title  : Hyper OS Android 14 Poco F4 (munch)
 date   : 2024-06-25T09:17:35+07:00
 slug   : hyperos-a14-munch
 categories: [rom]
