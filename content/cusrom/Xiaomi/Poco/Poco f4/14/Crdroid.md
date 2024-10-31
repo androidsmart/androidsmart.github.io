@@ -6,6 +6,7 @@ slug   : crdroid-a14-munch
 categories: [rom]
 tags      : [munch]
 keywords  : [poco F4]
+name_rom : derpfest
 author : 
 ---
 

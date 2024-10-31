@@ -54,6 +54,8 @@ The arrival of HyperOS Android 14 on the POCO F4 marks a new chapter for Xiaomi'
 ### Unofficial
 [by @Jnt100](https://t.me/wahyu6070files/981)
 
-[By @agp2nd]
+[By @agp2nd](https://t.me/wahyu6070files/1100?single)
+
+[SlowOs](https://t.me/wahyu6070files/1101?single)
 
 [How To Install](http://telegra.ph/Hyper-MINT-V1020-ULMCNXM-Poco-F4-06-23)
