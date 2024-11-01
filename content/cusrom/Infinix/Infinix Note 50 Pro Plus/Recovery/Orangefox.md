@@ -1,11 +1,11 @@
 ---
 type   : cusrom
-title  : OrangeFox Recovery For Infinix Note 50 Pro
+title  : OrangeFox Recovery For Infinix Note 50 Pro Plus
 date   : 2024-11-01T09:17:35+07:00
-slug   : orangefox-note50pro
+slug   : orangefox-note50proplus
 categories: [Recovery]
-tags      : [infinixnote50pro]
-keywords  : [Infinix Note 50 Pro]
+tags      : [infinixnote50proplus]
+keywords  : [Infinix Note 50 Pro Plus]
 name_rom : orangefox
 author : 
 ---

@@ -1,16 +1,16 @@
 ---
 type   : cusrom
-title  : Download TWRP Recovery For Infinix Note 50 Pro
+title  : Download TWRP Recovery For Infinix Note 50 Pro Plus
 date   : 2024-11-01T09:17:35+07:00
-slug   : twrp-infinixnote50pro
+slug   : twrp-infinixnote50proplus
 categories: [Recovery]
-tags      : [infinixnote50pro]
-keywords  : [Infinix Note 50 Pro]
+tags      : [infinixnote50proplus]
+keywords  : [Infinix Note 50 Pro Plus]
 name_rom : twrp
 author :
 ---
 
-Download Custom Recovery TWRP Latest version for Infinix Note 50 Pro
+Download Custom Recovery TWRP Latest version for Infinix Note 50 Pro Plus
 
 The Infinix Note 50 Pro Plus is shaping up to be a very interesting device for Android enthusiasts.  Early rumors suggest it will launch with Android 15, and the potential for TWRP support has the modding community excited. Let's dive into why this combination could be a game-changer.
 

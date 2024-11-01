@@ -99,8 +99,8 @@ This guide provides a general overview of the process. It is crucial to **resear
 
 [Adb Fastboot](https://androidsmart.github.io/etc/202403/adb-fastboot/)
 
-[magisk](https://github.com/topjohnwu/Magisk/releases/latest)
+[MAGISK](https://github.com/topjohnwu/Magisk/releases/latest)
 
 [MI unlock Tool](https://en.miui.com/unlock/download_en.html)
 
-twrp is coming soon
+[TWRP](https://androidroot.net/cusrom/202411/twrp-infinixnote50pro/)
