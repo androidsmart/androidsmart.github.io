@@ -50,4 +50,14 @@ After unlocking the bootloader:
 - **Restore** your data if needed.
 
 ## Link
-[Twrp](/)
+## Download Link
+
+[Usb Driver](https://sourceforge.net/projects/wahyu6070-project-android/files/Tools/surya/PdaNetA4199.zip/download)
+
+[Adb Fastboot](https://androidsmart.github.io/etc/202403/adb-fastboot/)
+
+[magisk v26.4](https://github.com/topjohnwu/Magisk/releases/tag/v26.4)
+
+[MI unlock Tool](https://en.miui.com/unlock/download_en.html)
+
+twrp is coming soon
