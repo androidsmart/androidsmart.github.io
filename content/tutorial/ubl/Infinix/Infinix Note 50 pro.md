@@ -101,6 +101,4 @@ This guide provides a general overview of the process. It is crucial to **resear
 
 [MAGISK](https://github.com/topjohnwu/Magisk/releases/latest)
 
-[MI unlock Tool](https://en.miui.com/unlock/download_en.html)
-
 [TWRP](https://androidroot.net/cusrom/202411/twrp-infinixnote50pro/)
