@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Derpfest OS Android 15 Infinix Note 40 Pro
+title  : Derpfest OS Android 15 Infinix Note 50 Pro
 slug   : derpfest-a15-note50pro
 date   : 2024-11-01T09:17:35+07:00
 categories: [rom]
