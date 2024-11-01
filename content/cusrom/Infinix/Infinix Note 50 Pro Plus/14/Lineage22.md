@@ -6,7 +6,7 @@ date   : 2024-11-11
 categories: [rom]
 tags      : [infinixnote50pro]
 keywords  : [Infinix Note 50 Pro Plus]
-name_rom :lineage
+name_rom : lineage
 ---
 
 Download Custom Rom Lineage 22 OS Android 15 Infinix Note 50 Pro Plus
