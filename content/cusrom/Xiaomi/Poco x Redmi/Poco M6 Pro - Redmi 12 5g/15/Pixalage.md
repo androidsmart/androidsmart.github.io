@@ -5,6 +5,7 @@ slug   : pixelage-a15-sky
 date   : 2024-10-20T09:17:35+07:00
 categories: [rom]
 tags      : [sky]
+name_rom : pixelage
 keywords  : [poco m6 pro]
 ---
 
