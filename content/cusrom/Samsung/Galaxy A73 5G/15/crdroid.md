@@ -6,6 +6,7 @@ date   : 2024-11-03T09:17:35+07:00
 categories: [rom]
 tags      : [a73xq]
 keywords  : [Samsung Galaxy A73 5G]
+name_rom : crdroid
 source : 
 author : alqix
 ---

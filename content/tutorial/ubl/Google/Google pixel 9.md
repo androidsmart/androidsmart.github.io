@@ -70,6 +70,6 @@ If you encounter any problems or have further questions, you can refer to the of
 
 
 ## Link
-[TWRP](/)
+[TWRP](https://androidroot.net/cusrom/google/google-pixel-9/)
 
-[Adb Fastboot](https://sourceforge.net/projects/wahyu6070-project-android/files/Tools/surya/adb-setup-1.4.3.zip/download)
+[Adb Fastboot](https://androidroot.net/etc/202403/adb-fastboot/)

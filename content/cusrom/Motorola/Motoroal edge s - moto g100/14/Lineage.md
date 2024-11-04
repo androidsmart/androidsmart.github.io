@@ -1,8 +1,9 @@
 ---
 type   : cusrom
-title  : Download Lineage OS 21 Android 14 Motoroal edge s - moto g100 (nio)
+title  : Download Lineage OS 21 Android 14 Motorola edge s - moto g100 (nio)
 date   : 2024-06-15T09:17:35+07:00
 slug   : lineage-a14-nio
+name_rom : lineage
 categories: [rom]
 tags      : [nio]
 keywords  : [Motoroal edge s / moto g100]
