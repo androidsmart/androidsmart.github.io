@@ -51,7 +51,7 @@ From R-Vendor ROMs (A13, 12L, 12 and 11):
 6. Boot to system.
 
 ## Downloads
-
+* R vendor
 * ROM: [Download](https://www.pling.com/p/1908484)
 * Recovery: [Download](https://www.pling.com/p/1908484)
 * Firmware: [Download](https://xiaomifirmwareupdater.com/archive/firmware/merlin/#)

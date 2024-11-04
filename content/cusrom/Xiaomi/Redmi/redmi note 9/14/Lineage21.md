@@ -44,6 +44,9 @@ Installing custom ROMs involves inherent risks, including the potential for bric
 
 Please note that the official LineageOS builds for Redmi Note 9 are currently experimental. This means that some features may not work perfectly, and bugs may be present. However, the ROM is generally stable and usable for daily use.
 
+## Notes
+- R vendor
+- Lineage recovery recomended
 
 ## Download Link
 [ROM](https://t.me/wahyu6070files/296)
