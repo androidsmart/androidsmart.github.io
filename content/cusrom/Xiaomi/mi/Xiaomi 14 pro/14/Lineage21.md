@@ -1,7 +1,7 @@
 ---
 type   : cusrom
 title  : Download LineageOS 21 for Xiaomi 14 Pro
-slug   : los21-a14-xiaomi14pro
+slug   : los21-a14-shennong
 date   : 2024-04-05T09:17:35+07:00
 categories: [rom]
 tags      : [shennong]
@@ -27,4 +27,4 @@ Choosing LineageOS 21 for your Xiaomi 14 Pro means opting for an extended device
 The LineageOS 21 ROM for the Xiaomi 14 Pro marks a significant step towards sustainable smartphone usage. It offers users the chance to experience the latest software features without the need to upgrade to a new device.
 
 ## Download Link
-[ROM](/)
+[ROM](https://xdaforums.com/t/a14-experimental-lineage-os-for-xiaomi-14-pro-shennong.4685776/#post-89778505)

@@ -1,15 +1,20 @@
 ---
 type   : cusrom
-title  : Download TWRP Recovery Xiaomi 14 Pro shennong
-date   : 2024-04-04T09:17:35+07:00
-slug   : twrp-shennong
+title  : Download TWRP Recovery Xiaomi 14 Ultra (aurora)
+date   : 2024-11-04T09:17:35+07:00
+slug   : twrp-aurora
 categories: [Recovery]
-tags      : [shennong]
-keywords  : [Xiaomi 14 Pro]
+tags      : [aurora]
+keywords  : [Xiaomi 14 Ultra]
 author : 
 ---
 
-Download Custom Recovery Twrp Latest version for Xiaomi 14 Pro shennong
+Download Custom Recovery Twrp Latest version for Xiaomi 14 Ultra (aurora).
+
+## Install 
+- ``Fastboot flash recovery_ab recovery.img``
+- ``Fastboot reboot recovery``
+
 
 ## Changelog
 - UNOFFICIAL build
@@ -22,4 +27,4 @@ Download Custom Recovery Twrp Latest version for Xiaomi 14 Pro shennong
 - Report any bug correctly, this is necessary for improvement 
 
 ## Download Link
-[Download](https://sourceforge.net/projects/recovery-for-xiaomi-devices/files/shennong/)
+[Download](https://mega.nz/file/w1cRSKrB#CEFhD66DgpPaAtNsmyqtevNy7APDEMtvke-hvZeWwjo)
