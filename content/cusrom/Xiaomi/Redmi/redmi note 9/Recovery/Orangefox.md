@@ -6,6 +6,7 @@ slug   : orangefox-merlin
 categories: [Recovery]
 tags      : [merlinx]
 keywords  : [Redmi Note 9]
+name_rom : orangefox
 author : 
 ---
 
@@ -66,4 +67,6 @@ install according to the vendor base, if it is wrong your recovery and fastboot 
 
 ## Download Link
 [For MIUI 13 (S Vendor)](https://sourceforge.net/projects/wahyu6070-project-android/files/Tools/redmi_note_9_merlin/RN9_OrangeFox_Recovery_S_vendor.zip/download)
+
+[For R Vendor](https://t.me/wahyu6070files/1107)
 

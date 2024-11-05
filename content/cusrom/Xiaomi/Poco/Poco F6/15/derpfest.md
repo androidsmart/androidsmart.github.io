@@ -5,6 +5,7 @@ date   : 2024-10-23T09:17:35+07:00
 slug   : derpfest-a15-peridot
 categories: [rom]
 tags      : [peridot]
+name_rom : derpfest
 keywords  : [poco F6]
 author : Kenway214
 ---
