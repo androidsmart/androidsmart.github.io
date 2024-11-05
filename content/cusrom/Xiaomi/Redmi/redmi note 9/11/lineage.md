@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Lineage 18.1 OS Android 11 Redmi Note 9
+title  : Lineage 18.1 OS Android 11 Redmi Note 9 (gaming Rom)
 date   : 2024-11-05T09:17:35+07:00
 slug   : lineage-a11-merlinx
 categories: [rom]
