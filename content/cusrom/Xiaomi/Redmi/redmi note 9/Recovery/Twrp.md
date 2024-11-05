@@ -56,7 +56,7 @@ TWRP (Team Win Recovery Project) is a custom recovery that replaces the stock re
 ### R Vendor
 [TWRP 3.4.2 A10-A12](https://t.me/wahyu6070files/1105)
 
-[Twrp 3.7.0 A13+](https://t.me/wahyu6070files/1106)
-[DFE](https://t.me/rn9_merlin/262)
-[Installation](https://telegra.ph/Credits-03-12-2)
+[Twrp 3.7.0 A13+](https://t.me/wahyu6070files/1106) | 
+ | [DFE](https://t.me/rn9_merlin/262)
+ | [Installation](https://telegra.ph/Credits-03-12-2)
 
