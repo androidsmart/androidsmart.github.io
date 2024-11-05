@@ -21,9 +21,8 @@ Download Orangefox Latest version for Xiaomi Redmi 13C x POCO C65.
 - Disabled Vsync for CPU rendered apps
 
 ## Download Link
-[Fastboot](https://sourceforge.net/projects/sheshu/files/sky/OrangeFox/OrangeFox-Unofficial-sky_22_10_2023.img/download)
+[LINK](https://sourceforge.net/projects/sheshu/files/sky/OrangeFox/OrangeFox-Unofficial-sky_22_10_2023.img/download)
 
-[Recovery](/)
 
 [How To Install](https://wiki.orangefox.tech/en/guides/installing_orangefox)
 

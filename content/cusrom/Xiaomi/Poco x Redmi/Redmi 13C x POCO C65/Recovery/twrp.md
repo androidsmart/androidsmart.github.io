@@ -18,5 +18,5 @@ Download Custom Recovery TWRP Latest version for Xiaomi Redmi 13C | POCO C65 Gal
 - Move renderengine to threaded skia
 
 ## Download Link
-[Download](/)
+[Download](https://t.me/gudang_gust/28)
 
