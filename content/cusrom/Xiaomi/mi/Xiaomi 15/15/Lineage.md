@@ -6,7 +6,7 @@ slug   : lineage-a15-dada
 categories: [rom]
 tags      : [dada]
 keywords  : [xiaomi 15]
-name_rom :lineage
+name_rom : lineage
 author : 
 ---
 

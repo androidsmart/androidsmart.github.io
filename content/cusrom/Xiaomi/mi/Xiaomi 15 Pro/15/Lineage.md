@@ -6,7 +6,7 @@ slug   : lineage-a15-haotian
 categories: [rom]
 tags      : [haotian]
 keywords  : [xiaomi 15 Pro]
-name_rom :lineage
+name_rom : lineage
 author : 
 ---
 

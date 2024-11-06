@@ -6,7 +6,7 @@ slug   : lineage-a15-Xuanyuan
 categories: [rom]
 tags      : [Xuanyuan]
 keywords  : [xiaomi 15 Ultra]
-name_rom :lineage
+name_rom : lineage
 author : 
 ---
 
