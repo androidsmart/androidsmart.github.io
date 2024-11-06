@@ -5,6 +5,7 @@ slug   : twrp-mi8917
 date   : 2024-11-06T09:17:35+07:00
 categories: [recovery]
 tags      : [mi8917]
+name_rom : twrp
 keywords  : [Xiaomi Redmi 4A - Redmi 5A - Redmi Note 5A Lite - Redmi Y1 Lite]
 ---
 

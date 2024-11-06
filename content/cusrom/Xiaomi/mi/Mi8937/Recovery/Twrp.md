@@ -5,6 +5,7 @@ slug   : twrp-mi8937
 date   : 2024-11-06T09:17:35+07:00
 categories: [recovery]
 tags      : [mi8937]
+name_rom : twrp
 keywords  : [ Xiaomi Redmi 3X - Redmi 4 - Redmi 4X - Redmi Note 5A Prime - Redmi Y1 Prime]
 ---
 

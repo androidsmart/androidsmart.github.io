@@ -5,6 +5,7 @@ slug   : twrp-mi8939
 date   : 2024-06-19T09:17:35+07:00
 categories: [recovery]
 tags      : [mi8939]
+name_rom : twrp
 keywords  : [Xiaomi Redmi 7A - Redmi 8 - Redmi 8A - Redmi 8A Dual]
 ---
 

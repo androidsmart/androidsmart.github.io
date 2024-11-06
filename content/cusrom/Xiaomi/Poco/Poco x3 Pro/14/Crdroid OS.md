@@ -5,6 +5,7 @@ slug   : crdroid-14-vayu
 date   : 2024-06-15T09:17:35+07:00
 categories: [rom]
 tags      : [vayu]
+name_rom : crdroid
 keywords  : [poco x3 Pro]
 author :
 ---
