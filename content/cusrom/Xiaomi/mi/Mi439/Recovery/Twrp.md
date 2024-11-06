@@ -8,20 +8,18 @@ tags      : [mi8939]
 keywords  : [Xiaomi Redmi 7A - Redmi 8 - Redmi 8A - Redmi 8A Dual]
 ---
 
-Download Custom Recovery TWRP For Xiaomi Redmi 7A - Redmi 8 - Redmi 8A - Redmi 8A Dual
-
-## TWRP Recovery for Redmi 8: A Comprehensive Guide
+Download Custom Recovery TWRP For Xiaomi Redmi 7A - Redmi 8 - Redmi 8A - Redmi 8A Dual (mi8939).
 
 Team Win Recovery Project (TWRP) is a custom recovery environment for Android devices. It offers a touch-based interface and a host of features that allow users to modify their devices beyond what is possible with the stock recovery. In this guide, we will cover everything you need to know about installing and using TWRP on your Redmi 8.
 
-**Why Install TWRP?**
+## Why Install TWRP
 
 * **Root Access:** TWRP makes it easier to root your device, giving you complete control over your Android system.
 * **Custom ROMs:** Install custom ROMs to change the entire look and feel of your device, and potentially access newer Android versions than those offered by the manufacturer.
 * **Backups and Restores:** Create full backups of your system, including apps and data, and restore them in case of any issues.
 * **Advanced Features:** TWRP offers many other features like wiping cache/dalvik, flashing ZIP files, and more.
 
-**Prerequisites**
+## Prerequisites
 
 Before installing TWRP, make sure you have the following:
 
@@ -56,7 +54,7 @@ Before installing TWRP, make sure you have the following:
 
    Immediately after entering the command, press and hold the Volume Up and Power buttons simultaneously until you see the TWRP logo.
 
-**Using TWRP**
+## Using TWRP
 
 Once you have successfully booted into TWRP recovery, you can navigate through the touch-based interface. Here are some essential functions you can perform:
 
@@ -65,7 +63,7 @@ Once you have successfully booted into TWRP recovery, you can navigate through t
 * **Backup:** Create a full backup of your system and data.
 * **Restore:** Restore your system from a previously created backup.
 
-**Additional Tips**
+## Additional Tips
 
 * **Magisk:** If you want to root your device, you can flash Magisk through TWRP after installing the recovery.
 * **Custom Kernels:** Consider flashing a custom kernel to improve performance or battery life.
@@ -76,8 +74,11 @@ Let me know if you have any other questions.
 
 
 ## Download Link
-[ROM](https://dl.twrp.me/mi439)
+[Android 12+ kernel 4.19.xx](https://t.me/wahyu6070files/1110)
 
+[Android 12+ kernel 4.9.xx](https://t.me/wahyu6070files/1111)
 
-[Source](https://twrp.me/xiaomi/xiaomi-mi439.html)
+[Android 11 kernel 4.19.xx](https://t.me/wahyu6070files/1112?single)
+
+[Android 11 kernel 4.9.xx](https://t.me/wahyu6070files/1112?single)
 

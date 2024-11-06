@@ -6,7 +6,7 @@ slug   : lineage21-a14-santoni
 categories: [rom]
 tags      : [santoni]
 keywords  : [redmi 4x]
-author : wahyu6070
+author : 
 ---
 
 Download Custom Rom Lineage 21 android 14 Xiaomi redmi note 4x Santoni.
