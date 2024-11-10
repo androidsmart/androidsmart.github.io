@@ -23,7 +23,7 @@ Download Custom Rom Bliss OS android 15 Google Pixel 8 (shiba).
 9. Reboot to system
 
 ## Download Link
-[Download ROM](https://downloads.blissroms.org/download_check/shiba/)
+[Download ROM](https://sourceforge.net/projects/blissroms/files/Universe/shiba/)
 
 [Recovery](https://sourceforge.net/projects/blissroms/files/Universe/shiba/recovery/)
 
