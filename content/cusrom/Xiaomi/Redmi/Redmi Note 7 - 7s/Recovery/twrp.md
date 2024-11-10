@@ -29,4 +29,4 @@ By @pix106
 [Download](https://www.androidfilehost.com/?fid=4279422670115734835)
 
 ### Official
-[download](https://twrp.me/xiaomi/xiaomiredminote7.html)
+[Download](https://twrp.me/xiaomi/xiaomiredminote7.html)
