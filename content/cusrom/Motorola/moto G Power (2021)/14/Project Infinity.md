@@ -11,7 +11,6 @@ author :
 
 Download Custom Rom Project Infinity OS android 14 Motorola moto G Power (2021).
 
-## Project Infinity OS: Bringing Android 14 to the Motorola Moto G Power (2021)
 
 The Motorola Moto G Power (2021), a budget-friendly yet powerful smartphone, has become a popular choice for many. However, it officially ends its software support at Android 11. The good news is that the custom ROM community, fueled by the desire to extend the lifespan of devices, has embarked on Project Infinity OS to bring the latest Android 14 to this beloved smartphone.
 
