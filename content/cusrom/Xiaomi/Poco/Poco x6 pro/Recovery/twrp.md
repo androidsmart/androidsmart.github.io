@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Download Twrp Recovery Poco x6 Pro duchamp
+title  : Download TWRP Recovery Poco x6 Pro duchamp
 date   : 2024-03-10T09:17:35+07:00
 slug   : twrp-duchamp
 categories: [Recovery]
@@ -10,24 +10,27 @@ keywords  : [Twrp]
 author : 
 ---
 
-Download Cusrom Recovery TWRP Latest version for Xiaomi Poco x6 Pro
+Download Cusrom Recovery TWRP Latest version for Xiaomi Poco x6 Pro (dupcamp).
+
 
 ## Changelog
-- Updated DT2W node
-- Start butanimation on post fs
-- Enabled LLVM
-- Added gpu boost for UI smothness 
-- Fixed StatusBar padding
-- Switched to GCamGo
-- Fixed Recovery Ramdisk
-- Initial Vanilla Build
-- February security patch
-- Included AOSP Surfaceflinger
-- Improved LMKD for better RAM managment
-- Tuned Surfaceflinger for more smoothness 
-- Fixed QS lags with bluid
+- Initial release
+- Tested on Indian Rom( most function working)
+- Remove screen password to decrypt data
 
+## What's Working
+- ADB sideload
+- Fastboot
+- Partial decryption
+
+## Flashing instructions
+- fastboot flash vendor_boot vendor_boot.img
+- fastboot reboot recovery
+- no need of flashing stock vendor_boot
 
 ## Download Link
-[Download](/)
+## Unofficial By sukrut4778
+[Download](https://drive.google.com/file/d/1Mckgi0l7rUHXjaB_WhdX0hxwjKWuwaHg/view?usp=sharing)
+
+
 
