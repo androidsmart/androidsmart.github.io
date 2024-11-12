@@ -16,57 +16,6 @@
 <img src="/img/c.webp" style="width: 50%; padding: 20px;" class="img-fluid MID" alt="android smart sreenshoot">
 
 
-<p>Android's open-source nature makes it a playground for tech enthusiasts. Rooting and custom ROMs offer exciting ways to transform your device, but proceed with caution, as they come with risks.</p>
-
-<p>Rooting is the process of gaining privileged control, or "root access," over an Android device’s operating system. Similar to having administrator rights on a computer, rooting allows users to bypass restrictions put in place by the device manufacturer or carrier, giving them access to the core system files and settings.
-</p>
-
-<p>Here’s a breakdown of what rooting allows you to do:</p>
-
-<h2>1. Install Custom ROMs</h2>
-
-With root access, you can replace the device's default Android OS with a custom ROM, which can provide more features, updates, or improved performance.
-
-
-<h2>2. Run Root-Only Apps</h2>
-
-Certain apps require root access to perform functions like blocking ads, creating automatic backups, or making deep system customizations. Rooting allows you to install and use these apps.
-
-
-<h2>3. Remove Bloatware</h2>
-
-Most Android devices come with pre-installed apps, known as bloatware, which you can't uninstall without root access. Rooting allows you to remove these apps to free up space and improve performance.
-
-
-<h2>4. System-Level Customizations</h2>
-
-Rooting enables customizations at the system level, such as adjusting CPU performance, changing animations, or modifying UI elements that aren't accessible on non-rooted devices.
-
-
-<h2>Pros and Cons of Rooting</h2>
-
-<h3>Pros:</h3>
-
-<p>Enhanced Customization: Access to extensive customization options.
-</p>
-<p>More Control: Greater control over system operations.
-</p>
-<p>Better Performance: Potential to improve battery life and system performance by tweaking settings or removing bloatware.
-</p>
-
-<h3>Cons:</h3>
-
-<p><b>Security Risks:</b> Rooting can expose the system to vulnerabilities if not handled carefully.
-</p>
-<p><b>Void Warranty:</b> Many manufacturers void warranties if a device is rooted.
-</p>
-<p><b>Risk of Bricking:</b> Mistakes during rooting may result in a "bricked" device, meaning it could become unusable.
-</p>
-
-<p>Rooting can be beneficial for advanced users who want more control over their devices, but it requires understanding the potential risks and following the process carefully.
-</p>
-
-
 <h2>New Release</h2>
 
 <ol>
@@ -78,44 +27,6 @@ Rooting enables customizations at the system level, such as adjusting CPU perfor
 </li>
 {{ end }}
 </ol>
-
-<h2>Custom Rom</h2>
-{{ range first 20 (where .Site.RegularPages "Section" "cusrom") }}
-<div class="p1"><a class="game_link" href="{{ .RelPermalink }}">{{ .Title }}</a>
-<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}"> {{ .Date.Format "Jan 2, 2006" }}</time>
-</div>
-{{ end }}
-
-
-<h2>Kernel</h2>
-{{ range first 20 (where .Site.RegularPages "Section" "kernel") }}
-<div><a class="game_link" href="{{ .RelPermalink }}">{{ .Title }}</a>
-<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}"> {{ .Date.Format "Jan 2, 2006" }}</time>
-
-</div>
-{{ end }}
-
-<h2>Module</h2>
-{{ range first 20 (where .Site.RegularPages "Section" "module") }}
-<div><a class="game_link" href="{{ .RelPermalink }}">{{ .Title }}</a>
-<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}"> {{ .Date.Format "Jan 2, 2006" }}</time>
-</div>
-{{ end }}
-
-<h2>Tutorial</h2>
-{{ range first 20 (where .Site.RegularPages "Section" "tutorial") }}
-<div><a class="game_link" href="{{ .RelPermalink }}">{{ .Title }}</a>
-<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}"> {{ .Date.Format "Jan 2, 2006" }}</time>
-</div>
-{{ end }}
-
-<h2>Etc</h2>
-{{ range first 20 (where .Site.RegularPages "Section" "etc") }}
-<div><a class="game_link" href="{{ .RelPermalink }}">{{ .Title }}</a>
-<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}"> {{ .Date.Format "Jan 2, 2006" }}</time>
-</div>
-{{ end }}
-</div>
 
 
 
