@@ -27,4 +27,4 @@ For the vast majority of Android users, the potential benefits of Brutal Busybox
 - Based busybox ndk
 ## Link
 
-[Click here](https://androidsmart.github.io/d/202403/brutal-busybox/)
+[Click here](https://www.pling.com/p/2122998/)

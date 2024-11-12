@@ -33,5 +33,5 @@ Please note that your web provider can purely block all requests if you use cust
 
 ## If you trust them, so install this module, restart and enjoy ! :)
 
-[pling](https://androidsmart.github.io/d/202403/adguarddns4magisk/)
+[Pling](https://www.pling.com/p/2122998/)
 

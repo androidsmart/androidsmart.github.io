@@ -43,5 +43,5 @@ Viper4Android only open source it's interface, their core drivers source code ha
 For convenient sake, I copy some interface code to accelerate my development.
 
 ## Download
-[pling](https://androidsmart.github.io/d/202402/ainur-james-dsp/)
+[Pling](https://www.pling.com/p/2122998/)
 

@@ -92,4 +92,4 @@ Shamiko read the denylist from Magisk for simplicity but it requires denylist en
 
 
 ## Download
-[Github](https://androidsmart.github.io/d/202403/shamiko/)
+[Github](https://github.com/LSPosed/LSPosed.github.io/releases/latest)

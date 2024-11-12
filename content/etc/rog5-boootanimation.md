@@ -16,5 +16,5 @@ Asus ROG Phone 5 Boot animation port by wahyu6070
 - Support install : ksu,magisk, recovery (root or non root).
 
 ## Download Link
-[Click Here](https://androidsmart.github.io/d/202402/rog5/)
+[Click Here](https://www.pling.com/p/2133827/)
 
