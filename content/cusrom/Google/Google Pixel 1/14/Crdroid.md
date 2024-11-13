@@ -1,64 +1,46 @@
 ---
 type   : cusrom
-title  : Download Crdroid OS Android 14 Google Pixel 2
-date   : 2024-06-16T09:17:35+07:00
-slug   : crdroid-a14-walleye
+title  : LineageOS 21 Android 14 Google Pixel 2 (sailfish)
+date   : 2024-11-13T09:17:35+07:00
+slug   : lineage-a14-sailfish
 categories: [rom]
-tags      : [walleye]
-keywords  : [Google Pixel 2]
+tags      : [sailfish]
+keywords  : [Google Pixel 1]
+name_rom : lineage
 author :
+
 ---
 
-Download Custom Rom Crdroid OS android 14 Google Pixel 2 (walleye).
+Download Custom Rom Lineage OS 21 android 14 Google Pixel 1 (sailfish).
 
-crDroid Android 14 for Google Pixel 2: A Comprehensive Review and Installation Guide
+This is the Official Lineage OS 21 thread for the Google Pixel 1.
 
-crDroid, a popular custom ROM known for its stability, performance, and customization options, has released its Android 14 version for the Google Pixel 2 (codename: walleye). This article will delve into the features, installation process, pros, and cons of crDroid Android 14 on the Pixel 2.
+## Downloads
+Please follow the install instructions in your device's Wiki page linked below exactly, and make sure your device's firmware matches the required firmware listed.
 
-## Key Features of crDroid Android 14 for Pixel 2
+### Official builds
+[sailfish](https://wiki.lineageos.org/devices/sailfish/)
 
-* **Latest Security Patch:** Includes the latest security patches, ensuring your device is protected from the latest vulnerabilities.
-* **Vanilla Android Experience:** Provides a clean, bloatware-free Android experience.
-* **Advanced Audio Support:** Comes with Dolby and Viper4Android for enhanced audio quality.
-* **Performance Enhancements:** Optimizations have been made to reduce lag during YouTube video playback and improve overall performance.
-* **Updated Blobs:** crDroid has been updated with the latest blobs, ensuring better compatibility and functionality.
-* **SafetyNet Passed by Default:** You can seamlessly use banking apps and other Google services.
-* **SeLinux Enforcing:** Enhances security by enforcing stricter SeLinux policies.
+Unofficial - built once a month by me, includes GApps and Pixel goodies:
 
-## Installation of crDroid Android 14 on Pixel 2
+[sailfish](https://wiki.oddsolutions.us/devices/sailfish)
 
-**Disclaimer:** Installing custom ROMs carries risks. Ensure you understand the process and back up your important data before proceeding.
+If you don't follow these instructions, or use 3rd party add-ons (like Magisk) please don't expect support here.
 
-1. **Unlock Bootloader:** Unlock the bootloader of your Pixel 2.
-2. **Install Custom Recovery:** Install a custom recovery like TWRP to facilitate flashing the ROM.
-3. **Download crDroid and GApps:** Download the crDroid Android 14 ROM and the appropriate GApps package for your device.
-4. **Flash ROM and GApps:** Enter recovery mode, wipe data, and then flash the crDroid ROM and GApps.
-5. **Reboot:** Once the flashing process is complete, reboot your device.
+## Known Bugs
+Sound Trigger (Screen-off "Hey Google" detection) is nonfunctional due to incompatibilities with older proprietary binaries, and lack of system space for needed Google Apps.
+Find any? Report them according to this guide.
 
-## Pros
+## Notes
+- Firmware is shipped in the ROM package for this device, so no need to worry about updating it on your own!
+- This uses a port of Linux kernel version 4.4 by @rootfan - thanks!
+- This requires a repartition - please see the wiki install guide(s) linked above on how to repartition! Our repartition script it different from other packages, please run ours!
+- The only supported GApps package at the moment is MindTheGapps, linked on our Wiki page about gapps.
 
-* **Smooth and Stable:** crDroid is known for its smooth and stable performance, providing an excellent user experience.
-* **Customization Options:** Offers a wide range of customization options to personalize your device.
-* **Regular Updates:** crDroid provides regular updates with the latest security patches and features.
-
-## Cons
-
-* **No Known Issues:** Currently, there are no known issues specific to crDroid Android 14 on the Pixel 2.
-
-## Conclusion
-
-crDroid Android 14 is a fantastic option for Pixel 2 users seeking a smooth, stable, and customizable Android experience. With its latest security patches, performance enhancements, and vanilla Android feel, crDroid breathes new life into your aging device.
-
-## Additional Information
-
-* You can find the latest crDroid Android 14 ROM for the Pixel 2 on the official crDroid website: [https://crdroid.net/walleye/10](https://crdroid.net/walleye/10)
-* Detailed installation instructions and troubleshooting tips can be found on XDA Developers forums and other online communities.
-
-**Disclaimer:** This article is for informational purposes only and does not constitute professional advice. The installation of custom ROMs is at your own risk.
-
+Kernel Source: https://github.com/LineageOS/android_kernel_google_marlin
 
 ## Download Link
-[Download ROM](https://sourceforge.net/projects/crdroid/files/walleye/10.x/)
+[Mirror ROM](https://t.me/wahyu6070files/1127)
 
-[Xda](https://xdaforums.com/t/rom-14-walleye-crdroid-10-2-official-23-02-2024.4652985)
+[Xda](https://xdaforums.com/t/official-lineageos-21-for-the-google-pixel-repartition-only.4656480/)
 
