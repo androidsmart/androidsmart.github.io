@@ -1,6 +1,9 @@
 {{ partial "meta/main.html" . }}
 <head>
 {{ partial "head.html" . }}
+{{ if .Params.codename }}
+<title>{{ .Page.Title | default .Site.Title }} ({{ .Params.codename }})</title>
+{{ end }}
 </head>
 <body>
 	{{ partial "navbar.html" . }}
