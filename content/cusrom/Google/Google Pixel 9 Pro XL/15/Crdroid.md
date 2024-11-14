@@ -43,5 +43,10 @@ CrDroid OS offers a compelling alternative to stock Android, bringing a plethora
 
 
 ## Download Link
-[Download ROM](/)
+[Download ROM](https://sourceforge.net/projects/crdroid/files/komodo/11.x/recovery/)
+
+
+[Source](https://crdroid.net/komodo/11)
+
+[ROM](https://sourceforge.net/projects/crdroid/files/komodo/11.x/)
 

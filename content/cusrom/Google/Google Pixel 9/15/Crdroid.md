@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Download Crdroid OS Android 14 Google Pixel 9
+title  : Download Crdroid OS Android 14 Google Pixel 9 (tokay)
 date   : 2024-09-01T09:17:35+07:00
 slug   : crdroid-a14-tokay
 categories: [rom]
@@ -47,5 +47,9 @@ If you're looking to breathe new life into your Google Pixel 9 and experience th
 
 
 ## Download Link
-[Download ROM](/)
+[Download ROM](https://sourceforge.net/projects/crdroid/files/tokay/11.x/)
+
+[Source](https://crdroid.net/tokay/11)
+
+[Recovery](https://sourceforge.net/projects/crdroid/files/tokay/11.x/recovery/)
 
