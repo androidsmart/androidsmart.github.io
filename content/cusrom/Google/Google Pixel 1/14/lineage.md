@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : LineageOS 21 Android 14 Google Pixel 2 (sailfish)
+title  : LineageOS 21 Android 14 Google Pixel 1 (sailfish)
 date   : 2024-11-13T09:17:35+07:00
 slug   : lineage-a14-sailfish
 categories: [rom]
