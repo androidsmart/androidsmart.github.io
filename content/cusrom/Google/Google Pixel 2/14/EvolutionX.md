@@ -1,7 +1,7 @@
 ---
 type   : cusrom
 title  : Download EvolutionX OS Android 14 Google Pixel 2
-date   : 2024-06-23T09:17:35+07:00
+date   : 2024-11-15T09:17:35+07:00
 slug   : evolutionX-a14-walleye
 categories: [rom]
 tags      : [walleye]

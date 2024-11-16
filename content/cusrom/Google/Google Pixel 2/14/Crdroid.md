@@ -1,7 +1,7 @@
 ---
 type   : cusrom
 title  : Download Crdroid OS Android 14 Google Pixel 2
-date   : 2024-06-16T09:17:35+07:00
+date   : 2024-11-16T09:17:35+07:00
 slug   : crdroid-a14-walleye
 categories: [rom]
 tags      : [walleye]
