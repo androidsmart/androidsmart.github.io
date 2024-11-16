@@ -1,3 +1,28 @@
-{{ define "main" }}
-<p style="text-align: center;"><strong>Page not found ! :(</strong></p>
-{{ end }}
+{{ partial "meta/main.html" . }}
+<head>
+{{ partial "meta/html.html" . }}
+<title>{{ .Page.Title | default .Site.Title }}</title>
+{{ partial "google/analytics.html" . }}
+{{ partial "google/tagmanager_head.html" . }}
+{{ partial "meta/opengraph.html" . }}
+{{ partial "meta/seo.html" . }}
+{{ partial "meta/twitter.html" . }}
+{{ partial "framework.html" . }}
+<link rel="shortcut icon" type="image/x-icon" href="{{ "favicon.ico" | relURL }}" />
+{{ partial "style.html" . }}
+</head>
+<body>
+{{ partial "navbar.html"  . }}
+<main class="container">
+
+<article>
+
+<p class="MID"><strong>Page not found ! :(</strong></p>
+
+
+</article>
+
+</main>
+{{ partial "footer.html" . }}
+</body>
+</html>
