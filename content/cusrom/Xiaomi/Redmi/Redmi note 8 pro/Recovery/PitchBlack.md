@@ -6,6 +6,7 @@ slug   : PitchBlack-begonia
 categories: [Recovery]
 tags      : [Begonia]
 keywords  : [Redmi Note 8 Pro]
+name_rom : pb
 author : 
 ---
 

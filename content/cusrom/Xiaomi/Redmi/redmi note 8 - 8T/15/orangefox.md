@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Download Orangefox Rexovery Android 12-15 Redmi Note 8 ginkgo
+title  : Download Orangefox Recovery Android 12-15 Redmi Note 8 ginkgo
 date   : 2024-10-22T09:17:35+07:00
 slug   : orangefox-a15-ginkgo
 categories: [rom]

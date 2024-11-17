@@ -6,6 +6,7 @@ slug   : orangefox-begonia
 categories: [Recovery]
 tags      : [Begonia]
 keywords  : [Redmi Note 8 pro]
+name_rom : orangefox
 author : 
 ---
 
