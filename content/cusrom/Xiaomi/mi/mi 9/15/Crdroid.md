@@ -1,14 +1,15 @@
 ---
 type   : cusrom
-title  : Crdroid OS Android 15 Poco F2 Pro (lmi)
-date   : 2024-11-04T09:17:35+07:00
-slug   : crdroid-a15-lmi
+title  : Crdroid OS Android 15 Xiaomi MI 9 (cepheu)s
+slug   : crdroid-a15-cepheus
+date   : 2024-11-18T09:17:35+07:00
 categories: [rom]
-tags      : [lmi]
-keywords  : [poco F2 Pro]
+tags      : [cepheus]
+keywords  : [xiaomi Mi 9]
+author : 
 ---
 
-Download Custom Rom Crdroid OS android 15 Of Xiaomi poco f2 Peo (lmi).
+Download Custom Rom Crdroid OS Android 15 For Xiaomi mi 9 (cepheus).
 
 ## Changelog
 * SystemUI: Fixed colored icons going blank
@@ -24,15 +25,14 @@ Download Custom Rom Crdroid OS android 15 Of Xiaomi poco f2 Peo (lmi).
 
 ## How To Install
 ### Pre-installation
-- Firmware V14.0.1.0.SJKMIXM mandatory (from download page, firmware button)
+- Firmware V12.5.6.0.RFACNXM mandatory (from download page, firmware button)
 - Optional gapps (from download page, gapps button)
 - Optional KernelSU apk (get it on releases from GitHub - click "show all assets" to see the apk)
-
-### First time installation (clean flash)
+- First time installation (clean flash):
 - Backup your data to PC, OTG flash drive
 - Make use of recovery (from download page, recovery button)
 - Boot recovery
-- Flash V14.0.1.0.SJKMIXM (skip if you are already on this version)
+- Flash V12.5.6.0.RFACNXM (skip if you are already on this version)
 - Flash crDroid 11.x
 - Reboot recovery
 - (optional) flash Gapps
@@ -41,12 +41,11 @@ Download Custom Rom Crdroid OS android 15 Of Xiaomi poco f2 Peo (lmi).
 - Format
 - Boot system
 
-## Link
 
-[ROM](https://sourceforge.net/projects/crdroid/files/lmi/11.x/)
+## Download Link
+[ROM](https://sourceforge.net/projects/crdroid/files/cepheus/11.x/)
 
-[Source](https://crdroid.net/lmi/11)
+[Recovery](https://sourceforge.net/projects/cepheus/files/recovery/OrangeFox-Unofficial-cepheus-A14retrofit-02Jan2024.zip/download)
 
-[Recovery](https://dl.akr-developers.com/?file=skkk/TWRP/A12/v3.6.1_A12/3.6.2_12-RedmiK30Pro_v3.6.1_A12-lmi-skkk_763e8812.img)
+[Firmware](https://xmfirmwareupdater.com/miui/cepheus/stable/V12.5.6.0.RFACNXM/)
 
-[Firmware](https://xmfirmwareupdater.com/firmware/lmi/stable/V14.0.1.0.SJKMIXM/(
