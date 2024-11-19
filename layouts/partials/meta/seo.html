@@ -1,7 +1,7 @@
 <meta name="color-scheme" content="light dark">
 
-<meta name="description" content="{{ .Description | default (.Summary | default .Site.Params.description ) }}">
-<meta property="og:description" content="{{ .Description | default (.Summary | default .Site.Params.description ) }}" />
+<meta name="description" content="{{ .Description | default ((.Summary | truncate 2l300 ) | default .Site.Params.description ) }}">
+<meta property="og:description" content="{{ .Description | default ((.Summary | truncate 300) | default .Site.Params.description ) }}" />
 
 <meta property="og:site_name" content="{{ .Title | default .Site.Title }}" />
 <meta property="og:type" content="website" />
