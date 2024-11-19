@@ -1,13 +1,11 @@
 <meta name="color-scheme" content="light dark">
 
-<meta name="description" content="{{ .Description | default ((.Summary | truncate 2l300 ) | default .Site.Params.description ) }}">
+<meta name="description" content="{{ .Description | default ((.Summary | truncate 300 ) | default .Site.Params.description ) }}">
 <meta property="og:description" content="{{ .Description | default ((.Summary | truncate 300) | default .Site.Params.description ) }}" />
-
 <meta property="og:site_name" content="{{ .Title | default .Site.Title }}" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="{{ .Title | default .Site.Title }}" />
-
 <!-- apple -->
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
