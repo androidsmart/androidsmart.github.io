@@ -8,7 +8,10 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="{{ .Title | default .Site.Title }}" />
 
-
+<!-- apple -->
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+        
 <meta name="author"  content="{{ .Site.Params.author | default .Page.Params.Author }}">
 
   {{- if .Page.Params.Excerpt }}
