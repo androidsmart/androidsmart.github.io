@@ -59,17 +59,7 @@ category = "categories"
 tag = "tags"
 
 
-[markup]
-  [markup.asciidocExt]
-    backend = 'html5'
-    extensions = []
-    failureLevel = 'fatal'
-    noHeaderOrFooter = true
-    preserveTOC = false
-    safeMode = 'unsafe'
-    sectionNumbers = false
-    trace = false
-    verbose = false
-    workingFolderCurrent = false
-    [markup.asciidocExt.attributes]
+[markup.goldmark.renderer]
+  unsafe = true # agar bisa menulis html di markdo
+  
     
