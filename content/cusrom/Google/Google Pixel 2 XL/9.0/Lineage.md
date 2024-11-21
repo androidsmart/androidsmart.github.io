@@ -1,7 +1,7 @@
 ---
 type   : cusrom
 title  : Download Lineage 16 OS Android 9.0 Google Pixel 2 XL (taimen).
-date   : 2024-11-12T09:17:35+07:00
+date   : 2024-11-09T09:17:35+07:00
 slug   : lineage-a9-taimen
 categories: [rom]
 tags      : [taimen]

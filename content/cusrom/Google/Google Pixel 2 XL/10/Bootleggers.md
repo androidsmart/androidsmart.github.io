@@ -1,7 +1,7 @@
 ---
 type   : cusrom
 title  : Download Bootleggers OS Android 10 Google Pixel 2 XL
-date   : 2024-11-21T09:17:35+07:00
+date   : 2024-11-10T09:17:35+07:00
 slug   : Bootleggers-a10-taimen
 categories: [rom]
 tags      : [taimen]

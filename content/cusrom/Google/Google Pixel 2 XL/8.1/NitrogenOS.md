@@ -1,7 +1,7 @@
 ---
 type   : cusrom
 title  : Download Nitrogen OS Android 8.1 Google Pixel 2 XL
-date   : 2024-11-21T09:17:35+07:00
+date   : 2024-11-08T09:17:35+07:00
 slug   : nitrogen-a8-taimen
 categories: [rom]
 tags      : [walleye]

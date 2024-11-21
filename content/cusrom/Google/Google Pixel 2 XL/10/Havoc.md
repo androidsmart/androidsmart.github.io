@@ -1,7 +1,7 @@
 ---
 type   : cusrom
 title  : Download Havoc OS Android 10 Google Pixel 2 XL
-date   : 2024-11-21T09:17:35+07:00
+date   : 2024-11-10T09:17:35+07:00
 slug   : havoc-a10-taimen
 categories: [rom]
 tags      : [taimen]
@@ -21,4 +21,4 @@ Just flash and enjoy...
 ## Download Link
 [Download ROM](https://androidfilehost.com/?w=files&flid=305825)
 
-[Havoc](https://xdaforums.com/t/rom-taimen-13-07-20-havoc-os-3-7-10-unofficial.4068605/)
+[Xda](https://xdaforums.com/t/rom-taimen-13-07-20-havoc-os-3-7-10-unofficial.4068605/)

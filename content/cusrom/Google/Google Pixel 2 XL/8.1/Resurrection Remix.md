@@ -1,7 +1,7 @@
 ---
 type   : cusrom
 title  : Download Resurrection Remix OS Android 8.1 Google Pixel 2 Xl
-date   : 2024-11-11T09:17:35+07:00
+date   : 2024-11-08T09:17:35+07:00
 slug   : Resurrection Remix-a81-taimen
 categories: [rom]
 tags      : [taimen]
