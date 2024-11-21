@@ -48,3 +48,6 @@ Before proceeding, **back up your data!** Flashing custom ROMs carries inherent 
 [ROM](https://sourceforge.net/projects/crdroid/files/a73xq/11.x/)
 
 [Recovery](https://sourceforge.net/projects/crdroid/files/a73xq/11.x/recovery/)
+
+[Source](https://crdroid.net/a73xq/11)
+

@@ -6,6 +6,7 @@ slug   : twrp-majito
 categories: [Recovery]
 tags      : [majito]
 keywords  : [Xiaomi Redmi Note 10]
+name_rom : twrp
 author :
 ---
 

@@ -5,6 +5,7 @@ date   : 2024-05-27T09:17:35+07:00
 slug   : twrp-redwood
 categories: [Recovery]
 tags      : [redwood]
+name_rom : twrp
 keywords  : [POCO X5 Pro 5G / Redmi Note 12 Pro Speed]
 author : 
 ---
