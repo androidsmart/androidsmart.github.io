@@ -1,16 +1,16 @@
 ---
 type   : cusrom
-title  : Crdroid OS Android 13.0 Google Pixel 2 (walleye)
+title  : Crdroid OS Android 13.0 Google Pixel 2 XL (taimen)
 date   : 2024-11-14T09:17:35+07:00
-slug   : Crdroid-a13-walleye
+slug   : Crdroid-a13-taimen
 categories: [rom]
-tags      : [walleye]
-keywords  : [Google Pixel 2]
+tags      : [taimen]
+keywords  : [Google Pixel 2 XL]
 name_rom : crdroid
 author :
 ---
 
-Download Custom Rom Crdroid OS android 13 Google Pixel 2 (walleye).
+Download Custom Rom Crdroid OS android 13 Google Pixel 2 XL (taimen).
 
 crDroid is designed to increase performance and reliability over stock Android for your device also attempting to bringing many of the best features existent today
 
@@ -22,8 +22,9 @@ crDroid is designed to increase performance and reliability over stock Android f
 
 
 ## Download Link
-[ROM](https://sourceforge.net/projects/crdroid/files/walleye/9.x/)
+[ROM](https://sourceforge.net/projects/crdroid/files/taimen/9.x/)
 
+[Recovery](https://s.go.ro/azp5foop)
 
 [Source](https://crdroid.net/walleye/9)
 

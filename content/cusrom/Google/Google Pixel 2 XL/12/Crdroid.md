@@ -1,34 +1,40 @@
 ---
 type   : cusrom
-title  : Crdroid OS Android 12 Google Pixel 2
-date   : 2024-11-15T09:17:35+07:00
-slug   : Crdroid-a12-walleye
+title  : Crdroid OS Android 12 Google Pixel 2 XL
+date   : 2024-11-22T09:17:35+07:00
+slug   : Crdroid-a12-taimen
 categories: [rom]
-tags      : [walleye]
-keywords  : [Google Pixel 2]
+tags      : [taimen]
+keywords  : [Google Pixel 2 XL]
 name_rom : crdroid
 author :
 ---
 
-Download Custom Rom Crdroid OS android 12 Google Pixel 2 (walleye).
+Download Custom Rom Crdroid OS android 12 Google Pixel 2 XL (taimen).
 
 crDroid is designed to increase performance and reliability over stock Android for your device also attempting to bringing many of the best features existent today
 
 ## Changelog
-- Fixed issue with factory reset.
-- Added option to add VPN.
-- Added crdroid gapps.
-- Fixed audio stuttering, when playing books in read aloud mode.
-- Fixed WFD lag, use lower resolution for seamless screen mirroring. 
-- Added Face unlock.
-- Added toggle to combine wifi and mobile signal icons (A12)
-- Added timeout feature for wifi and bluetooth
-- Trivial fixes and misc bionic optimizations
-- Misc fixes and improvements.
+* updated to crDroid 8.4 code
+* updated to sec. patch level 2022.04.05
+* added reTicker feature
+* added Smart Pixels
+* Improved Quick Tap
+* fixed the unlock sound played repeatedly
+* implemented LineageOS icons
+* Cleaned up vendor
+* Fixed Now Playing
+* Fixed Android Auto
+* Added Recorder with transcript
 
 
 ## Download Link
-[ROM](https://sourceforge.net/projects/crdroid/files/walleye/8.x/)
+[ROM](https://sourceforge.net/projects/crdroid/files/taimen/8.x/)
 
-[Source](https://crdroid.net/walleye/8)
+[Source](https://crdroid.net/taimen/8)
+
+[Recovery](https://dl.twrp.me/taimen/)
+
+[Firmware](https://dl.google.com/dl/android/aosp/taimen-rp1a.201005.004.a1-factory-2f5c4987.zip)
+
 

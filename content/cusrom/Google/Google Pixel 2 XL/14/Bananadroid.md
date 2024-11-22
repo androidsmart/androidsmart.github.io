@@ -1,16 +1,16 @@
 ---
 type   : cusrom
-title  : Bananadroid OS Android 14.0 Google Pixel 2 (walleye)
+title  : Bananadroid OS Android 14.0 Google Pixel 2 XL (taimen)
 date   : 2024-11-15T09:17:35+07:00
-slug   : bananadroid-a14-walleye
+slug   : bananadroid-a14-taimen
 categories: [rom]
-tags      : [walleye]
-keywords  : [Google Pixel 2]
+tags      : [taimem]
+keywords  : [Google Pixel 2 XL]
 name_rom : bananadroid
 author :
 ---
 
-Download Custom Rom Banandroid OS android 14 Google Pixel 2 (walleye).
+Download Custom Rom Banandroid OS android 14 Google Pixel 2 XL (taimen).
 
 An ordinary Android Custom ROM made by an ordinary person
 
@@ -33,7 +33,7 @@ Created: 04 Feb 2024
 Last update: 04 Feb 2024
 
 ## Download Link
-[ROM](https://sourceforge.net/projects/bananadroid/files/walleye/GApps/)
+[ROM](https://sourceforge.net/projects/bananadroid/files/taimen/)
 
-[Source](https://xdaforums.com/t/rom-14-0-walleye-bananadroid-official.4654559/)
+[Source](https://xdaforums.com/t/rom-14-0-taimen-bananadroid-official.4654561/)
 

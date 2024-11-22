@@ -1,16 +1,16 @@
 ---
 type   : cusrom
-title  : Bananadroid OS Android 13.0 Google Pixel 2 (walleye)
+title  : Bananadroid OS Android 13.0 Google Pixel 2 XL (taimen)
 date   : 2024-11-14T09:17:35+07:00
-slug   : bananadroid-a13-walleye
+slug   : bananadroid-a13-taimen
 categories: [rom]
-tags      : [walleye]
-keywords  : [Google Pixel 2]
+tags      : [taimen]
+keywords  : [Google Pixel 2 XL]
 name_rom : bananadroid
 author :
 ---
 
-Download Custom Rom Banandroid OS android 13 Google Pixel 2 (walleye).
+Download Custom Rom Banandroid OS android 13 Google Pixel 2 XL (taimen).
 
 An ordinary Android Custom ROM made by an ordinary person
 
@@ -30,7 +30,8 @@ Source code: BananaDroid
 Created: 26 May 2023
 
 ## Download Link
-[ROM](https://sourceforge.net/projects/bananadroid/files/walleye/)
+[ROM](https://sourceforge.net/projects/bananadroid/files/taimen/)
 
-[Source](https://xdaforums.com/t/rom-13-0-walleye-bananadroid-official.4599229/)
+[Source](https://xdaforums.com/t/rom-14-0-taimen-bananadroid-official.4654561/)
 
+[Recovery](https://sourceforge.net/projects/bananadroid/files/taimen/Recovery/boot.img/download)
