@@ -1,20 +1,15 @@
 ---
 type   : cusrom
-title  : Download Hentai OS Android 13 Google Pixel 3 (blueline)
+title  : Download Arrow OS Android 13 Google Pixel 3 (blueline)
 date   : 2024-11-24
-slug   : hentai-a13-blueline
+slug   : arrow-a13-blueline
 categories: [rom]
 tags      : [blueline]
 keywords  : [Google Pixel 3]
 author :
 ---
 
-Download Custom Rom Hentai OS android 13 Google Pixel 3 (Blueline).
-
-## Changelog
-- QRP3 June SPL
-- Fix Adaptive Charging
-- Introduce EROFS for product and system_ext partitions
+Download Custom Rom Arrow OS android 13 Google Pixel 3 (Blueline).
 
 ## Installation Guide
 - Flash latest Android 12 Factory image to both slots
@@ -26,6 +21,5 @@ Download Custom Rom Hentai OS android 13 Google Pixel 3 (Blueline).
 
 
 ## Download Link
-[Download ROM](https://sourceforge.net/projects/bluecrosshosbuilds/files/Blueline/)
-
+[Download ROM](https://sourceforge.net/projects/reallysnow-rom/files/Google/blueline/ArrowOS/arrow-13.0/)
 

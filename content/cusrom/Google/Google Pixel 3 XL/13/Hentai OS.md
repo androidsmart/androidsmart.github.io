@@ -1,15 +1,15 @@
 ---
 type   : cusrom
-title  : Download Hentai OS Android 13 Google Pixel 3 (blueline)
+title  : Download Hentai OS Android 13 Google Pixel 3 XL (crosshatch)
 date   : 2024-11-24
-slug   : hentai-a13-blueline
+slug   : hentai-a13-crosshatch
 categories: [rom]
-tags      : [blueline]
-keywords  : [Google Pixel 3]
+tags      : [crosshatch]
+keywords  : [Google Pixel 3 XL]
 author :
 ---
 
-Download Custom Rom Hentai OS android 13 Google Pixel 3 (Blueline).
+Download Custom Rom Hentai OS android 13 Google Pixel 3 XL (crosshatch).
 
 ## Changelog
 - QRP3 June SPL
@@ -26,6 +26,6 @@ Download Custom Rom Hentai OS android 13 Google Pixel 3 (Blueline).
 
 
 ## Download Link
-[Download ROM](https://sourceforge.net/projects/bluecrosshosbuilds/files/Blueline/)
+[Download ROM](https://sourceforge.net/projects/bluecrosshosbuilds/files/official/)
 
 
