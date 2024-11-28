@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Download LineageOS 22 Android 15 Xiaomi Mi Pad 6 (pipa)
+title  : Download LineageOS 22 Android 15 Xiaomi Pad 6 (pipa)
 slug   : lineage-a15-pipa
 date   : 2024-11-28
 categories: [rom]
@@ -10,7 +10,7 @@ keywords  : [Xiaomi Pad 6]
 author : tu4wkl
 ---
 
-Download Custom Rom LineageOS 22 Android 15 For Xiaomi Mi Pad 6 (pipa).
+Download Custom Rom LineageOS 22 Android 15 For Xiaomi Pad 6 (pipa).
 
 ## Changelog
 - Initial Android 15 Build

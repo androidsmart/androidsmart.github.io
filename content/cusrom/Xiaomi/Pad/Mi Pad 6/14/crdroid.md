@@ -1,15 +1,16 @@
 ---
 type   : cusrom
-title  : Download Crdroid OS Android 14 Xiaomi Mi Pad 6
+title  : Download Crdroid OS Android 14 Xiaomi Pad 6 (pipa)
 slug   : crdroid-a14-pipa
 date   : 2024-07-04T09:17:35+07:00
 categories: [rom]
 tags      : [pipa]
-keywords  : [Mi Pad 6]
+name_rom : crdroid
+keywords  : [Xiaomi Pad 6]
 author : 
 ---
 
-Download Custom Rom Crdroid Android 14 For Xiaomi Mi Pad 6 (pipa)
+Download Custom Rom Crdroid Android 14 For Xiaomi Pad 6 (pipa)
 
 ## crDroid Android 14 on Xiaomi Pad 6: A Deep Dive
 

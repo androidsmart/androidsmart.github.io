@@ -1,15 +1,16 @@
 ---
 type   : cusrom
-title  : Download LineageOS 21 Android 14 Xiaomi Mi Pad 6
+title  : Download LineageOS 21 Android 14 Xiaomi Pad 6
 slug   : lineage-a14-pipa
 date   : 2024-07-04T09:17:35+07:00
 categories: [rom]
+name_rom : lineage
 tags      : [pipa]
-keywords  : [Mi Pad 6]
+keywords  : [Xiaomi Pad 6]
 author : 
 ---
 
-Download Custom Rom LineageOS 21 Android 14 For Xiaomi Mi Pad 6 (pipa).
+Download Custom Rom LineageOS 21 Android 14 For Xiaomi Pad 6 (pipa).
 
 **LineageOS Android 14 for Xiaomi Pad 6: Unleashing a Pure and Modern Android Experience**
 
