@@ -1,7 +1,7 @@
 ---
 type   : cusrom
 title  : Download Rom Lineage OS 21 Android 14 Google Pixel 3a XL
-date   : 2024-06-08T09:17:35+07:00
+date   : 2024-06-08
 slug   : lineage21-a14-bonito
 categories: [rom]
 tags      : [bonito]

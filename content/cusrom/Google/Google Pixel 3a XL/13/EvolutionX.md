@@ -1,7 +1,7 @@
 ---
 type   : cusrom
 title  : Download EvolutionX OS Android 13 For Google Pixel 3a XL
-date   : 2024-06-24T09:17:35+07:00
+date   : 2024-06-24
 slug   : evolutionx-a13-bonito
 categories: [rom]
 tags      : [bonito]
