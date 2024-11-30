@@ -4,6 +4,7 @@ title  : Download EvolutionX OS Android 13 For Google Pixel 3a XL
 date   : 2024-06-24
 slug   : evolutionx-a13-bonito
 categories: [rom]
+name_rom : evolutionx
 tags      : [bonito]
 keywords  : [Google Pixel 3a XL]
 author :
