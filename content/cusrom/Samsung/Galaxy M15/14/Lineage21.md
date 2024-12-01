@@ -59,5 +59,5 @@ LineageOS 21 opens up a world of possibilities for your Samsung Galaxy M15. With
 
 
 ## Download Link
-[ROM](/)
+[ROM](/null)
 
