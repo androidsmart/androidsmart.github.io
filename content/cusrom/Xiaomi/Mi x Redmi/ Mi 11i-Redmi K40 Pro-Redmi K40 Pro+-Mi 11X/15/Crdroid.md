@@ -1,15 +1,15 @@
 ---
 type   : cusrom
-title  : Download Crdroid OS Android 15 MI 11X Pro
+title  : Download Crdroid OS Android 15 Mi 11i | Redmi K40 Pro | Redmi K40 Pro+ | Mi 11X
 slug   : crdroid-a15-hydn
 date   : 2024-06-05T09:17:35+07:00
 categories: [rom]
 tags      : [hydn]
 name_rom : crdroid
-keywords  : [Xiaomi Mi 11X Pro]
+keywords  : [Mi 11i | Redmi K40 Pro | Redmi K40 Pro+ | Mi 11X]
 ---
 
-Download Custom Rom Crdroid OS Android 15 For MI 11X Pro (hydn)
+Download Custom Rom Crdroid OS Android 15 For Mi 11i | Redmi K40 Pro | Redmi K40 Pro+ | Mi 11X (hydn)
 
 ## Changelog
 - initial release 

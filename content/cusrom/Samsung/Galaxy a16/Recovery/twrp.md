@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Download TWRP Recovery For Samsung Galaxy A15 SM-A155F
+title  : Download TWRP Recovery For Samsung Galaxy A16 SM-A155F
 date   : 2024-06-02T09:17:35+07:00
 slug   : twrp-SM-A155F
 categories: [Recovery]
@@ -18,5 +18,5 @@ Download Custom Recovery TWRP Latest version for Samsung Galaxy A15 SM-A155F.
 - Probing of NQ-NCI driver has been stopped when the HWC prop is detected as INDIA.
 
 ## Download Link
-[Download](https://dl.twrp.me/a15/)
+[Download](/)
 

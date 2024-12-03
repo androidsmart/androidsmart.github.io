@@ -1,14 +1,14 @@
 ---
 type   : cusrom
-title  : Download Crdroid OS Android 14 MI 11X Pro
+title  : Download Crdroid OS Android 14 Mi 11i | Redmi K40 Pro | Redmi K40 Pro+ | Mi 11X
 slug   : crdroid-a14-hydn
 date   : 2024-06-05T09:17:35+07:00
 categories: [rom]
 tags      : [hydn]
-keywords  : [Xiaomi Mi 11X Pro]
+keywords  : [Mi 11i | Redmi K40 Pro | Redmi K40 Pro+ | Mi 11X]
 ---
 
-Download Custom Rom Crdroid OS Android 14 For MI 11X Pro (hydn)
+Download Custom Rom Crdroid OS Android 14 For Mi 11i | Redmi K40 Pro | Redmi K40 Pro+ | Mi 11X (hydn)
 
 crDroid Android 14 for Xiaomi Mi 11X Pro (haydn): Expected Features and Changes
 

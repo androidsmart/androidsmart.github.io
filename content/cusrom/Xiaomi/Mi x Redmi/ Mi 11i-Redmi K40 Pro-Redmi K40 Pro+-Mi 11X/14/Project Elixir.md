@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Project Elixir Android 14 Mi 11i | Redmi K40 Pro | Redmi K40 Pro+ | Mi 11X
+title  : Project Elixir OS Android 14 Mi 11i | Redmi K40 Pro | Redmi K40 Pro+ | Mi 11X
 slug   : elixir-a14-haydn
 date   : 2024-06-26T09:17:35+07:00
 categories: [rom]
