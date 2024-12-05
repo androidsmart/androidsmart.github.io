@@ -4,12 +4,12 @@ title  : Download Reloaded CAF Android 13 Poco M3 / Redmi 9T / Redmi 9 Power / R
 date   : 2024-08-27T09:17:35+07:00
 slug   : reloaded-a13-crime
 categories: [rom]
-tags      : [crime]
+tags      : [crime-juice]
 keywords  : [Poco M3 / Redmi 9T / Redmi 9 Power / Redmi Note 9 4G]
 author : 
 ---
 
-Download Custom Rom Reloaded CAF OS android 10 Poco M3 / Redmi 9T / Redmi 9 Power / Redmi Note 9 4G (Crime)
+Download Custom Rom Reloaded CAF OS android 10 Poco M3 / Redmi 9T / Redmi 9 Power / Redmi Note 9 4G (crime-juice)
 
 ## Reloaded CAF Android 10: A Performance Boost for Your Poco M3
 

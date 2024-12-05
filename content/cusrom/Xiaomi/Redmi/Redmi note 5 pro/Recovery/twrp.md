@@ -5,6 +5,7 @@ date   : 2024-06-21T09:17:35+07:00
 slug   : twrp-whyred
 categories: [recovery]
 tags      : [whyred]
+name_rom : twrp
 keywords  : [Redmi Note 5 pro]
 author : 
 ---

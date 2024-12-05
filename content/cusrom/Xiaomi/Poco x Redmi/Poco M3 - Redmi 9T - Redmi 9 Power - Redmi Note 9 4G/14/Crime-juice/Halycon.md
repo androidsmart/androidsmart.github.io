@@ -4,10 +4,9 @@ title  : Halcyon OS Android 14 POCO M3 - Redmi 9T (Chime/Juice)
 date   : 2024-08-28T09:17:35+07:00
 slug   : halcyon-a14-crime
 categories: [rom]
-tags : [crime]
+tags : [crime-juice]
 keywords  : [POCO M3 - Redmi 9T]
-device : 
-codename : crime
+codename : crime-juice
 ---
 
 Download Custom Rom Halcyon OS android 14  for poco M3 - Redmi 9T (Crime/Juice).

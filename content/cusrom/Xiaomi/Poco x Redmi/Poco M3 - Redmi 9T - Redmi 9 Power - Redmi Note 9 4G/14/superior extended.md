@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Superior Extended Android 14 Poco M3 Citrus
+title  : Superior Extended Android 14 Poco M3 (Citrus)
 date   : 2024-04-19T09:17:35+07:00
 slug   : superiorextedended-a14-citrus
 categories: [rom]
@@ -9,7 +9,7 @@ device : poco m3
 codename : citrus
 ---
 
-Download Custom Rom Superior Extended android 14  for poco M3 Citrus.
+Download Custom Rom Superior Extended android 14  for poco M3 (Citrus).
 
 ## Changelog
 Superior-Extended OS (Highlighted Changes)

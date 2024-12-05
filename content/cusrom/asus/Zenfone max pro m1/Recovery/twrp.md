@@ -1,15 +1,16 @@
 ---
 type   : cusrom
-title  : Download Twrp Latest Version Asus Zenfone Max Pro M1 X00T
+title  : Download TWRP RecoveryAsus Zenfone Max Pro M1 X00T
 date   : 2024-03-08T09:17:35+07:00
 slug   : twrp-X00T
 categories: [Recovery]
 tags      : [X00T]
-keywords  : [Twrp]
+name_rom : twrp
+keywords  : [Asus Zenfone Max Pro M1]
 author : 
 ---
 
-Download Custom Recovery Twrp Latest version for Asus Zenfone Max Pro M1 X00T
+Download Custom Recovery Twrp Latest version for Asus Zenfone Max Pro M1 (X00T).
 
 ## Changelog
 - Synced latest TWRP sources as of 13th January 2024 
@@ -18,7 +19,7 @@ Download Custom Recovery Twrp Latest version for Asus Zenfone Max Pro M1 X00T
 - Added fastbootd
 
 ## Note
-Android 11 to 14 supported
+Android 11 to 15 supported
 
 ## Download Link
 [Download](https://www.pling.com/p/2106780/)

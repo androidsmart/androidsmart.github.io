@@ -60,4 +60,4 @@ Bliss OS Android 12 takes your Asus ROG Phone 3 to the next level, offering a un
 
 
 ## Download Link
-[Download ROM](http://downloads.blissroms.org/download_check/obiwan/)
+[Download ROM](https://downloads.blissroms.org/download/obiwan/)
