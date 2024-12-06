@@ -29,7 +29,10 @@ Download Custom Rom Lineage OS 21 Android 14 Xiaomi POCO X5 Pro 5G - Redmi Note 
 By: @ThePriyanshuJangid
 
 ## Link
+### Unofficial by ThePriyanshuJangid
 [Vanilla](https://t.me/redwoodmirror/133?single)
 
 [Recovery](https://github.com/thepriyanshujangid/Changelogs/releases/tag/recovery)
 
+### lineage os ext Unoficial by mayur_u
+[ROM](https://github.com/TRR-labs/rom_releases/releases/tag/losext-21-20241123)
