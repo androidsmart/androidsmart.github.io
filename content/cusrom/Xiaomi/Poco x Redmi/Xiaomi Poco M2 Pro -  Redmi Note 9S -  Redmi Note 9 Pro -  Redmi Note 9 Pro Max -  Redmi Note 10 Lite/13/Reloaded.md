@@ -2,7 +2,7 @@
 type   : cusrom
 title  : Download Reloaded CAF OS Android 13 Poco M2 Pro - Redmi Note 9S - Redmi Note 9 Pro - Redmi Note 9 Pro Max - Redmi Note 10 Lite
 date   : 2024-06-13T09:17:35+07:00
-slug   : awaken-a14-miatol
+slug   : reloaded-a13-miatol
 categories: [rom]
 tags      : [miatol]
 keywords  : [Poco M2 Pro - Redmi Note 9S - Redmi Note 9 Pro - Redmi Note 9 Pro Max - Redmi Note 10 Lit]

@@ -4,6 +4,7 @@ title  : Download LineageOS Ext Android 14 POCO X5 Pro 5G - Redmi Note 12 Pro Sp
 slug   : lineageext-a14-redwood
 date   : 2024-05-13T09:17:35+07:00
 categories: [rom]
+name_rom : lineage
 tags      : [redwood]
 keywords  : [POCO X5 Pro 5G/Redmi Note 12 Pro Speed]
 ---
@@ -24,4 +25,4 @@ This support Redmi 12 Pro SE
 
 
 ## Link
-[Gapps](https://github.com/Thereache/releases/releases/download/lineage-21/lineage-21.0-Ext-Community-redwood-Gapps-20240502-1519.zip(
+[Gapps](https://github.com/Thereache/releases/releases/download/lineage-21/lineage-21.0-Ext-Community-redwood-Gapps-20240502-1519.zip)

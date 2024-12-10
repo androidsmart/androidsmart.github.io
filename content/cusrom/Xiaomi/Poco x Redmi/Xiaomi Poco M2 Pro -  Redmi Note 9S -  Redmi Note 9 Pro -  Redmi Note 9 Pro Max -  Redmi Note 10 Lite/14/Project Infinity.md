@@ -64,5 +64,8 @@ Project Infinity is a testament to the ingenuity and dedication of the Android c
 By iHSAN
 
 ## Download Link
-[Download ROM](https://devuploads.com/esp4fc3zifp2)
+[Download ROM](https://devuploads.com/zr50lr1ij0i6)
+
+[Link 2](https://drive.google.com/uc?id=1njpGj-aNBw4GZ1Lawo4-Lt2xK1T-OOKJ&export=download)
+
 
