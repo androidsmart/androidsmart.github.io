@@ -1,6 +1,6 @@
 ---
 type   : cusrom
-title  : Download Derpfest OS Android 15 Poco F1 Beryllium
+title  : Download Derpfest OS Android 15 Poco F1 (Beryllium)
 date   : 2024-09-09T09:17:35+07:00
 slug   : derpfest-a15-beryllium
 categories: [rom]
@@ -10,7 +10,7 @@ name_rom : derpfest
 author : amansingh
 ---
 
-Download Custom rom Derpfest OS android 15 Xiaomi Redmi Poco F1 (beryllium).
+Download Custom Rom Derpfest OS android 15 Xiaomi Redmi Poco F1 (beryllium).
 
 
 DerpFest is a custom ROM based on AOSP (Android Open Source Project) that adds a unique touch and exciting features from the Android development community. With a focus on quality and stability, DerpFest now comes with Android 15, providing a fresh and cutting-edge user experience.

@@ -10,7 +10,7 @@ name_rom : genesis
 author : Legendleo90
 ---
 
-Download Custom rom Genesis OS android 15 Xiaomi Redmi Poco F1 (beryllium).
+Download Custom ROM Genesis OS android 15 Xiaomi Redmi Poco F1 (beryllium).
 
 ## Source Changelog
 - Navigation Bar Tuning: Options to invert layout and hide gestural navbar.
