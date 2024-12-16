@@ -1,10 +1,11 @@
 ---
 type   : cusrom
-title  : Download Crdroid OS Android 14 Redmi Note 10
+title  : Crdroid OS Android 14 Redmi Note 10
 date   : 2024-06-16T09:17:35+07:00
 slug   : crdroid-a14-majito
 categories: [rom]
 tags      : [majito]
+name_rom : crdroid
 keywords  : [redmi note 10]
 author :
 ---
