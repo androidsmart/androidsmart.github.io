@@ -1,5 +1,9 @@
 {{ partial "meta/html.html" . }}
+{{ if .Params.codename }}
+<title>{{ .Page.Title | default .Site.Title }} ({{ .Params.codename }})</title>
+{{ else }}
 <title>{{ .Page.Title | default .Site.Title }}</title>
+{{ end }}
 {{ partial "google/tagmanager_head.html" . }}
 {{ partial "google/searchconsole.html" . }}
 {{ partial "google/analytics.html" . }}

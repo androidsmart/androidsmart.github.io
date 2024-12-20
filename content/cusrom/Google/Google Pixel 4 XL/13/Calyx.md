@@ -1,0 +1,15 @@
+---
+type   : cusrom
+title  : Calyx OS Android 13 Google Pixel 4 XL
+date   : 2022-06-17T09:17:35+07:00
+slug   : calyx-a13-coral
+categories: [rom]
+tags      : [coral]
+keywords  : [Google Pixel 4 XL]
+author :
+---
+
+Download Custom Rom Calyx OS android 13 Google Pixel 4 XL (coral)
+
+## Download Link
+[Download ROM](https://calyxos.org/install/devices/coral)
