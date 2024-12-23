@@ -1,6 +1,8 @@
 {{ define "list" }}
 <main class="container">
 <h1>{{ .Title }}</h1>
+<p>Download {{ .Title }} ({{ .Params.codename }}) {{ .Pages }}
+</p>
 {{ if .Params.menu }}
 <h2>Custom ROMs & Recovery</h2>
 {{ range .Pages }}
