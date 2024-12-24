@@ -62,7 +62,7 @@ Installing TWRP recovery on your Poco X3 (Surya) can unlock a world of possibili
 ### Unofficial by brigudav
 [TWRP A12+](https://sourceforge.net/projects/surya-twrp/files/POCO%20X3/TWRP/stable/twrp-3.7.1_12-1-surya-19.06.img/download)
 
-[Old Version](https://sourceforge.net/projects/surya-twrp/files/POCO X3/TWRP/)
+[Old Version](https://sourceforge.net/projects/surya-twrp/files/POCO%20X3/)
 
 [Zip Flashable](https://github.com/brigudav/android_device_xiaomi_surya_twrp/releases/latest)
 

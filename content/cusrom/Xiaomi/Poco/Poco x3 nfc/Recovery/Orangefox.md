@@ -6,6 +6,7 @@ slug   : orangefox-surya
 categories: [Recovery]
 tags      : [surya]
 keywords  : [Poco X3]
+name_rom : orangefox
 author : brigudav
 ---
 

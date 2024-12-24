@@ -27,6 +27,6 @@ Download Custom Rom Baikal OS Android 13 POCO X3 NFC (Surya).
 ## Download Link
 [Download ROM](https://disk.yandex.com/d/dtu4Vt2paXkVEw/A13/surya/dev-official/)
 
-[mirror](https://t.me/suryarom/1005)
+[Mirror](https://t.me/suryarom/1005)
 
-		
+[Mirror 3](https://sourceforge.net/projects/baikalos/files/surya/)
