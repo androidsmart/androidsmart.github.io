@@ -1,11 +1,12 @@
 ---
 type   : cusrom
-title  : Download Twrp Recovery Xiaomi Poco x3 (Surya)
+title  : TWRP Recovery Xiaomi Poco x3 (Surya)
 date   : 2024-06-01T09:17:35+07:00
 slug   : twrp-surya
 categories: [Recovery]
 tags      : [surya]
-keywords  : [Twrp]
+keywords  : [POCO X3]
+name_rom : twrp
 author : brigudav
 ---
 
